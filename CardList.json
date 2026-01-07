@@ -5,14 +5,14 @@
     "face": {
       "front": {
         "name": "Dynal",
-        "type": false,
+        "type": "Vivosaur",
         "cost": 0,
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/A/A00_Dynal.png?token=GHSAT0AAAAAADSVYXSU6PGXABW4TKWRZWRW2K6IUYQ",
         "isHorizontal": false
       }
     },
     "name": "Dynal",
-    "type": false,
+    "type": "Vivosaur",
     "cost": 0
   },
   "A01": {
@@ -21,14 +21,14 @@
     "face": {
       "front": {
         "name": "T-Rex",
-        "type": false,
+        "type": "Vivosaur",
         "cost": 0,
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/A/A01_T-Rex.png?token=GHSAT0AAAAAADSVYXSU5WJWI4WHCFPRNDSU2K6IYFQ",
         "isHorizontal": false
       }
     },
     "name": "T-Rex",
-    "type": false,
+    "type": "Vivosaur",
     "cost": 0
   },
   "A02": {
@@ -37,14 +37,14 @@
     "face": {
       "front": {
         "name": "S-Raptor",
-        "type": false,
+        "type": "Vivosaur",
         "cost": 0,
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/A/A02_S-Raptor.png?token=GHSAT0AAAAAADSVYXSU7GLBKPVQSKT7TLV42K6I2AQ",
         "isHorizontal": false
       }
     },
     "name": "S-Raptor",
-    "type": false,
+    "type": "Vivosaur",
     "cost": 0
   },
   "A03": {
@@ -53,14 +53,14 @@
     "face": {
       "front": {
         "name": "Giganto",
-        "type": false,
+        "type": "Vivosaur",
         "cost": 0,
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/A/A03_Giganto.png?token=GHSAT0AAAAAADSVYXSUDZHJ7TBO5GLLIK5U2K6I2DA",
         "isHorizontal": false
       }
     },
     "name": "Giganto",
-    "type": false,
+    "type": "Vivosaur",
     "cost": 0
   },
   "A04": {
@@ -69,14 +69,14 @@
     "face": {
       "front": {
         "name": "Nychus",
-        "type": false,
+        "type": "Vivosaur",
         "cost": 0,
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/A/A04_Nychus.png?token=GHSAT0AAAAAADSVYXSV2XTOGBLPKNEIGESE2K6I2EQ",
         "isHorizontal": false
       }
     },
     "name": "Nychus",
-    "type": false,
+    "type": "Vivosaur",
     "cost": 0
   },
   "A05": {
@@ -85,14 +85,14 @@
     "face": {
       "front": {
         "name": "U-Raptor",
-        "type": false,
+        "type": "Vivosaur",
         "cost": 0,
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/A/A05_U-Raptor.png?token=GHSAT0AAAAAADSVYXSUC6OTBGUJ3VHHTGE22K6I2GQ",
         "isHorizontal": false
       }
     },
     "name": "U-Raptor",
-    "type": false,
+    "type": "Vivosaur",
     "cost": 0
   },
   "A06": {
@@ -101,14 +101,14 @@
     "face": {
       "front": {
         "name": "Breme",
-        "type": false,
+        "type": "Vivosaur",
         "cost": 0,
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/A/A06_Breme.png?token=GHSAT0AAAAAADSVYXSUCF6N5SHY2Q557PUM2K6I2JA",
         "isHorizontal": false
       }
     },
     "name": "Breme",
-    "type": false,
+    "type": "Vivosaur",
     "cost": 0
   },
   "A07": {
@@ -117,14 +117,14 @@
     "face": {
       "front": {
         "name": "Daspleto",
-        "type": false,
+        "type": "Vivosaur",
         "cost": 0,
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/A/A07_Daspleto.png?token=GHSAT0AAAAAADSVYXSV2CSPEK3SA2YIB4P62K6I2LA",
         "isHorizontal": false
       }
     },
     "name": "Daspleto",
-    "type": false,
+    "type": "Vivosaur",
     "cost": 0
   },
   "A31": {
@@ -133,14 +133,14 @@
     "face": {
       "front": {
         "name": "Dino",
-        "type": false,
+        "type": "Vivosaur",
         "cost": "2",
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/A/A31_Dino.png?token=GHSAT0AAAAAADSVYXSVSXSS7XCACUFW4N5S2K6I3MQ",
         "isHorizontal": false
       }
     },
     "name": "Dino",
-    "type": false,
+    "type": "Vivosaur",
     "cost": "2"
   },
   "A32": {
@@ -149,14 +149,14 @@
     "face": {
       "front": {
         "name": "Dina",
-        "type": false,
+        "type": "Vivosaur",
         "cost": "2",
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/A/A32_Dina.png?token=GHSAT0AAAAAADSVYXSVDQG6G7TRGGA3LQJM2K6I3OA",
         "isHorizontal": false
       }
     },
     "name": "Dina",
-    "type": false,
+    "type": "Vivosaur",
     "cost": "2"
   },
   "A48": {
@@ -165,14 +165,14 @@
     "face": {
       "front": {
         "name": "Fossil Stadium",
-        "type": false,
+        "type": "Vivosaur",
         "cost": "2",
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/A/A48_Fossil_Stadium.png?token=GHSAT0AAAAAADSVYXSUMOR3XYHRRJKIZXQI2K6I3RA",
         "isHorizontal": false
       }
     },
     "name": "Fossil Stadium",
-    "type": false,
+    "type": "Vivosaur",
     "cost": "2"
   }
 }
