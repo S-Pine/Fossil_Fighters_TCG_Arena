@@ -200,17 +200,18 @@
     "face": {
       "front": {
         "name": "Fossil Stadium",
-        "type": "Vivosaur",
+        "type": "Action",
         "cost": "2",
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/A/A48_Fossil_Stadium.png",
         "isHorizontal": false
       }
     },
     "name": "Fossil Stadium",
-    "type": "Vivosaur",
+    "type": "Action",
     "cost": "2",
     "Action": "Arena",
-    "FP Charge": "2"
+    "FP Charge": "",
+    "FP Cost": "2"
   },
   "A23": {
     "id": "A23",
@@ -291,14 +292,14 @@
       }
     },
     "name": "Smashing Success",
-    "type": "Token",
+    "type": "Action",
     "cost": "1",
     "Element": "",
     "Range": "",
     "Trait": "",
     "Action": "Assist",
     "FP Cost": "1",
-    "FP Charge": 0
+    "FP Charge": ""
   },
   "A46": {
     "id": "A46",
