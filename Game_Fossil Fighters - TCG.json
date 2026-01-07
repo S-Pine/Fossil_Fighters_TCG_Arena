@@ -12,7 +12,7 @@
   "customHelp": "Welcome to the Fossil Fighters TCG Project! This Project is a fan made TCG based on the Nintendo DS game of the same name. More to be added after further testing!",
   "cardRotation": "90",
   "cards": {
-    "dataUrl": "https://github.com/SleepySalada/Fossil_Fighters_TCG_Arena/blob/main/CardList.json",
+    "dataUrl": "https://sleepysalada.github.io/Fossil_Fighters_TCG_Arena/CardList.json",
     "cardBack": "https://cdn.discordapp.com/attachments/781636530937528391/1458384083884445829/vivosaur_sleeves_2.png?ex=695f7185&is=695e2005&hm=c4b0e8666710c6ddbb4d60968225ff025b8f9e3282faa40fe70ef22f169345fa&"
   },
   "deckBuilding": {
