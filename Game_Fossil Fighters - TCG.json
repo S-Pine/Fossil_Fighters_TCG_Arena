@@ -1,11 +1,10 @@
 {
   "name": "Fossil Fighters - TCG",
-  "menuBackgroundImage": "https://cdn.discordapp.com/attachments/781636530937528391/1458406110942990485/image.png?ex=695f8608&is=695e3488&hm=25827ea4a0bcb176ed18b882978b2eb5c277aeacc83fc70dc36e708cbf5cda7d&",
+  "menuBackgroundImage": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/Banner/Banner_O_Raptor.png",
   "defaultRessources": {
     "backgrounds": [
-      "https://media.discordapp.net/attachments/781636530937528391/1458382111131177062/Updated_Basic_FFTCG_Playmat_3.png?ex=695f6fae&is=695e1e2e&hm=1d137e3f419f730220d6f97ae83e691099f3a10697d9654397945956fd952e10&=&format=webp&quality=lossless&width=912&height=456",
-      "https://media.discordapp.net/attachments/781636530937528391/1458382145335722036/Updated_Basic_FFTCG_Playmat_1.png?ex=695f6fb6&is=695e1e36&hm=85c7828fb7c0cc68cd5746f1c9d7d111484e5f822d77b184ce2f1feba08f85ad&=&format=webp&quality=lossless&width=912&height=456",
-      "https://media.discordapp.net/attachments/781636530937528391/1458382157146882128/Updated_Basic_FFTCG_Playmat.png?ex=695f6fb9&is=695e1e39&hm=f09a239351ebe0eaaba7565a1f5a5a8e751f4dc118120d827dde770aed88f618&=&format=webp&quality=lossless&width=912&height=456"
+      "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/Playmats/FFTCG_Playmat_Giganto.png",
+      "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/Playmats/FFTCG_Playmat_O_Raptor.png",
     ],
     "decksUrl": ""
   },
@@ -13,7 +12,7 @@
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://sleepysalada.github.io/Fossil_Fighters_TCG_Arena/CardList.json",
-    "cardBack": "https://cdn.discordapp.com/attachments/781636530937528391/1458384083884445829/vivosaur_sleeves_2.png?ex=695f7185&is=695e2005&hm=c4b0e8666710c6ddbb4d60968225ff025b8f9e3282faa40fe70ef22f169345fa&"
+    "cardBack": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/Cardbacking/vivosaur%20sleeves%201.png"
   },
   "deckBuilding": {
     "mainFilters": [
