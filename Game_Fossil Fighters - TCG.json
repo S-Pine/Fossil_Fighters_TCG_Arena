@@ -1,0 +1,272 @@
+{
+  "name": "Fossil Fighters - TCG",
+  "menuBackgroundImage": "https://cdn.discordapp.com/attachments/781636530937528391/1458406110942990485/image.png?ex=695f8608&is=695e3488&hm=25827ea4a0bcb176ed18b882978b2eb5c277aeacc83fc70dc36e708cbf5cda7d&",
+  "defaultRessources": {
+    "backgrounds": [
+      "https://media.discordapp.net/attachments/781636530937528391/1458382111131177062/Updated_Basic_FFTCG_Playmat_3.png?ex=695f6fae&is=695e1e2e&hm=1d137e3f419f730220d6f97ae83e691099f3a10697d9654397945956fd952e10&=&format=webp&quality=lossless&width=912&height=456",
+      "https://media.discordapp.net/attachments/781636530937528391/1458382145335722036/Updated_Basic_FFTCG_Playmat_1.png?ex=695f6fb6&is=695e1e36&hm=85c7828fb7c0cc68cd5746f1c9d7d111484e5f822d77b184ce2f1feba08f85ad&=&format=webp&quality=lossless&width=912&height=456",
+      "https://media.discordapp.net/attachments/781636530937528391/1458382157146882128/Updated_Basic_FFTCG_Playmat.png?ex=695f6fb9&is=695e1e39&hm=f09a239351ebe0eaaba7565a1f5a5a8e751f4dc118120d827dde770aed88f618&=&format=webp&quality=lossless&width=912&height=456"
+    ],
+    "decksUrl": ""
+  },
+  "customHelp": "Welcome to the Fossil Fighters TCG Project! This Project is a fan made TCG based on the Nintendo DS game of the same name. More to be added after further testing!",
+  "cardRotation": "90",
+  "cards": {
+    "dataUrl": "file:///C:/Users/ryank/Downloads/CardList.json",
+    "cardBack": "https://cdn.discordapp.com/attachments/781636530937528391/1458384083884445829/vivosaur_sleeves_2.png?ex=695f7185&is=695e2005&hm=c4b0e8666710c6ddbb4d60968225ff025b8f9e3282faa40fe70ef22f169345fa&"
+  },
+  "deckBuilding": {
+    "mainFilters": [
+      "Element",
+      "Type",
+      "Trait",
+      "Range",
+      "Charge Value",
+      "FP Cost"
+    ],
+    "formats": [
+      {
+        "title": "Classic",
+        "gameplay": "Classic",
+        "customCategories": [
+          "FP Deck"
+        ]
+      }
+    ]
+  },
+  "gameplay": {
+    "Classic": {
+      "mulligan": {
+        "info": "",
+        "startingHandSize": "4",
+        "drawNewHand": false,
+        "putSelectionAtBottom": false,
+        "drawNewSelectedCards": false
+      },
+      "newTurn": {
+        "drawOnStart": true,
+        "sharedTurn": false,
+        "firstPlayerTokenName": "",
+        "drawPerTurn": 1
+      },
+      "defaultNotes": "",
+      "tokens": [],
+      "countersStartingValues": [
+        0,
+        0
+      ],
+      "hideFacedDownCards": false,
+      "sections": {
+        "customSections": [
+          "Starter_Vivosaur_Zone_1",
+          "Vivosaur_Zone_1",
+          "Vivosaur_Zone_2",
+          "Arena_Zone",
+          "FP_Deck",
+          "FP_Zone"
+        ],
+        "layout": {
+          "direction": "row",
+          "isSymetricalForOpponents": false,
+          "content": [
+            {
+              "direction": "column",
+              "style": {
+                "justifyContent": "start",
+                "width": "22vh"
+              },
+              "content": [
+                {
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Arena_Zone",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                },
+                {
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "FP_Deck",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "column",
+              "style": {
+                "width": "93vh",
+                "marginRight": "auto",
+                "marginLeft": "auto"
+              },
+              "content": [
+                {
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "Vivosaur_Zone_1",
+                      "style": {
+                        "marginRight": "4vh"
+                      }
+                    },
+                    {
+                      "section": "Starter_Vivosaur_Zone_1",
+                      "style": {
+                        "marginRight": "4vh"
+                      }
+                    },
+                    {
+                      "section": "Vivosaur_Zone_2",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                },
+                {
+                  "direction": "row",
+                  "style": false,
+                  "content": [
+                    {
+                      "section": "FP_Zone",
+                      "style": false
+                    }
+                  ],
+                  "isSymetricalForOpponents": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            },
+            {
+              "direction": "row",
+              "style": {
+                "width": "12vh"
+              },
+              "content": [
+                {
+                  "section": "Action_Card",
+                  "style": false
+                }
+              ],
+              "isSymetricalForOpponents": false
+            }
+          ]
+        },
+        "categoriesAlreadyOnBoard": [
+          "FP Deck->FP_Deck"
+        ],
+        "autoPlayFromHand": {},
+        "autoPlayFromStack": {
+          "Action": "Discard"
+        },
+        "sectionsDict": {
+          "Vivosaur_Zone_1": {
+            "title": "Vivosaur_Zone_1",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Vivosaur Zone",
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false,
+            "noQuickActions": true
+          },
+          "Vivosaur_Zone_2": {
+            "title": "Vivosaur_Zone_2",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Vivosaur Zone",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Starter_Vivosaur_Zone_1": {
+            "title": "Starter_Vivosaur_Zone_1",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Vivosaur Zone",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "Arena_Zone": {
+            "title": "Arena_Zone",
+            "isHidden": "no",
+            "height": "SMALL",
+            "alignment": "CENTER",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": true,
+            "displayedTitle": "Arena",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "FP_Deck": {
+            "title": "FP_Deck",
+            "isHidden": "yes",
+            "height": "SMALL",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "FP Deck",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          },
+          "FP_Zone": {
+            "title": "FP_Zone",
+            "isHidden": "no",
+            "height": "MEDIUM",
+            "alignment": "START",
+            "opponentAlignment": false,
+            "noAutoPayTo": false,
+            "isHorizontalAllowed": false,
+            "displayedTitle": "",
+            "noQuickActions": true,
+            "enterTapped": false,
+            "enterSpun": false,
+            "isGroupForbidden": false,
+            "keepTappedNewTurn": false,
+            "showHiddenCardInHistory": false
+          }
+        }
+      }
+    }
+  }
+}
