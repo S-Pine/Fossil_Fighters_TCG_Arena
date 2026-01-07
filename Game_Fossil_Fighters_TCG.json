@@ -234,7 +234,7 @@
           },
           "FP_Deck": {
             "title": "FP_Deck",
-            "isHidden": "yes",
+            "isHidden": "no",
             "height": "SMALL",
             "alignment": "START",
             "opponentAlignment": false,
