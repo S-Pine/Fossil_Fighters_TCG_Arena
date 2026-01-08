@@ -3306,5 +3306,1349 @@
     "Range": "Mid",
     "FP Charge": "1",
     "Status": "Poison"
+  },
+  "D00": {
+    "id": "D00",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dynal - DR",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D00_Dynal-DR.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dynal - DR",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Dinaurian",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Neutral",
+    "Range": "Close",
+    "FP Charge": "2",
+    "Status": "Excite, Poison"
+  },
+  "D01": {
+    "id": "D01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Guan",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D01_Guan.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Guan",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Tyranno",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Fire",
+    "Range": "Close",
+    "FP Charge": "1",
+    "Status": ""
+  },
+  "D02": {
+    "id": "D02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Siamo",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D02_Siamo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Siamo",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Tyranno",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Fire",
+    "Range": "Close",
+    "FP Charge": "1",
+    "Status": "Excite"
+  },
+  "D03": {
+    "id": "D03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dikelo",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D03_Dikelo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dikelo",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Invertebrate",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Fire",
+    "Range": "Mid",
+    "FP Charge": "1",
+    "Status": "Quicken, Excite"
+  },
+  "D04": {
+    "id": "D04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Buster Probe",
+        "type": "Action",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D04_Buster_Probe.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Buster Probe",
+    "type": false,
+    "cost": "1",
+    "Action": "Tool",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Status": ""
+  },
+  "D05": {
+    "id": "D05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "B-Rex",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D05_B_Rex.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "B-Rex",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Boney",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Fire",
+    "Range": "Close",
+    "FP Charge": "1",
+    "Status": ""
+  },
+  "D06": {
+    "id": "D06",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "B-Jara",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D06_B_Jara.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "B-Jara",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Boney",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Fire",
+    "Range": "Long",
+    "FP Charge": "1",
+    "Status": "Sleep"
+  },
+  "D07": {
+    "id": "D07",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Squirk",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D07_Squirk.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Squirk",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Bird",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Fire",
+    "Range": "Mid",
+    "FP Charge": "1",
+    "Status": "Excite"
+  },
+  "D08": {
+    "id": "D08",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cryo - Magma",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D08_Cryo_Magma.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cryo - Magma",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "L-Theropod",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Fire",
+    "Range": "Close",
+    "FP Charge": "1",
+    "Status": "Excite"
+  },
+  "D09": {
+    "id": "D09",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "T-Rex Lord",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D09_T-Rex_Lord.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "T-Rex Lord",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Super Evolver",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Fire",
+    "Range": "Close",
+    "FP Charge": "",
+    "Status": ""
+  },
+  "D10": {
+    "id": "D10",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Chelon",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D10_Chelon.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Chelon",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Aquatic",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Water",
+    "Range": "Mid",
+    "FP Charge": "1",
+    "Status": "Scare"
+  },
+  "D11": {
+    "id": "D11",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mammoth",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D11_Mammoth.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mammoth",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Mammal",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Water",
+    "Range": "Mid",
+    "FP Charge": "1",
+    "Status": "Harden"
+  },
+  "D12": {
+    "id": "D12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "B-Plesio",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D12_B_Plesio.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "B-Plesio",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Boney",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Water",
+    "Range": "Mid",
+    "FP Charge": "1",
+    "Status": "Poison"
+  },
+  "D13": {
+    "id": "D13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "B-Tricera",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D13_B_Tricera.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "B-tricera",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Boney",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Water",
+    "Range": "Mid",
+    "FP Charge": "1",
+    "Status": "Harden"
+  },
+  "D14": {
+    "id": "D14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Squilk",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D14_Squilk.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Squilk",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Bird",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Water",
+    "Range": "Mid",
+    "FP Charge": "1",
+    "Status": "Poison"
+  },
+  "D15": {
+    "id": "D15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Argento - Aqua",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D15_Argento_Aqua.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Argento - Aqua",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Sauropod",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Water",
+    "Range": "Long",
+    "FP Charge": "2",
+    "Status": ""
+  },
+  "D16": {
+    "id": "D16",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Heracles",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D16_Heracles.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Heracles",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Super Evolver",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Water",
+    "Range": "Mid",
+    "FP Charge": "",
+    "Status": "Enflame"
+  },
+  "D17": {
+    "id": "D17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "B-Lambeo",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D17_B-Lambeo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "B-Lambeo",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Boney",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Air",
+    "Range": "Close",
+    "FP Charge": "1",
+    "Status": ""
+  },
+  "D18": {
+    "id": "D18",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "B-Ptera",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D18_B_Ptera.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "B-Ptera",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Boney",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Air",
+    "Range": "Long",
+    "FP Charge": "1",
+    "Status": ""
+  },
+  "D19": {
+    "id": "D19",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Squiro",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D19_Squiro.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Squiro",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Bird",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Air",
+    "Range": "Mid",
+    "FP Charge": "1",
+    "Status": "Confuse"
+  },
+  "D20": {
+    "id": "D20",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Breme - Gale",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D20_Breme_Gale.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Breme - Gale",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Raptor",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Air",
+    "Range": "Close",
+    "FP Charge": "1",
+    "Status": "Poison"
+  },
+  "D21": {
+    "id": "D21",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Giga Spinax",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D21_Giga_Spinax.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Giga Spinax",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Super Evolver",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Air",
+    "Range": "Close",
+    "FP Charge": "",
+    "Status": "Harden"
+  },
+  "D22": {
+    "id": "D22",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Terata",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D22_Tetera.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Terata",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Invertebrate",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Earth",
+    "Range": "Mid",
+    "FP Charge": "1",
+    "Status": ""
+  },
+  "D23": {
+    "id": "D23",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Squirth",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D23_Squirth.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Squirth",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Bird",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Earth",
+    "Range": "Mid",
+    "FP Charge": "1",
+    "Status": "Sleep"
+  },
+  "D24": {
+    "id": "D24",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Brachio - Geo",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D24_Brachio_Geo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Brachio - Geo",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Sauropod",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Earth",
+    "Range": "Long",
+    "FP Charge": "2",
+    "Status": ""
+  },
+  "D25": {
+    "id": "D25",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Caveman Diggins",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D25_Caveman_Diggins.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Caveman Diggins",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Mammal",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Neutral",
+    "Range": "Close",
+    "FP Charge": "1",
+    "Status": "Sleep"
+  },
+  "D26": {
+    "id": "D26",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "B-Brachio",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D26_B_Brachio.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "B-Brachio",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Boney",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Neutral",
+    "Range": "Long",
+    "FP Charge": "1",
+    "Status": ""
+  },
+  "D27": {
+    "id": "D27",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Spinax - Zero",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D27_Spinax_Zero.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Spinax - Zero",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "L-Therapod",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Neutral",
+    "Range": "Close",
+    "FP Charge": "1",
+    "Status": ""
+  },
+  "D28": {
+    "id": "D28",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "BB - Base",
+        "type": "Action",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D28_BB_Base.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "BB - Base",
+    "type": "Action",
+    "cost": "3",
+    "Action": "Arena",
+    "Trait": "BB Bandit",
+    "Limitation": "Unlimited",
+    "FP Cost": "3",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Status": ""
+  },
+  "D29": {
+    "id": "D29",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The BareBones Bridage Base",
+        "type": "Action",
+        "cost": "5",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D29_BareBones%20Brigade%20Base.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The BareBones Brigade Base",
+    "type": "Action",
+    "cost": "5",
+    "Action": "Arena",
+    "Trait": "BareBones Brigade",
+    "Limitation": "Unlimited",
+    "FP Cost": "5",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Status": ""
+  },
+  "D30": {
+    "id": "D30",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FossilDig CEO",
+        "type": "Vivosaur",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D30_FossilDig_CEO.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "FossilDig CEO",
+    "type": "Action",
+    "cost": "1",
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Status": ""
+  },
+  "D31": {
+    "id": "D31",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mr.Richmond",
+        "type": "Vivosaur",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D31_Mr.Richmond.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mr.Richmond",
+    "type": "Vivosaur",
+    "cost": 0,
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "0",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Status": ""
+  },
+  "D32": {
+    "id": "D32",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rockin' Billy",
+        "type": "Action",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D32_Rockin%20Billy.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rockin' Billy",
+    "type": "Action",
+    "cost": "1",
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Status": ""
+  },
+  "D33": {
+    "id": "D33",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Calisteo Pipsqueak",
+        "type": "Action",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D33_Calisteo_Pipsqueak.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Calisteo Pipsqueak",
+    "type": "Action",
+    "cost": "2",
+    "Action": "Tool",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "2",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Status": ""
+  },
+  "D34": {
+    "id": "D34",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "The BareBones Brigade Goons",
+        "type": "Action",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D34_BareBones%20Brigade%20Grunts.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "The BareBones Brigade Goods",
+    "type": "Action",
+    "cost": "2",
+    "Action": "Support",
+    "Trait": "BareBones Brigade",
+    "Limitation": "Unlimited",
+    "FP Cost": "2",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Status": ""
+  },
+  "D35": {
+    "id": "D35",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "BareBones Captain - Lola",
+        "type": "Action",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D35_BareBones%20Brigade%20Captain%20-%20Lola.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "BareBones Captain - Lola",
+    "type": "Action",
+    "cost": "2",
+    "Action": "Support",
+    "Trait": "BareBones Brigade",
+    "Limitation": "",
+    "FP Cost": "2",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Status": ""
+  },
+  "D36": {
+    "id": "D36",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "BareBones Brigade - Lester",
+        "type": "Action",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D36_BareBones%20Brigade%20Captain%20-%20Lester.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "BareBones Brigade - Lester",
+    "type": "Action",
+    "cost": "2",
+    "Action": "Support",
+    "Trait": "BareBones Brigade",
+    "Limitation": "Unlimited",
+    "FP Cost": "2",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Status": ""
+  },
+  "D37": {
+    "id": "D37",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "BareBones Brigade - Cole",
+        "type": "Action",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D37_BareBones%20Brigade%20Captain%20-%20Cole.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "BareBones Bridage - Cole",
+    "type": "Action",
+    "cost": "2",
+    "Action": "Support",
+    "Trait": "BareBones Brigade",
+    "Limitation": "Unlimited",
+    "FP Cost": "2",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Status": ""
+  },
+  "D38": {
+    "id": "D38",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Vivian",
+        "type": "Action",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D38_Vivian.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Vivian",
+    "type": "Action",
+    "cost": "1",
+    "Action": "Attack",
+    "Trait": "BB Bandits",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Status": ""
+  },
+  "D39": {
+    "id": "D39",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Snivels",
+        "type": "Action",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D39_Snivels.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Snivels",
+    "type": "Action",
+    "cost": "1",
+    "Action": "Attack",
+    "Trait": "BB Bandits",
+    "Limitation": "Unlimted",
+    "FP Cost": "1",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Status": ""
+  },
+  "D40": {
+    "id": "D40",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rex",
+        "type": "Action",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D40_Rex.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rex",
+    "type": "Action",
+    "cost": "1",
+    "Action": "Attack",
+    "Trait": "BB Bandits",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Status": ""
+  },
+  "D41": {
+    "id": "D41",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Light 4WD",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D41_Light_4WD.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Light 4WD",
+    "type": false,
+    "cost": 0,
+    "Action": "Support",
+    "Trait": "Machine",
+    "Limitation": "Unlimited",
+    "FP Cost": "0",
+    "Element": "Neutral",
+    "Range": "Mid",
+    "FP Charge": "",
+    "Status": ""
+  },
+  "D42": {
+    "id": "D42",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "DI66-R",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D42_Di66_R.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "DI66-R",
+    "type": false,
+    "cost": 0,
+    "Action": "Support",
+    "Trait": "Machine",
+    "Limitation": "Unlimited",
+    "FP Cost": "0",
+    "Element": "Neutral",
+    "Range": "Mid",
+    "FP Charge": "",
+    "Status": ""
+  },
+  "D43": {
+    "id": "D43",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Scary Monster Machine!",
+        "type": "Action",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D43_Scary_Monster_Machine.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Scary Monster Machine!",
+    "type": false,
+    "cost": "3",
+    "Action": "Attack",
+    "Trait": "Machine",
+    "Limitation": "Unlimited",
+    "FP Cost": "3",
+    "Element": "Neutral",
+    "Range": "Close",
+    "FP Charge": "",
+    "Status": ""
+  },
+  "D44": {
+    "id": "D44",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "VMM - Cranial",
+        "type": "Action",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D44_VMM_Cranial.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "VMM - Cranial",
+    "type": "Action",
+    "cost": "1",
+    "Action": "Assist",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Status": ""
+  },
+  "D45": {
+    "id": "D45",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mount Lavaflow",
+        "type": "Action",
+        "cost": "03",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D45_Mount_Lavaflow.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mount Lavalflow",
+    "type": "Action",
+    "cost": "3",
+    "Action": "Arena",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "3",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Status": ""
+  },
+  "D46": {
+    "id": "D46",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fossil Cannon",
+        "type": "Action",
+        "cost": "6",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D46_Fossil_Cannon.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fossil Cannon",
+    "type": "Action",
+    "cost": "6",
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "unlimited",
+    "FP Cost": "6",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Status": ""
+  },
+  "D47": {
+    "id": "D47",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pickaxe",
+        "type": "Action",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D47_Pickaxe.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pickaxe",
+    "type": "Action",
+    "cost": "1",
+    "Action": "Tool",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Status": ""
+  },
+  "D48": {
+    "id": "D48",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Antimatter Beam",
+        "type": "Action",
+        "cost": 0,
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D48_Antimatter_Beam.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Antimatter Beam",
+    "type": "Action",
+    "cost": 0,
+    "Action": "Team",
+    "Trait": "Dinaurian",
+    "Limitation": "Unlimited",
+    "FP Cost": "9",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Status": ""
+  },
+  "D49": {
+    "id": "D49",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dino Cakes",
+        "type": "Action",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D49_Dino_Cakes.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dino Cakes",
+    "type": "Action",
+    "cost": "1",
+    "Action": "Tool",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Status": ""
+  },
+  "D50": {
+    "id": "D50",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Squik",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D50_Squik.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Squik",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Bird",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Neutral",
+    "Range": "Mid",
+    "FP Charge": "1",
+    "Status": "Scare"
+  },
+  "Deck01": {
+    "id": "Deck01",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stygi",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/DECK/DECK01_Stygi.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stygi",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Pachycephalo",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Fire",
+    "Range": "Mid",
+    "FP Charge": "1",
+    "Status": ""
+  },
+  "Deck02": {
+    "id": "Deck02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pachy",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/DECK/DECK02_Pachy.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pachy",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Pachycephalo",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Earth",
+    "Range": "Mid",
+    "FP Charge": "1",
+    "Status": ""
+  },
+  "Deck03": {
+    "id": "Deck03",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goyo",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/DECK/DECK03_Goyo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goyo",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Pachycephalo",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Element": "Air",
+    "Range": "Mid",
+    "FP Charge": "1",
+    "Status": ""
+  },
+  "Deck04": {
+    "id": "Deck04",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bea Ginner",
+        "type": "Action",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/DECK/DECK04_Bea_Ginner.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bea Ginner",
+    "type": "Action",
+    "cost": "1",
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Status": ""
+  },
+  "Deck05": {
+    "id": "Deck05",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Radar",
+        "type": "Action",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/DECK/DECK05_Radar.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Radar",
+    "type": "Action",
+    "cost": "1",
+    "Action": "Assist",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
+    "Element": "",
+    "Range": "",
+    "FP Charge": "",
+    "Status": ""
   }
 }
