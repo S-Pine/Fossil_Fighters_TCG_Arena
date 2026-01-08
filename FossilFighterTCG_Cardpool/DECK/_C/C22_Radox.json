@@ -1,0 +1,48 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "Radox",
+	"vivosaurData": {
+		"lp": "240",
+		"element": "AIR",
+		"range": "MID"
+	},
+	"effects": [
+		{
+			"type": "CHARGE",
+			"cost": "1",
+			"effect": "You can target 1 Vivosaur you control; apply Counter to that Vivosaur. "
+		},
+		{
+			"type": "ABILITY",
+			"name": "Counter PLUS+",
+			"status": [
+				"COUNTER"
+			],
+			"effect": "After this Vivosaur is played: apply Counter to all [Invertebrate] Vivosaurs you control. While you control this Vivosaur, Counter applied to [Invertebrate] Vivosaurs have 3 turn counters, instead of 2."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Stampede",
+			"cost": "3",
+			"power": "50",
+			"effect": "Flip a coin, if heads: use this Skill again without exerting FP. Continue this effect until you land tails."
+		},
+		{
+			"type": "STATUS",
+			"name": "Life Charge",
+			"cost": "5",
+			"effect": "Target a Vivosaur you control; it heals 200 LP."
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"Invertebrate\"]"
+		}
+	],
+	"artist": "RED & Sleepy Salada",
+	"set": "C",
+	"setId": "22",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur/Radox.png",
+		"imageOffsetY": 0
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"id": "070",
+	"cardType": "ACTION",
+	"name": "Miraculous Fossil",
+	"actionType": "SUPPORT",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "1",
+			"effect": "Discard 1 Vivosaur you control and reveal a [Super Evolver] in your hand that evolves from the discarded Vivosaur; play the [Super Evolver] Vivosaur, then it becomes your End Phase."
+		}
+	],
+	"artist": "RED and Sleepy Salada",
+	"set": "C",
+	"setId": "29",
+	"renderOptions": {
+		"image": "assets/Card Art/Action/Miraculous_Fossil.png",
+		"imageOffsetY": 50
+	}
+}

@@ -1,0 +1,19 @@
+{
+	"cardType": "ACTION",
+	"name": "Fossil Cannon",
+	"actionType": "SUPPORT",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "6",
+			"effect": "This card's FP cost is -1 for each card in your Hand. Target a Vivosaur your Opponent controls; Discard all cards in your Hand and deal 50 damage to that Vivosaur for each card discarded. "
+		}
+	],
+	"artist": "RED and Sleepy Salada",
+	"set": "D",
+	"setId": "46",
+	"renderOptions": {
+		"image": "assets/Card Art/Action/Fossil_Cannon.png",
+		"imageOffsetY": 50
+	}
+}

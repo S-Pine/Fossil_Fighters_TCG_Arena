@@ -1,0 +1,19 @@
+{
+	"cardType": "ACTION",
+	"name": "Bea Ginner",
+	"actionType": "SUPPORT",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "1",
+			"effect": "Charge 3 FP.\n\nThis card costs 0 FP on your first turn."
+		}
+	],
+	"artist": "RED",
+	"set": "DECK",
+	"setId": "04",
+	"renderOptions": {
+		"image": "assets/Card Art/Action/Bea_Ginner.png",
+		"imageOffsetY": 50
+	}
+}

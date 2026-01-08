@@ -1,0 +1,44 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "Proto",
+	"vivosaurData": {
+		"lp": "220",
+		"element": "WATER",
+		"range": "CLOSE"
+	},
+	"effects": [
+		{
+			"type": "CHARGE",
+			"cost": "1",
+			"effect": "You can add 1 [Ceratops] Vivosaur from your deck to your hand."
+		},
+		{
+			"type": "ABILITY",
+			"name": "Run Away",
+			"effect": "If your opponent would use an Attack Skill on this Vivosaur: you can rest this Vivosaur and discard 1 card from your hand; This Vivosaur takes no damage from that Attack Skill."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Headlong Rush",
+			"cost": "0",
+			"power": "40"
+		},
+		{
+			"type": "STATUS",
+			"name": "Metamorphosis",
+			"cost": "2",
+			"effect": "Place this card into your FP Zone; Play 1 \"Tricera\" from your deck, rested."
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"Ceratops\"]"
+		}
+	],
+	"artist": "RED & Sleepy Salada",
+	"set": "C",
+	"setId": "02",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur/Proto.png",
+		"imageOffsetY": 0
+	}
+}

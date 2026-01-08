@@ -1,0 +1,48 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "Breme - Gale",
+	"vivosaurData": {
+		"lp": "300",
+		"element": "AIR",
+		"range": "CLOSE"
+	},
+	"effects": [
+		{
+			"type": "CHARGE",
+			"cost": "1",
+			"effect": "Your Opponent's Action cards cost +1 FP until the end of this turn."
+		},
+		{
+			"type": "ABILITY",
+			"name": "Venomous Ambush",
+			"status": [
+				"POISON"
+			],
+			"effect": "After a Vivosaurs is Unrested: Target a Vivosaur either player controls; Apply Poison to that Vivosaur."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Claw Swipe",
+			"cost": "1",
+			"power": "70"
+		},
+		{
+			"type": "ATTACK",
+			"name": "Toxic Assault",
+			"cost": "4",
+			"power": "90",
+			"effect": "Remove all Poison Statuses Applied to all Vivosaurs and apply the effect."
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"Raptor\"]"
+		}
+	],
+	"artist": "RED & Sleepy Salada",
+	"set": "D",
+	"setId": "20",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur/Breme_Gale.png",
+		"imageOffsetY": 50
+	}
+}

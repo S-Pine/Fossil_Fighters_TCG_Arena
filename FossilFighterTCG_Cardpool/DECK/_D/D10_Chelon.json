@@ -1,0 +1,49 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "Chelon",
+	"vivosaurData": {
+		"lp": "300",
+		"element": "WATER",
+		"range": "MID"
+	},
+	"effects": [
+		{
+			"type": "CHARGE",
+			"cost": "1",
+			"effect": "Until the end of the next turn, rested Vivosaurs cannot swap Vivosaur Zones."
+		},
+		{
+			"type": "ABILITY",
+			"name": "Ancient Lock",
+			"effect": "Your Opponent cannot Swap Vivosaur Zones."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Aqua Blast",
+			"cost": "1",
+			"power": "70",
+			"effect": ""
+		},
+		{
+			"type": "ATTACK",
+			"name": "Maelstrom",
+			"cost": "3",
+			"power": "90",
+			"status": [
+				"SCARE"
+			],
+			"effect": "Flip a coin, If heads: apply Scare to the Defending Vivosaur."
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"Aquatic\"]"
+		}
+	],
+	"artist": "RED & Sleepy Salada",
+	"set": "D",
+	"setId": "10",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur/Chelon.png",
+		"imageOffsetY": 50
+	}
+}

@@ -1,0 +1,20 @@
+{
+	"id": "070",
+	"cardType": "ACTION",
+	"name": "FossilDig CEO",
+	"actionType": "SUPPORT",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "1",
+			"effect": "Play 1 Vivosaur from your hand."
+		}
+	],
+	"artist": "RED and Sleepy Salada",
+	"set": "D",
+	"setId": "30",
+	"renderOptions": {
+		"image": "assets/Card Art/Action/FossilDig_CEO.png",
+		"imageOffsetY": 55
+	}
+}

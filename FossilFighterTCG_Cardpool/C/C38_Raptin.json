@@ -1,0 +1,24 @@
+{
+	"id": "070",
+	"cardType": "ACTION",
+	"name": "Raptin",
+	"actionType": "ATTACK",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "3",
+			"effect": "You can only activate this card if you have 3+ face-down cards in your FP Zone. \n \nWhen your Opponent would activate an Action Card: you can negate the activation of that Action Card, and if you do, apply 1 of these effects: \n\u2022 Deal 70 damage to 1 of your Opponent's Vivosaurs \n\u2022 Rest 1 of your Opponent's Vivosaurs \nYou can apply both effects you have \"Dynal\" in your discard pile."
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"Dinaurian\"]"
+		}
+	],
+	"artist": "RED and Sleepy Salada",
+	"set": "C",
+	"setId": "38",
+	"renderOptions": {
+		"image": "assets/Card Art/Action/Raptin.png",
+		"imageOffsetY": 50
+	}
+}

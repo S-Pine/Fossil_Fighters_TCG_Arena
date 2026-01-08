@@ -1,0 +1,23 @@
+{
+	"cardType": "ACTION",
+	"name": "BareBones Brigade - Cole",
+	"actionType": "SUPPORT",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "2",
+			"effect": "Discard the top card of your Deck, then all [Boney] Vivosaur Attack Skills deal +30 damage this turn."
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"BareBone Brigade\"]"
+		}
+	],
+	"artist": "RED and Sleepy Salada",
+	"set": "D",
+	"setId": "37",
+	"renderOptions": {
+		"image": "assets/Card Art/Action/Cole.png",
+		"imageOffsetY": 50
+	}
+}

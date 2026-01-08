@@ -1,0 +1,19 @@
+{
+	"cardType": "ACTION",
+	"name": "Calisteo Pipsqueak",
+	"actionType": "TOOL",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "2",
+			"effect": "Equip this card to a Vivosaur you control by placing this card under it with this effect: \n\u2022 If the Equipped Vivosaur takes damage from an Attack Skill: Apply Sleep to the attacking Vivosaur and discard this card."
+		}
+	],
+	"artist": "RED and Sleepy Salada",
+	"set": "D",
+	"setId": "33",
+	"renderOptions": {
+		"image": "assets/Card Art/Action/Calisteo_Pipsqueak.png",
+		"imageOffsetY": 50
+	}
+}

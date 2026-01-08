@@ -1,0 +1,46 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "B-Brachio",
+	"vivosaurData": {
+		"lp": "280",
+		"element": "NEUTRAL",
+		"range": "LONG"
+	},
+	"effects": [
+		{
+			"type": "CHARGE",
+			"cost": "1",
+			"effect": "Add 1 other [Boney] Vivosaur or [BareBones Brigade] card from your Discard Pile to your Hand."
+		},
+		{
+			"type": "ABILITY",
+			"name": "Bone Return",
+			"effect": "If this card is Discarded: Place this card into your FP Zone, then you can add 1 [Boney] Vivosaur or [BareBones Brigade] Card from your Discard Pile to your Hand."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Boney Stomp",
+			"cost": "2",
+			"power": "80",
+			"effect": "Swap your Opponent's Vivosaur Zones."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Boney Crush",
+			"cost": "6",
+			"power": "140",
+			"effect": "Add 1 [BareBones Brigade] card from your Deck to your Hand."
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"Boney\"]"
+		}
+	],
+	"artist": "RED & Sleepy Salada",
+	"set": "D",
+	"setId": "26",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur/B_Brachio.png",
+		"imageOffsetY": 50
+	}
+}

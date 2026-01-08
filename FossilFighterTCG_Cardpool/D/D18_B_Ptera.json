@@ -1,0 +1,46 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "B-Ptera",
+	"vivosaurData": {
+		"lp": "160",
+		"element": "AIR",
+		"range": "LONG"
+	},
+	"effects": [
+		{
+			"type": "CHARGE",
+			"cost": "1",
+			"effect": "Discard the top 2 cards of your Deck."
+		},
+		{
+			"type": "ABILITY",
+			"name": "Bone Return",
+			"effect": "If this card is Discarded: Place this card into your FP Zone, then you can place up to 4 [Boney] Vivosaurs in your Discard Pile to the bottom of your Deck."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Boney Skewer",
+			"cost": "1",
+			"power": "80",
+			"effect": ""
+		},
+		{
+			"type": "ATTACK",
+			"name": "Boney Swirl",
+			"cost": "3",
+			"power": "90",
+			"effect": "Discard 1 [Boney] Vivosaur on your Field, then play 1 [Boney]  Vivosaur from your Discard Pile, except \"B-Ptera\"."
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"Boney\"]"
+		}
+	],
+	"artist": "RED & Sleepy Salada",
+	"set": "D",
+	"setId": "18",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur/B_Ptera.png",
+		"imageOffsetY": 50
+	}
+}

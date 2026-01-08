@@ -1,0 +1,50 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "Lugmos",
+	"vivosaurData": {
+		"lp": "520",
+		"element": "FIRE",
+		"range": "MID"
+	},
+	"effects": [
+		{
+			"type": "SUPER_EVOLVE",
+			"name": "DIMETRO",
+			"effect": "Cannot be Charged. Super Evolves from Dimetro. Your Opponent gets KO 2 Points if defeated. You can only play 1 Super Evolve Vivosaur card in your Deck."
+		},
+		{
+			"type": "ABILITY",
+			"name": "Magma Diver",
+			"effect": "Each time a FIRE Vivosaur(s) is exerted from an FP Zone: deal 50 damage to all of your Opponent's Vivosaurs."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Lugmos Tail",
+			"cost": "3",
+			"power": "110",
+			"effect": "Target 1 FIRE Vivosaurs in your discard pile; Charge it."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Lugmos Blaster",
+			"cost": "8",
+			"power": "180",
+			"status": [
+				"SCARE"
+			],
+			"effect": "Apply Scare to all of your Opponent's Vivosaurs that are damaged."
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"Super Evolver\"]"
+		}
+	],
+	"artist": "RED and Sleepy Salada",
+	"set": "C",
+	"setId": "19",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur/Lugmos.png",
+		"imageOverlay": "assets/Card Art/Vivosaur/Lugmos_Overlay.png",
+		"imageOffsetY": 0
+	}
+}

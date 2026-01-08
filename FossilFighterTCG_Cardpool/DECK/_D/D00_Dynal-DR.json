@@ -1,0 +1,52 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "Dynal - DR",
+	"vivosaurData": {
+		"lp": "350",
+		"element": "NEUTRAL",
+		"range": "CLOSE"
+	},
+	"effects": [
+		{
+			"type": "CHARGE",
+			"cost": "2",
+			"effect": "If \"Dynal\" is in your discard pile: you can pay 3 FP; Play this Vivosaur."
+		},
+		{
+			"type": "ABILITY",
+			"name": "Dinuarian Royalty",
+			"effect": "Cannot be played, except by an effect. FP Cards placed into both players' FP Zone are played Face-Down. You can use your Opponent's Face-Down cards to pay your [Dinuarian] Attack Skills or Action Cards."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Royal Combo",
+			"cost": "3",
+			"power": "120",
+			"status": [
+				"EXCITE"
+			],
+			"effect": "Apply Excite to the defending Vivosaur."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Imperial Wrath",
+			"cost": "6",
+			"power": "180",
+			"status": [
+				"POISON"
+			],
+			"effect": "Apply Poison to the defending Vivosaur."
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"Dinaurian\"]"
+		}
+	],
+	"artist": "RED & Sleepy Salada",
+	"set": "D",
+	"setId": "00",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur/Dynal_DR.png",
+		"imageOffsetY": 50
+	}
+}

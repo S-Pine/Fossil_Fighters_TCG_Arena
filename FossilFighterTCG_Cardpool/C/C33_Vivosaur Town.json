@@ -1,0 +1,19 @@
+{
+	"cardType": "ACTION",
+	"name": "Vivosaur Town",
+	"actionType": "ARENA",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "2",
+			"effect": "Both players Charge an additional +1 FP during Recharge. Once during the Action Phase: The turn player can discard 1 card from their hand; that player Charges +1 FP."
+		}
+	],
+	"artist": "RED and Sleepy Salada",
+	"set": "C",
+	"setId": "33",
+	"renderOptions": {
+		"image": "assets/Card Art/Action/Vivosaur_Town.png",
+		"imageOffsetY": 0
+	}
+}

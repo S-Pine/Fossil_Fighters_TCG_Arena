@@ -1,0 +1,45 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "Dimetro",
+	"vivosaurData": {
+		"lp": "430",
+		"element": "FIRE",
+		"range": "MID"
+	},
+	"effects": [
+		{
+			"type": "CHARGE",
+			"cost": "1",
+			"effect": "You can discard 1 FIRE Vivosaur from your deck; draw 1 card"
+		},
+		{
+			"type": "ABILITY",
+			"name": "Thermal Adjuster",
+			"effect": "If this Vivosaur takes damage: you can discard 1 FIRE Vivosaur from your deck; charge +1 FP."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Dimetro Fang",
+			"cost": "1",
+			"power": "80"
+		},
+		{
+			"type": "ATTACK",
+			"name": "Dimeteor",
+			"cost": "5",
+			"power": "X",
+			"effect": "This Attack Skill deals x40 damage for each FIRE Vivosaur in your discard pile."
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"Reptile\"]"
+		}
+	],
+	"artist": "RED & Sleepy Salada",
+	"set": "C",
+	"setId": "18",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur/Dimetro.png",
+		"imageOffsetY": 0
+	}
+}

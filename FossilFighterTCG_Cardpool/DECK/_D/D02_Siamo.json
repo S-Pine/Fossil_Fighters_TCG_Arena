@@ -1,0 +1,49 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "Siamo",
+	"vivosaurData": {
+		"lp": "440",
+		"element": "FIRE",
+		"range": "CLOSE"
+	},
+	"effects": [
+		{
+			"type": "CHARGE",
+			"cost": "1",
+			"effect": "Target 1 Vivosaur your Opponent controls; until the end of the next turn, it cannot swap Vivosaur Zones."
+		},
+		{
+			"type": "ABILITY",
+			"name": "Unchained Rage",
+			"effect": "This Vivosaur's Attack Skills deal +20 Base Damage for each FIRE Vivosaur in your Discard Pile. If the Defending Vivosaur is Excited, deal +30, instead."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Siamo Fang",
+			"cost": "1",
+			"power": "80",
+			"effect": ""
+		},
+		{
+			"type": "ATTACK",
+			"name": "Sizziling Breath",
+			"cost": "4",
+			"power": "120",
+			"status": [
+				"EXCITE"
+			],
+			"effect": "Apply Excite to the Defending Vivosaur."
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"Tyranno\"]"
+		}
+	],
+	"artist": "RED & Sleepy Salada",
+	"set": "D",
+	"setId": "02",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur/Siamo.png",
+		"imageOffsetY": 50
+	}
+}

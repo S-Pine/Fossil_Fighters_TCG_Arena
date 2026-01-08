@@ -1,0 +1,19 @@
+{
+	"cardType": "ACTION",
+	"name": "Rockin' Billy",
+	"actionType": "SUPPORT",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "1",
+			"effect": "Both players shuffle their hands into their Decks and draw 3 cards, -1 for each KO point they have."
+		}
+	],
+	"artist": "RED and Sleepy Salada",
+	"set": "D",
+	"setId": "32",
+	"renderOptions": {
+		"image": "assets/Card Art/Action/Rockin_Billy.png",
+		"imageOffsetY": 50
+	}
+}

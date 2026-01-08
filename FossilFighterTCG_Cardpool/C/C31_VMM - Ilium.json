@@ -1,0 +1,20 @@
+{
+	"id": "070",
+	"cardType": "ACTION",
+	"name": "VMM - Ilium",
+	"actionType": "SUPPORT",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "1",
+			"effect": "Target 1 WATER Vivosaur you control; Charge it."
+		}
+	],
+	"artist": "RED and Sleepy Salada",
+	"set": "C",
+	"setId": "31",
+	"renderOptions": {
+		"image": "assets/Card Art/Action/VMM_Ilium.png",
+		"imageOffsetY": 50
+	}
+}

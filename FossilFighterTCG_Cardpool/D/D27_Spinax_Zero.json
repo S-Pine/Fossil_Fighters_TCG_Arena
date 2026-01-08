@@ -1,0 +1,45 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "Spinax - Zero",
+	"vivosaurData": {
+		"lp": "480",
+		"element": "NEUTRAL",
+		"range": "CLOSE"
+	},
+	"effects": [
+		{
+			"type": "CHARGE",
+			"cost": "1",
+			"effect": "Shuffle this card into your Deck."
+		},
+		{
+			"type": "ABILITY",
+			"name": "Twisted Reality",
+			"effect": "After this Vivosaur uses an Attack Skill: attach 1 Action card from your Deck to this card as a Tool card with no effect."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Spinax Fang",
+			"cost": "1",
+			"power": "80"
+		},
+		{
+			"type": "ATTACK",
+			"name": "Altered Combo",
+			"cost": "3",
+			"power": "120",
+			"effect": "Add 1 Action card attached under this card to your Hand."
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"L-Theropod\"]"
+		}
+	],
+	"artist": "RED & Sleepy",
+	"set": "D",
+	"setId": "27",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur/Spinax_Zero.png",
+		"imageOffsetY": -55
+	}
+}

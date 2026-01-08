@@ -1,0 +1,48 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "Squiro",
+	"vivosaurData": {
+		"lp": "200",
+		"element": "AIR",
+		"range": "MID"
+	},
+	"effects": [
+		{
+			"type": "CHARGE",
+			"cost": "1",
+			"effect": "Add 1 [Bird] or AIR Vivosaur from your Deck to your Hand. "
+		},
+		{
+			"type": "ABILITY",
+			"name": "Weird Squi Entrance!",
+			"status": [
+				"CONFUSE"
+			],
+			"effect": "After this Vivosaur is played: apply Confuse vivosaur andcharge 1 [Bird] Vivosaur from your Discard Pile."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Zero Cloud",
+			"cost": "1",
+			"power": "50"
+		},
+		{
+			"type": "ATTACK",
+			"name": "Mighty Gust",
+			"cost": "4",
+			"power": "80",
+			"effect": "You can return this Vivosaur to your hand, then play a non-Wind [Bird] Vivosaur from your Hand."
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"Bird\"]"
+		}
+	],
+	"artist": "RED & Sleepy Salada",
+	"set": "D",
+	"setId": "19",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur/Squiro.png",
+		"imageOffsetY": 0
+	}
+}

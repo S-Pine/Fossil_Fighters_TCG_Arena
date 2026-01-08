@@ -1,0 +1,48 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "Thalasso",
+	"vivosaurData": {
+		"lp": "320",
+		"element": "WATER",
+		"range": "LONG"
+	},
+	"effects": [
+		{
+			"type": "CHARGE",
+			"cost": "1",
+			"effect": "Target 2 Vivosaurs you control or 2 Vivosaurs your Opponent controls; swap their Vivosaur Zones. "
+		},
+		{
+			"type": "ABILITY",
+			"name": "Tailwind",
+			"effect": "For each [Pterasaur] Vivosaur you control: you Charge an additional +1 FP during your Recharge."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Spiral Wing",
+			"cost": "1",
+			"power": "70"
+		},
+		{
+			"type": "ATTACK",
+			"name": "Tornado Wing",
+			"cost": "2",
+			"power": "80",
+			"status": [
+				"POISON"
+			],
+			"effect": "Flip a coin, if heads: apply Poison to the defending Vivosaur."
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"Pterasaur\"]"
+		}
+	],
+	"artist": "RED & Sleepy Salada",
+	"set": "C",
+	"setId": "04",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur/Thalasso.png",
+		"imageOffsetY": 0
+	}
+}

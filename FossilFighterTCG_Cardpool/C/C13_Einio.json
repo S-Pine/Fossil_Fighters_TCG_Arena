@@ -1,0 +1,44 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "Einio",
+	"vivosaurData": {
+		"lp": "420",
+		"element": "FIRE",
+		"range": "MID"
+	},
+	"effects": [
+		{
+			"type": "CHARGE",
+			"cost": "1",
+			"effect": "Target 1 Vivosaur either player controls; Deal 50 Damage to that Vivosaur. "
+		},
+		{
+			"type": "ABILITY",
+			"name": "Intimidate",
+			"effect": "Your Opponent cannot Swap Vivosaur Zones, unless they exert 1 FP during their Recharge Phase."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Running Smash",
+			"cost": "1",
+			"power": "80"
+		},
+		{
+			"type": "ATTACK",
+			"name": "Einio Combo",
+			"cost": "2",
+			"power": "90"
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"Ceratops\"]"
+		}
+	],
+	"artist": "RED & Sleepy Salada",
+	"set": "C",
+	"setId": "13",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur/Einio.png",
+		"imageOffsetY": 0
+	}
+}

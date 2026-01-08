@@ -1,0 +1,48 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "Squilk",
+	"vivosaurData": {
+		"lp": "200",
+		"element": "WATER",
+		"range": "MID"
+	},
+	"effects": [
+		{
+			"type": "CHARGE",
+			"cost": "1",
+			"effect": "Add 1 [Bird] or WATER Vivosaur from your Deck to your Hand. "
+		},
+		{
+			"type": "ABILITY",
+			"name": "Gross Squi Entrance!",
+			"status": [
+				"POISON"
+			],
+			"effect": "After this Vivosaur is played: apply Poison to a Vivosaur and charge 1 [Bird] Vivosaur from your Discard Pile."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Zero Cloud",
+			"cost": "1",
+			"power": "50"
+		},
+		{
+			"type": "ATTACK",
+			"name": "Whirlpool Blast",
+			"cost": "4",
+			"power": "80",
+			"effect": "You can return this Vivosaur to your hand, then play a non-Water [Bird] Vivosaur from your Hand."
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"Bird\"]"
+		}
+	],
+	"artist": "RED & Sleepy Salada",
+	"set": "D",
+	"setId": "14",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur/Squilk.png",
+		"imageOffsetY": 0
+	}
+}

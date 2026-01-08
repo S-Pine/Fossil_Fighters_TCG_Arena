@@ -1,0 +1,45 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "Goyo",
+	"vivosaurData": {
+		"lp": "280",
+		"element": "AIR",
+		"range": "MID"
+	},
+	"effects": [
+		{
+			"type": "CHARGE",
+			"cost": "1",
+			"effect": "Discard the top card of your Opponent's Deck."
+		},
+		{
+			"type": "ABILITY",
+			"name": "Distress Call",
+			"effect": "Once per turn: you can add 1 [Pachycephalo] Vivosaur, except \"Goyo\" from your Deck to your Hand."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Rock Head",
+			"cost": "0",
+			"power": "50"
+		},
+		{
+			"type": "ATTACK",
+			"name": "Rock Missile",
+			"cost": "2",
+			"power": "70",
+			"effect": "If you control another [Pachycephalo] Vivosaur: draw 1 card."
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"Pachycephalo\"]"
+		}
+	],
+	"artist": "RED & Sleepy Salada",
+	"set": "DECK",
+	"setId": "03",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur/Goyo.png",
+		"imageOffsetY": 0
+	}
+}

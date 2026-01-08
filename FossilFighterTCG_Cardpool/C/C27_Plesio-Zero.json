@@ -1,0 +1,48 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "Plesio - Zero",
+	"vivosaurData": {
+		"lp": "220",
+		"element": "NEUTRAL",
+		"range": "MID"
+	},
+	"effects": [
+		{
+			"type": "CHARGE",
+			"cost": "1",
+			"effect": "Target a Vivosaur your Opponent controls; apply Poison to that Vivosaur."
+		},
+		{
+			"type": "ABILITY",
+			"name": "Back from the Dead",
+			"effect": "During the End Phase, if a Vivosaur takes Poison damage and this card is in your discard pile: You can Charge this Vivosaur. You can only use Back from the Dead once per turn."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Darting Blur",
+			"cost": "0",
+			"power": "50"
+		},
+		{
+			"type": "ATTACK",
+			"name": "Poison Assault",
+			"cost": "3",
+			"power": "0",
+			"status": [
+				"POISON"
+			],
+			"effect": "Apply Poison to the defending Vivosaur."
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"Aquatic\"]"
+		}
+	],
+	"artist": "RED & Sleepy Salada",
+	"set": "C",
+	"setId": "27",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur/Plesio_Zero.png",
+		"imageOffsetY": 0
+	}
+}

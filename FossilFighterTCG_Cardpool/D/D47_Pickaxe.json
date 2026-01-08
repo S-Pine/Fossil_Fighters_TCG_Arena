@@ -1,0 +1,19 @@
+{
+	"cardType": "ACTION",
+	"name": "Pickaxe",
+	"actionType": "TOOL",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "1",
+			"effect": "Equip this card to a Vivosaur you control by placing this card under it with this effect: \n\u2022 Once per turn: you can rest the Equipped Vivosaur; draw 1 card."
+		}
+	],
+	"artist": "RED and Sleepy Salada",
+	"set": "D",
+	"setId": "47",
+	"renderOptions": {
+		"image": "assets/Card Art/Action/Pickaxe.png",
+		"imageOffsetY": 50
+	}
+}

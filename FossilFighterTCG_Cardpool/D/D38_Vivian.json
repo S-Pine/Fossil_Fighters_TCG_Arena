@@ -1,0 +1,24 @@
+{
+	"id": "070",
+	"cardType": "ACTION",
+	"name": "Vivian",
+	"actionType": "ATTACK",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "1",
+			"effect": "Discard cards from your Opponent's FP Zone equal to the number of KO Points your Opponent has."
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"BB Bandit\"]"
+		}
+	],
+	"artist": "RED and Sleepy Salada",
+	"set": "D",
+	"setId": "38",
+	"renderOptions": {
+		"image": "assets/Card Art/Action/Vivian.png",
+		"imageOffsetY": 0
+	}
+}

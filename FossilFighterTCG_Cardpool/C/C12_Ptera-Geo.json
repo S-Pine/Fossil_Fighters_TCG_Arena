@@ -1,0 +1,45 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "Ptera - Geo",
+	"vivosaurData": {
+		"lp": "320",
+		"element": "EARTH",
+		"range": "LONG"
+	},
+	"effects": [
+		{
+			"type": "CHARGE",
+			"cost": "1",
+			"effect": "You can discard 1 card from your hand; add 1 \"Miraculous Fossil\" from your deck to your hand."
+		},
+		{
+			"type": "ABILITY",
+			"name": "Bond between Partners",
+			"effect": "Once per turn, after either player's Vivosaur Zones were swapped: you can Charge 1 [Pterasaur] Vivosaur from your discard pile. you can only use this Ability if you have \"Joe Wildwest\" in your discard pile."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Diving Thrust",
+			"cost": "1",
+			"power": "60"
+		},
+		{
+			"type": "ATTACK",
+			"name": "Wing Cutter",
+			"cost": "2",
+			"power": "70",
+			"effect": "You can add 1 \"Joe Wildwest\" from your deck to your hand."
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"Pterasaur\"]"
+		}
+	],
+	"artist": "RED & Sleepy Salada",
+	"set": "C",
+	"setId": "12",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur/Ptera_Geo.png",
+		"imageOffsetY": 0
+	}
+}

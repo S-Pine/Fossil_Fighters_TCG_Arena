@@ -1,0 +1,25 @@
+{
+	"id": "070",
+	"cardType": "ACTION",
+	"name": "Light 4WD",
+	"actionType": "SUPPORT",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "0",
+			"effect": "Play this card as a Vivosaur into one of your Vivosaur zones (150LP/Neutral/MID/[Machine]) with this ability:"
+		},
+		{
+			"type": "ABILITY",
+			"name": "Support Charge",
+			"effect": "Neither player can apply statuses to this Vivosaur. Neither player gets a KO Point if this Vivosaur is defeated. You can discard 1 card and rest this Vivosaur; Deal 50 damage to an opponent's Vivosaur and heal 50 damage to a Vivosaur you control."
+		}
+	],
+	"artist": "RED and Sleepy Salada",
+	"set": "D",
+	"setId": "41",
+	"renderOptions": {
+		"image": "assets/Card Art/Action/Light_4WD.png",
+		"imageOffsetY": 0
+	}
+}

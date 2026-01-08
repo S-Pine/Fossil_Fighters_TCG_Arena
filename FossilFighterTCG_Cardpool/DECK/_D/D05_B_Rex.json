@@ -1,0 +1,46 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "B-Rex",
+	"vivosaurData": {
+		"lp": "240",
+		"element": "FIRE",
+		"range": "CLOSE"
+	},
+	"effects": [
+		{
+			"type": "CHARGE",
+			"cost": "1",
+			"effect": "Deal 50 Damage to a Vivosaur on the Field."
+		},
+		{
+			"type": "ABILITY",
+			"name": "Bone Return",
+			"effect": "If this card is Discarded: Place this card into your FP Zone, then target 1 Vivosaur your Opponent controls; deal 50 damage to it."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Boney Roar",
+			"cost": "3",
+			"power": "40",
+			"effect": "Deal 50 damage to all of your Opponent's Vivosaurs."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Skeletal Assault",
+			"cost": "6",
+			"power": "170",
+			"effect": "Discard 3 cards from the top of your Deck."
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"Boney\"]"
+		}
+	],
+	"artist": "RED & Sleepy Salada",
+	"set": "D",
+	"setId": "05",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur/B_Rex.png",
+		"imageOffsetY": 50
+	}
+}

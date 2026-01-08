@@ -1,0 +1,19 @@
+{
+	"cardType": "ACTION",
+	"name": "Digadiga Village",
+	"actionType": "ARENA",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "1",
+			"effect": "All Vivosaur's Attack Skills can be used on any opposing Vivosaurs, regardless of Range."
+		}
+	],
+	"artist": "RED and Sleepy Salada",
+	"set": "C",
+	"setId": "35",
+	"renderOptions": {
+		"image": "assets/Card Art/Action/Digadig_Village.png",
+		"imageOffsetY": 0
+	}
+}

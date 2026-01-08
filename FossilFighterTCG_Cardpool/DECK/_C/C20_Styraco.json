@@ -1,0 +1,48 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "Styraco",
+	"vivosaurData": {
+		"lp": "420",
+		"element": "AIR",
+		"range": "MID"
+	},
+	"effects": [
+		{
+			"type": "CHARGE",
+			"cost": "1",
+			"effect": "Target 1 Vivosaur you control; it Heals 80 LP. "
+		},
+		{
+			"type": "ABILITY",
+			"name": "Set Up",
+			"effect": "After this Vivosaur is played: draw 1 card."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Leaping Gore",
+			"cost": "1",
+			"power": "80"
+		},
+		{
+			"type": "ATTACK",
+			"name": "Styraco Fury",
+			"cost": "4",
+			"power": "110",
+			"status": [
+				"SCARE"
+			],
+			"effect": "Flip a coin, If heads: Apply Scare to the defending Vivosaur."
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"Ceratops\"]"
+		}
+	],
+	"artist": "RED & Sleepy Salada",
+	"set": "C",
+	"setId": "20",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur/Styraco.png",
+		"imageOffsetY": 0
+	}
+}

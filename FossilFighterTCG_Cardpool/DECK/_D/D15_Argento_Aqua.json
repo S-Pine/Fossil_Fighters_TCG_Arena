@@ -1,0 +1,45 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "Argento - Aqua",
+	"vivosaurData": {
+		"lp": "680",
+		"element": "WATER",
+		"range": "LONG"
+	},
+	"effects": [
+		{
+			"type": "CHARGE",
+			"cost": "2",
+			"effect": "Discard your Hand."
+		},
+		{
+			"type": "ABILITY",
+			"name": "Surfacing",
+			"effect": "After this Vivosaur unrests: draw 1 card."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Mountain Press",
+			"cost": "2",
+			"power": "80"
+		},
+		{
+			"type": "ATTACK",
+			"name": "Mountain Buster",
+			"cost": "4",
+			"power": "130",
+			"effect": "Charge 1 WATER Vivosaur from your Deck."
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"Saurapod\"]"
+		}
+	],
+	"artist": "RED and Sleepy",
+	"set": "D",
+	"setId": "15",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur/Argento_Aqua.png",
+		"imageOffsetY": 0
+	}
+}

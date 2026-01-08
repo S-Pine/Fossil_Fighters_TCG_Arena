@@ -1,0 +1,44 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "Penta",
+	"vivosaurData": {
+		"lp": "460",
+		"element": "NEUTRAL",
+		"range": "MID"
+	},
+	"effects": [
+		{
+			"type": "CHARGE",
+			"cost": "1",
+			"effect": " "
+		},
+		{
+			"type": "ABILITY",
+			"name": "Color Calling",
+			"effect": "After this Vivosaur is played: You can Charge 1 [Ceratops] Vivosaur from your deck into your FP Zone."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Running Smash",
+			"cost": "1",
+			"power": "80"
+		},
+		{
+			"type": "ATTACK",
+			"name": "Penta Fury",
+			"cost": "4",
+			"power": "120"
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"Ceratops\"]"
+		}
+	],
+	"artist": "RED & Sleepy Salada",
+	"set": "C",
+	"setId": "26",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur/Penta.png",
+		"imageOffsetY": 0
+	}
+}

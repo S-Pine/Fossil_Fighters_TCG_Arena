@@ -1,0 +1,23 @@
+{
+	"cardType": "ACTION",
+	"name": "The Mothership",
+	"actionType": "ARENA",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "2",
+			"effect": "You can only activate this card if you have 3+ face-down cards in your FP Zone. \n \n Once per turn, during the Action Phase: the turn player can Charge 1 [Dinuarian] Vivosaur from their deck, then place a card from their hand into their FP Zone, face-down. \n Apply this effect if the turn player has \"Dynal\" in their discard pile: \n\u2022 Reduce the FP Cost of [Dinuarian] Vivosaur's Attack Skills by 1 for each card in the turn player's FP Zone, face-down."
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"Dinaurian\"]"
+		}
+	],
+	"artist": "RED and Sleepy Salada",
+	"set": "C",
+	"setId": "00",
+	"renderOptions": {
+		"image": "assets/Card Art/Action/The_Mothership.png",
+		"imageOffsetY": 50
+	}
+}

@@ -1,0 +1,47 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "T-Rex Lord",
+	"vivosaurData": {
+		"lp": "700",
+		"element": "FIRE",
+		"range": "CLOSE"
+	},
+	"effects": [
+		{
+			"type": "SUPER_EVOLVE",
+			"name": "T-Rex",
+			"effect": "Cannot be Charged. Super Evolves from T-Rex. Your Opponent gets KO 2 Points if defeated. You can only play 1 Super Evolve Vivosaur card in your Deck."
+		},
+		{
+			"type": "ABILITY",
+			"name": "Volcanic Abyss",	
+			"effect": "This Vivosaur's Attack Skills require -1 FP for each FIRE Vivosaur in your Discard Pile."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Lordly Strike",
+			"cost": "3",
+			"power": "150",
+			"effect": "Discard 1 FIRE Vivosaur from your Deck."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Lordly Fire",
+			"cost": "9",
+			"power": "200",
+			"effect": "Charge up to 3 FIRE Vivosaurs from your Discard Pile, and it becomes your End Phase."
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"Super Evolver\"]"
+		}
+	],
+	"artist": "RED and Sleepy Salada",
+	"set": "D",
+	"setId": "09",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur/T-Rex_Lord.png",
+		"imageOverlay": "assets/Card Art/Vivosaur/T-Rex_Lord_Overlay.png",
+		"imageOffsetY": 0
+	}
+}

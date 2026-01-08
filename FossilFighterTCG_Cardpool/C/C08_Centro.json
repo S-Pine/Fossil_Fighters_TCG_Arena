@@ -1,0 +1,44 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "Centro",
+	"vivosaurData": {
+		"lp": "420",
+		"element": "EARTH",
+		"range": "MID"
+	},
+	"effects": [
+		{
+			"type": "CHARGE",
+			"cost": "1",
+			"effect": "You can add 1 other [Ceratops] Vivosaur from your discard pile to your hand. "
+		},
+		{
+			"type": "ABILITY",
+			"name": "Klutz",
+			"effect": "This Vivosaur cannot use an Attack Skill unless you discard 2 cards from your hand when you exert FP for its Attack Skills, also this Vivosaur's Attack Skills deal x2 base damage."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Running Smash",
+			"cost": "1",
+			"power": "80"
+		},
+		{
+			"type": "ATTACK",
+			"name": "Centro Combo",
+			"cost": "2",
+			"power": "110"
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"Ceratops\"]"
+		}
+	],
+	"artist": "RED & Sleepy Salada",
+	"set": "C",
+	"setId": "08",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur/Centro.png",
+		"imageOffsetY": 0
+	}
+}

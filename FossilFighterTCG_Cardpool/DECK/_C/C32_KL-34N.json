@@ -1,0 +1,20 @@
+{
+	"id": "070",
+	"cardType": "ACTION",
+	"name": "KL-34N",
+	"actionType": "ATTACK",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "2",
+			"effect": "Declare a number, but not higher than the number of cards in your Opponent's hand; randomly shuffle that number of cards from your Opponent's hand into their deck, then they draw that same number +1."
+		}
+	],
+	"artist": "RED and Sleepy Salada",
+	"set": "C",
+	"setId": "32",
+	"renderOptions": {
+		"image": "assets/Card Art/Action/KL-34N.png",
+		"imageOffsetY": 0
+	}
+}

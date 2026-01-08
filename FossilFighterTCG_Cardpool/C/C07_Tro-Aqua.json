@@ -1,0 +1,45 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "Tro - Aqua",
+	"vivosaurData": {
+		"lp": "280",
+		"element": "WATER",
+		"range": "CLOSE"
+	},
+	"effects": [
+		{
+			"type": "CHARGE",
+			"cost": "1",
+			"effect": "Target a [Raptor] Vivosaur you control; apply Quicken to that Vivosaur."
+		},
+		{
+			"type": "ABILITY",
+			"name": "Decieving Call",
+			"effect": "During your Action Phase: you can place this unrested Vivosaur into your FP Zone; play 1 [Raptor] Vivosaur from your deck into that Vivosaur Zone, rested."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Tro Claw",
+			"cost": "0",
+			"power": "40"
+		},
+		{
+			"type": "ATTACK",
+			"name": "Fierce Combo",
+			"cost": "2",
+			"power": "70",
+			"effect": "Target 1 other rested [Raptor] Vivosaur you control; unrest it."
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"Raptor\"]"
+		}
+	],
+	"artist": "RED & Sleepy Salada",
+	"set": "C",
+	"setId": "07",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur/Tro_Aqua.png",
+		"imageOffsetY": 0
+	}
+}

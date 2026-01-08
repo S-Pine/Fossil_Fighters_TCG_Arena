@@ -1,0 +1,20 @@
+{
+	"id": "070",
+	"cardType": "ACTION",
+	"name": "Deathly Breathe ",
+	"actionType": "SUPPORT",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "1",
+			"effect": "Target 1 Vivosaur your Opponent controls; apply Poison to that Vivosaur."
+		}
+	],
+	"artist": "RED and Sleepy Salada",
+	"set": "C",
+	"setId": "30",
+	"renderOptions": {
+		"image": "assets/Card Art/Action/Deathly_Breathe.png",
+		"imageOffsetY": 0
+	}
+}

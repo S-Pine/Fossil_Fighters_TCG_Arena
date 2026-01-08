@@ -1,0 +1,46 @@
+{
+	"cardType": "VIVOSAUR",
+	"name": "B-Lambeo",
+	"vivosaurData": {
+		"lp": "230",
+		"element": "AIR",
+		"range": "CLOSE"
+	},
+	"effects": [
+		{
+			"type": "CHARGE",
+			"cost": "1",
+			"effect": "Heal 80 damage to all [Boney] Vivosaurs  you control."
+		},
+		{
+			"type": "ABILITY",
+			"name": "Bone Return",
+			"effect": "If this card is Discarded: Place this card into your FP Zone, then draw 1 card."
+		},
+		{
+			"type": "ATTACK",
+			"name": "Boney Chomp",
+			"cost": "1",
+			"power": "90",
+			"effect": ""
+		},
+		{
+			"type": "ATTACK",
+			"name": "Boney Shove",
+			"cost": "4",
+			"power": "130",
+			"effect": "Discard 1 [Boney] Vivosaur from your Deck."
+		},
+		{
+			"type": "RULING",
+			"effect": "[\"Boney\"]"
+		}
+	],
+	"artist": "RED & Sleepy Salada",
+	"set": "D",
+	"setId": "17",
+	"renderOptions": {
+		"image": "assets/Card Art/Vivosaur/B_Lambeo.png",
+		"imageOffsetY": 50
+	}
+}

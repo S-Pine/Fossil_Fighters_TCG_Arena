@@ -1,0 +1,24 @@
+{
+	"cardType": "ACTION",
+	"name": "Scary Monster Machine!",
+	"actionType": "ATTACK",
+	"effects": [
+		{
+			"type": "EFFECT",
+			"cost": "3",
+			"effect": "Play this card as a Vivosaur into one of your Vivosaur zones (200LP/Neutral/CLOSE/[Machine]) with this ability:"
+		},
+		{
+			"type": "ABILITY",
+			"name": "Scary Machine!",
+			"effect": "Neither player can apply statuses to this Vivosaur. Neither player gets a KO Point if this Vivosaur is defeated. Your opponent cannot use Attack Skills on Vivosaurs, except \"Scary Monster Machine!\". If this Vivosaur is KO'd by an Opponent's attacking Vivosaur: deal 150 damage to that Vivosaur."
+		}
+	],
+	"artist": "RED and Sleepy Salada",
+	"set": "D",
+	"setId": "43",
+	"renderOptions": {
+		"image": "assets/Card Art/Action/Scary_Monster_Machine.png",
+		"imageOffsetY": 50
+	}
+}
