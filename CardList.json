@@ -1658,7 +1658,7 @@
     "Element": "Water",
     "Range": "Close",
     "FP Charge": "1",
-    "Status": "Poison"
+    "Status": "Poison, Excite"
   },
   "B10": {
     "id": "B10",
