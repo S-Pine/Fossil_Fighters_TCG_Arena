@@ -8,7 +8,7 @@
     ],
     "decksUrl": ""
   },
-  "customHelp": "Welcome to the Fossil Fighters TCG Project! This Project is a fan-made TCG based on the Nintendo DS game of the same name. More to be added after further testing!"
+  "customHelp": "Welcome to the Fossil Fighters TCG Project! This Project is a fan-made TCG based on the Nintendo DS game of the same name. More to be added after further testing!",
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://sleepysalada.github.io/Fossil_Fighters_TCG_Arena/CardList.json",
