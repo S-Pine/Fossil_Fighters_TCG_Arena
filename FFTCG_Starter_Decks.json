@@ -1,0 +1,150 @@
+{
+  "title": "Tricera Starter Deck",
+  "id": "f3be514a-0d88-4b6a-87f6-037fb98e4453",
+  "game": "Fossil Fighters - TCG",
+  "format": [
+    "Classic"
+  ],
+  "cardCount": 40,
+  "createdAt": "2026-01-08T17:44:32.291Z",
+  "lastModifiedAt": "2026-01-08T17:47:03.231Z",
+  "deckList": {
+    "categoriesOrder": [
+      "FP Deck",
+      "Action",
+      "Vivosaur"
+    ],
+    "Sideboard": [],
+    "Action": [
+      {
+        "count": 2,
+        "id": "A31"
+      },
+      {
+        "count": 1,
+        "id": "A32"
+      },
+      {
+        "count": 3,
+        "id": "A43"
+      },
+      {
+        "count": 2,
+        "id": "B34"
+      },
+      {
+        "count": 2,
+        "id": "B26"
+      }
+    ],
+    "FP Deck": [
+      {
+        "count": 10,
+        "id": "T01"
+      }
+    ],
+    "Vivosaur": [
+      {
+        "count": 2,
+        "id": "B17"
+      },
+      {
+        "count": 3,
+        "id": "C01"
+      },
+      {
+        "count": 3,
+        "id": "C02"
+      },
+      {
+        "count": 3,
+        "id": "C08"
+      },
+      {
+        "count": 3,
+        "id": "C13"
+      },
+      {
+        "count": 3,
+        "id": "C26"
+      },
+      {
+        "count": 3,
+        "id": "C20"
+      }
+    ]
+  }
+}
+{
+  "title": "Hard Headed Trio Starter Deck",
+  "id": "d9a205bc-421d-45b0-8342-5c5dc5cb718d",
+  "game": "Fossil Fighters - TCG",
+  "format": [
+    "Classic"
+  ],
+  "cardCount": 40,
+  "createdAt": "2026-01-08T17:48:45.262Z",
+  "lastModifiedAt": "2026-01-08T17:51:16.015Z",
+  "deckList": {
+    "categoriesOrder": [
+      "FP Deck",
+      "Vivosaur",
+      "Action"
+    ],
+    "Sideboard": [],
+    "Vivosaur": [
+      {
+        "count": 3,
+        "id": "Deck03"
+      },
+      {
+        "count": 3,
+        "id": "Deck02"
+      },
+      {
+        "count": 3,
+        "id": "Deck01"
+      },
+      {
+        "count": 3,
+        "id": "B11"
+      },
+      {
+        "count": 2,
+        "id": "B17"
+      },
+      {
+        "count": 3,
+        "id": "A25"
+      }
+    ],
+    "Action": [
+      {
+        "count": 3,
+        "id": "Deck04"
+      },
+      {
+        "count": 3,
+        "id": "B34"
+      },
+      {
+        "count": 2,
+        "id": "C33"
+      },
+      {
+        "count": 2,
+        "id": "B29"
+      },
+      {
+        "count": 3,
+        "id": "A43"
+      }
+    ],
+    "FP Deck": [
+      {
+        "count": 10,
+        "id": "T01"
+      }
+    ]
+  }
+}
