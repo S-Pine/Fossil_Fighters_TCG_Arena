@@ -1795,7 +1795,7 @@
       }
     },
     "name": "Saurhead, The Champion!",
-    "type": "Vivosaur",
+    "type": "Action",
     "cost": "1",
     "Action": "Support",
     "Trait": "",
@@ -1986,7 +1986,7 @@
       }
     },
     "name": "Greenhorn Plains",
-    "type": false,
+    "type": "Action",
     "cost": "2",
     "Action": "Arena",
     "Trait": "",
@@ -3416,7 +3416,7 @@
       }
     },
     "name": "Buster Probe",
-    "type": false,
+    "type": "Action",
     "cost": "1",
     "Action": "Tool",
     "Trait": "",
@@ -4260,7 +4260,7 @@
     "cost": "1",
     "Action": "Attack",
     "Trait": "BB Bandits",
-    "Limitation": "Unlimted",
+    "Limitation": "Unlimited",
     "FP Cost": "1",
     "Element": "",
     "Range": "",
@@ -4328,7 +4328,7 @@
       }
     },
     "name": "DI66-R",
-    "type": false,
+    "type": "Action",
     "cost": 0,
     "Action": "Support",
     "Trait": "Machine",
@@ -4352,7 +4352,7 @@
       }
     },
     "name": "Scary Monster Machine!",
-    "type": false,
+    "type": "Action",
     "cost": "3",
     "Action": "Attack",
     "Trait": "Machine",
@@ -4428,7 +4428,7 @@
     "cost": "6",
     "Action": "Support",
     "Trait": "",
-    "Limitation": "unlimited",
+    "Limitation": "Unlimited",
     "FP Cost": "6",
     "Element": "",
     "Range": "",
