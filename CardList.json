@@ -4304,7 +4304,7 @@
       }
     },
     "name": "Light 4WD",
-    "type": false,
+    "type": "Action",
     "cost": 0,
     "Action": "Support",
     "Trait": "Machine",
