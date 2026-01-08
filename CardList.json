@@ -981,6 +981,30 @@
     "Status": "Excite",
     "Limitation": "Unlimited"
   },
+  "A26": {
+    "id": "A26",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Megalo",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/A/A26_Megalo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Megalo",
+    "type": "Vivosaur",
+    "cost": "",
+    "FP Cost": "",
+    "Action": "",
+    "Trait": "L-Theropod",
+    "Element": "Neutral",
+    "Range": "Close",
+    "FP Charge": "1",
+    "Status": "Scare",
+    "Limitation": "Unlimited"
+  },
   "A27": {
     "id": "A27",
     "isToken": false,
