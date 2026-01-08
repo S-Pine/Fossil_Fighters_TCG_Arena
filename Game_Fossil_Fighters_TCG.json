@@ -3,8 +3,8 @@
   "menuBackgroundImage": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/Banner/Banner_O_Raptor.png",
   "defaultRessources": {
     "backgrounds": [
-      "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/Playmats/FFTCG_Playmat_Giganto.png",
-      "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/Playmats/FFTCG_Playmat_O_Raptor.png",
+      "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/Playmats/Caliosteo_Patrol_Team_Playmat_FFTCG_Arena.png",
+      "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/Playmats/Dinaurian_Elite_Playmat_FFTCG_Arena.png",
       "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/Playmats/Water_Playmat_FFTCG_TCG_Arena.png"
     ],
     "decksUrl": ""
