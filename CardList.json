@@ -164,14 +164,14 @@
     "face": {
       "front": {
         "name": "Dino",
-        "type": "Vivosaur",
+        "type": "Action",
         "cost": "2",
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/A/A31_Dino.png",
         "isHorizontal": false
       }
     },
     "name": "Dino",
-    "type": "Vivosaur",
+    "type": "Action",
     "cost": "2",
     "Action": "Support",
     "FP Cost": "2"
@@ -578,7 +578,7 @@
       }
     },
     "name": "Venator",
-    "type": false,
+    "type": "Vivosaur",
     "cost": 0,
     "FP Cost": "",
     "Action": "",
@@ -622,7 +622,7 @@
       }
     },
     "name": "Acro",
-    "type": false,
+    "type": "Vivosaur",
     "cost": 0,
     "FP Cost": "",
     "Action": "",
@@ -644,7 +644,7 @@
       }
     },
     "name": "Carno",
-    "type": false,
+    "type": "Vivosaur",
     "cost": 0,
     "FP Cost": "",
     "Action": "",
@@ -917,7 +917,7 @@
     "Range": "Close",
     "FP Charge": "2"
   },
-  "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/A/A26_Megalo.png": {
+  "A26": {
     "id": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/A/A26_Megalo.png",
     "isToken": false,
     "face": {
@@ -1128,7 +1128,7 @@
       }
     },
     "name": "Dr. Diggins",
-    "type": false,
+    "type": "Action",
     "cost": "",
     "FP Cost": "1+",
     "Action": "Support",
