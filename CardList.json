@@ -17,7 +17,11 @@
     "Action": "Support",
     "Trait": "Dinaurian",
     "Limitation": "Unlimited",
-    "FP Cost": "0"
+    "FP Cost": "0",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None"
   },
   "A01": {
     "id": "A01",
@@ -40,7 +44,8 @@
     "FP Charge": "2",
     "Limitation": "Unlimited",
     "Status": "Scare",
-    "FP Cost": ""
+    "FP Cost": "None",
+    "Action": "None"
   },
   "A02": {
     "id": "A02",
@@ -62,8 +67,9 @@
     "Trait": "L-Theropod",
     "FP Charge": "1",
     "Limitation": "Unlimited",
-    "FP Cost": "",
-    "Status": "Quicken"
+    "FP Cost": "None",
+    "Status": "Quicken",
+    "Action": "None"
   },
   "A03": {
     "id": "A03",
@@ -85,7 +91,9 @@
     "Trait": "L-Theropod",
     "FP Charge": "2",
     "Limitation": "Unlimited",
-    "Status": "Excite"
+    "Status": "Excite",
+    "Action": "None",
+    "FP Cost": "None"
   },
   "A04": {
     "id": "A04",
@@ -107,7 +115,9 @@
     "Trait": "Raptor",
     "FP Charge": "1",
     "Limitation": "Unlimited",
-    "Status": "poison"
+    "Status": "poison",
+    "Action": "None",
+    "FP Cost": "None"
   },
   "A05": {
     "id": "A05",
@@ -129,7 +139,9 @@
     "Trait": "Raptor",
     "FP Charge": "1",
     "Limitation": "Unlimited",
-    "Status": "Poison"
+    "Status": "Poison",
+    "Action": "None",
+    "FP Cost": "None"
   },
   "A06": {
     "id": "A06",
@@ -150,7 +162,10 @@
     "Range": "Close",
     "Trait": "Raptor",
     "FP Charge": "1",
-    "Limitation": "Unlimited"
+    "Limitation": "Unlimited",
+    "Action": "None",
+    "FP Cost": "None",
+    "Status": "None"
   },
   "A07": {
     "id": "A07",
@@ -172,7 +187,9 @@
     "Trait": "Tyranno",
     "FP Charge": "2",
     "Limitation": "Unlimited",
-    "Status": "Scare"
+    "Status": "Scare",
+    "Action": "None",
+    "FP Cost": "None"
   },
   "A31": {
     "id": "A31",
@@ -191,7 +208,12 @@
     "cost": "2",
     "Action": "Support",
     "Limitation": "Unlimited",
-    "FP Cost": "2"
+    "FP Cost": "2",
+    "Trait": "None",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None"
   },
   "A32": {
     "id": "A32",
@@ -209,9 +231,13 @@
     "type": "Action",
     "cost": "2",
     "Action": "Support",
-    "FP Charge": "",
+    "FP Charge": "None",
     "Limitation": "Unlimited",
-    "FP Cost": "2"
+    "FP Cost": "2",
+    "Status": "None",
+    "Range": "None",
+    "Element": "None",
+    "Trait": "None"
   },
   "A48": {
     "id": "A48",
@@ -229,9 +255,13 @@
     "type": "Action",
     "cost": "2",
     "Action": "Arena",
-    "FP Charge": "",
+    "FP Charge": "None",
     "Limitation": "Banned",
-    "FP Cost": "2"
+    "FP Cost": "2",
+    "Trait": "None",
+    "Element": "None",
+    "Range": "None",
+    "Status": "None"
   },
   "A23": {
     "id": "A23",
@@ -251,10 +281,11 @@
     "Element": "Water",
     "Range": "Mid",
     "Trait": "Aquatic",
-    "Action": "",
+    "Action": "None",
     "FP Charge": "1",
     "Limitation": "Unlimited",
-    "Status": "Poison"
+    "Status": "Poison",
+    "FP Cost": "None"
   },
   "A16": {
     "id": "A16",
@@ -274,10 +305,11 @@
     "Element": "Air",
     "Range": "Close",
     "Trait": "L-Theropod",
-    "Action": "",
+    "Action": "None",
     "FP Charge": "1",
     "Limitation": "Non-Starter",
-    "Status": "Harden"
+    "Status": "Harden",
+    "FP Cost": "None"
   },
   "A30": {
     "id": "A30",
@@ -297,9 +329,11 @@
     "Element": "Neutral",
     "Range": "Long",
     "Trait": "Sauropod",
-    "Action": "",
+    "Action": "None",
     "FP Charge": "2",
-    "Limitation": "Unlimited"
+    "Limitation": "Unlimited",
+    "FP Cost": "None",
+    "Status": "None"
   },
   "A43": {
     "id": "A43",
@@ -316,13 +350,14 @@
     "name": "Smashing Success",
     "type": "Action",
     "cost": "1",
-    "Element": "",
-    "Range": "",
-    "Trait": "",
+    "Element": "None",
+    "Range": "None",
+    "Trait": "None",
     "Action": "Assist",
-    "FP Charge": "",
+    "FP Charge": "None",
     "Limitation": "Unlimited",
-    "FP Cost": "1"
+    "FP Cost": "1",
+    "Status": "None"
   },
   "A46": {
     "id": "A46",
@@ -339,13 +374,14 @@
     "name": "The Barebones Brigade!!!",
     "type": "Action",
     "cost": "2",
-    "Element": "",
-    "Range": "",
+    "Element": "None",
+    "Range": "None",
     "Trait": "BareBones Brigade",
     "Action": "Attack",
-    "FP Charge": "",
+    "FP Charge": "None",
     "Limitation": "Unlimited",
-    "FP Cost": "2"
+    "FP Cost": "2",
+    "Status": "None"
   },
   "T01": {
     "id": "T01",
@@ -608,13 +644,14 @@
     "name": "Venator",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "L-Theropod",
     "Element": "Earth",
     "Range": "Close",
     "FP Charge": "1",
     "Limitation": "Unlimited",
-    "Status": "Quicken"
+    "Status": "Quicken",
+    "FP Cost": "None"
   },
   "A09": {
     "id": "A09",
@@ -631,12 +668,14 @@
     "name": "Carchar",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "L-Theropod",
     "Element": "Earth",
     "Range": "Close",
     "FP Charge": "1",
-    "Limitation": "Unlimited"
+    "Limitation": "Unlimited",
+    "FP Cost": "None",
+    "Status": "None"
   },
   "A10": {
     "id": "A10",
@@ -653,13 +692,14 @@
     "name": "Acro",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "L-Theropod",
     "Element": "Earth",
     "Range": "Close",
     "FP Charge": "1",
     "Limitation": "Unlimited",
-    "Status": "Enflame"
+    "Status": "Enflame",
+    "FP Cost": "None"
   },
   "A11": {
     "id": "A11",
@@ -676,12 +716,14 @@
     "name": "Carno",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "L-Theropod",
     "Element": "Earth",
     "Range": "Close",
     "FP Charge": "1",
-    "Limitation": "Unlimited"
+    "Limitation": "Unlimited",
+    "FP Cost": "None",
+    "Status": "None"
   },
   "A12": {
     "id": "A12",
@@ -698,12 +740,14 @@
     "name": "Argento",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Sauropod",
     "Element": "Earth",
     "Range": "Long",
     "FP Charge": "1",
-    "Limitation": "Unlimited"
+    "Limitation": "Unlimited",
+    "FP Cost": "None",
+    "Status": "None"
   },
   "A13": {
     "id": "A13",
@@ -720,12 +764,14 @@
     "name": "Tarbo",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Tyranno",
     "Element": "Air",
     "Range": "Close",
     "FP Charge": "2",
-    "Limitation": "Unlimited"
+    "Limitation": "Unlimited",
+    "FP Cost": "None",
+    "Status": "None"
   },
   "A14": {
     "id": "A14",
@@ -742,13 +788,14 @@
     "name": "Shanshan",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Tyranno",
     "Element": "Air",
     "Range": "Close",
     "FP Charge": "1",
     "Limitation": "Unlimited",
-    "Status": "Confuse"
+    "Status": "Confuse",
+    "FP Cost": "None"
   },
   "A15": {
     "id": "A15",
@@ -765,13 +812,14 @@
     "name": "Metria",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "L-Theropod",
     "Element": "Air",
     "Range": "Close",
     "FP Charge": "1",
     "Limitation": "Unlimited",
-    "Status": "Excite"
+    "Status": "Excite",
+    "FP Cost": "None"
   },
   "A17": {
     "id": "A17",
@@ -788,13 +836,14 @@
     "name": "M-Raptor",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Raptor",
     "Element": "Air",
     "Range": "Mid",
     "FP Charge": "1",
     "Limitation": "Unlimited",
-    "Status": "Poison"
+    "Status": "Poison",
+    "FP Cost": "None"
   },
   "A18": {
     "id": "A18",
@@ -811,13 +860,14 @@
     "name": "V-Raptor",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Raptor",
     "Element": "Air",
     "Range": "Close",
     "FP Charge": "1",
     "Limitation": "Unlimited",
-    "Status": "Poison"
+    "Status": "Poison",
+    "FP Cost": "None"
   },
   "A19": {
     "id": "A19",
@@ -834,13 +884,14 @@
     "name": "Alio",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Tyranno",
     "Element": "Water",
     "Range": "Close",
     "FP Charge": "1",
     "Limitation": "Unlimited",
-    "Status": "Poison"
+    "Status": "Poison",
+    "FP Cost": "None"
   },
   "A20": {
     "id": "A20",
@@ -857,12 +908,14 @@
     "name": "Krona",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Aquatic",
     "Element": "Water",
     "Range": "Long",
     "FP Charge": "2",
-    "Limitation": "Unlimited"
+    "Limitation": "Unlimited",
+    "FP Cost": "None",
+    "Status": "None"
   },
   "A21": {
     "id": "A21",
@@ -879,13 +932,14 @@
     "name": "Futabi",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Aquatic",
     "Element": "Water",
     "Range": "Mid",
     "FP Charge": "1",
     "Limitation": "Unlimited",
-    "Status": "Excite"
+    "Status": "Excite",
+    "FP Cost": "None"
   },
   "A22": {
     "id": "A22",
@@ -902,13 +956,14 @@
     "name": "Elasmo",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Aquatic",
     "Element": "Water",
     "Range": "Mid",
     "FP Charge": "1",
     "Limitation": "Unlimited",
-    "Status": "Enrage"
+    "Status": "Enrage",
+    "FP Cost": "None"
   },
   "A24": {
     "id": "A24",
@@ -925,12 +980,14 @@
     "name": "Shoni",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Aquatic",
     "Element": "Water",
     "Range": "Close",
     "FP Charge": "2",
-    "Limitation": "Unlimited"
+    "Limitation": "Unlimited",
+    "FP Cost": "None",
+    "Status": "None"
   },
   "A25": {
     "id": "A25",
@@ -947,13 +1004,14 @@
     "name": "Allo",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "L-Theropod",
     "Element": "Neutral",
     "Range": "Close",
     "FP Charge": "2",
     "Limitation": "Unlimited",
-    "Status": "Excite"
+    "Status": "Excite",
+    "FP Cost": "None"
   },
   "A26": {
     "id": "A26",
@@ -970,13 +1028,14 @@
     "name": "Megalo",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "L-Theropod",
     "Limitation": "Unlimited",
     "Element": "Neutral",
     "Range": "Close",
     "FP Charge": "1",
-    "Status": "Scare"
+    "Status": "Scare",
+    "FP Cost": "None"
   },
   "A27": {
     "id": "A27",
@@ -993,13 +1052,14 @@
     "name": "Neo",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "L-Theropod",
     "Element": "Neutral",
     "Range": "Close",
     "FP Charge": "1",
     "Limitation": "Unlimited",
-    "Status": "Excite"
+    "Status": "Excite",
+    "FP Cost": "None"
   },
   "A28": {
     "id": "A28",
@@ -1016,13 +1076,14 @@
     "name": "Tro",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Raptor",
     "Element": "Neutral",
     "Range": "Close",
     "FP Charge": "1",
     "Limitation": "Unlimited",
-    "Status": "Poison"
+    "Status": "Poison",
+    "FP Cost": "None"
   },
   "A29": {
     "id": "A29",
@@ -1039,12 +1100,14 @@
     "name": "O-Raptor",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "S-Theropod",
     "Element": "Neutral",
     "Range": "Mid",
     "FP Charge": "1",
-    "Limitation": "Unlimited"
+    "Limitation": "Unlimited",
+    "FP Cost": "None",
+    "Status": "None"
   },
   "A33": {
     "id": "A33",
@@ -1062,11 +1125,13 @@
     "type": "Action",
     "cost": "2",
     "Action": "Support",
-    "Trait": "",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "FP Cost": "2"
+    "Trait": "None",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "FP Cost": "2",
+    "Limitation": "Unlimited",
+    "Status": "None"
   },
   "A34": {
     "id": "A34",
@@ -1084,12 +1149,13 @@
     "type": "Action",
     "cost": "2",
     "Action": "Support",
-    "Trait": "",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
+    "Trait": "None",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
     "Limitation": "Unlimited",
-    "FP Cost": "2"
+    "FP Cost": "2",
+    "Status": "None"
   },
   "A35": {
     "id": "A35",
@@ -1107,12 +1173,13 @@
     "type": "Action",
     "cost": "2",
     "Action": "Support",
-    "Trait": "",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
+    "Trait": "None",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
     "Limitation": "Unlimited",
-    "FP Cost": "2"
+    "FP Cost": "2",
+    "Status": "None"
   },
   "A36": {
     "id": "A36",
@@ -1130,12 +1197,13 @@
     "type": "Action",
     "cost": "2",
     "Action": "Support",
-    "Trait": "",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
+    "Trait": "None",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
     "Limitation": "Unlimited",
-    "FP Cost": "2"
+    "FP Cost": "2",
+    "Status": "None"
   },
   "A37": {
     "id": "A37",
@@ -1153,12 +1221,13 @@
     "type": "Action",
     "cost": "2",
     "Action": "Support",
-    "Trait": "",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
+    "Trait": "None",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
     "Limitation": "Unlimited",
-    "FP Cost": "2"
+    "FP Cost": "2",
+    "Status": "None"
   },
   "A38": {
     "id": "A38",
@@ -1175,13 +1244,14 @@
     "name": "Dr. Diggins",
     "type": "Action",
     "cost": "",
-    "Action": "Support",
-    "Trait": "",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
+    "Action": "Assist",
+    "Trait": "None",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
     "Limitation": "Unlimited",
-    "FP Cost": "1+"
+    "FP Cost": "X",
+    "Status": "None"
   },
   "A39": {
     "id": "A39",
@@ -1198,13 +1268,14 @@
     "name": "Rosie",
     "type": "Action",
     "cost": "1",
-    "Action": "Support",
-    "Trait": "",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
+    "Action": "Assist",
+    "Trait": "None",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
     "Limitation": "Unlimited",
-    "FP Cost": "1"
+    "FP Cost": "1",
+    "Status": "None"
   },
   "A40": {
     "id": "A40",
@@ -1222,12 +1293,13 @@
     "type": "Action",
     "cost": 0,
     "Action": "Support",
-    "Trait": "",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
+    "Trait": "Machine",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
     "Limitation": "Unlimited",
-    "FP Cost": "0"
+    "FP Cost": "0",
+    "Status": "None"
   },
   "A41": {
     "id": "A41",
@@ -1245,12 +1317,13 @@
     "type": "Action",
     "cost": "1",
     "Action": "Assist",
-    "Trait": "",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
+    "Trait": "None",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
     "Limitation": "Unlimited",
-    "FP Cost": "1"
+    "FP Cost": "1",
+    "Status": "None"
   },
   "A42": {
     "id": "A42",
@@ -1268,12 +1341,13 @@
     "type": "Action",
     "cost": "1",
     "Action": "Assist",
-    "Trait": "",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
+    "Trait": "Machine",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
     "Limitation": "Unlimited",
-    "FP Cost": "1"
+    "FP Cost": "1",
+    "Status": "None"
   },
   "A44": {
     "id": "A44",
@@ -1291,12 +1365,13 @@
     "type": "Action",
     "cost": "3",
     "Action": "Attack",
-    "Trait": "",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
+    "Trait": "None",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
     "Limitation": "Unlimited",
-    "FP Cost": "3"
+    "FP Cost": "3",
+    "Status": "None"
   },
   "A45": {
     "id": "A45",
@@ -1312,14 +1387,15 @@
     },
     "name": "The BB Bandits!!!",
     "type": "Action",
-    "cost": "3",
+    "cost": "2",
     "Action": "Attack",
     "Trait": "BB bandit",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
     "Limitation": "Unlimited",
-    "FP Cost": "2"
+    "FP Cost": "2",
+    "Status": "None"
   },
   "A47": {
     "id": "A47",
@@ -1338,11 +1414,12 @@
     "cost": "2",
     "Action": "Attack",
     "Trait": "BareBones Brigade",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
     "Limitation": "Unlimited",
-    "FP Cost": "2"
+    "FP Cost": "2",
+    "Status": "None"
   },
   "A49": {
     "id": "A49",
@@ -1360,12 +1437,13 @@
     "type": "Action",
     "cost": "2",
     "Action": "Arena",
-    "Trait": "",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
+    "Trait": "None",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
     "Limitation": "Unlimited",
-    "FP Cost": "2"
+    "FP Cost": "2",
+    "Status": "None"
   },
   "A50": {
     "id": "A50",
@@ -1383,12 +1461,13 @@
     "type": "Action",
     "cost": "2",
     "Action": "Arena",
-    "Trait": "",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
+    "Trait": "None",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
     "Limitation": "Unlimited",
-    "FP Cost": "2"
+    "FP Cost": "2",
+    "Status": "None"
   },
   "B00": {
     "id": "B00",
@@ -1408,10 +1487,10 @@
     "Action": "Support",
     "Trait": "Dinaurian",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": "",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
     "FP Cost": "0"
   },
   "B01": {
@@ -1429,13 +1508,14 @@
     "name": "Ptera",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
-    "Trait": "Pterasaur",
+    "Action": "None",
+    "Trait": "Pterosaur",
     "Limitation": "Unlimited",
     "Element": "Air",
     "Range": "Long",
     "FP Charge": "1",
-    "Status": ""
+    "Status": "None",
+    "FP Cost": "None"
   },
   "B02": {
     "id": "B02",
@@ -1452,13 +1532,14 @@
     "name": "Coatlus",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
-    "Trait": "Pterasaur",
+    "Action": "None",
+    "Trait": "Pterosaur",
     "Limitation": "Unlimited",
     "Element": "Air",
     "Range": "Long",
     "FP Charge": "1",
-    "Status": "Enrage"
+    "Status": "Enrage",
+    "FP Cost": "None"
   },
   "B03": {
     "id": "B03",
@@ -1475,13 +1556,14 @@
     "name": "Coelo",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
-    "Trait": "S-Therapod",
+    "Action": "None",
+    "Trait": "S-Theropod",
     "Limitation": "Limited",
     "Element": "Air",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": ""
+    "Status": "None",
+    "FP Cost": "None"
   },
   "B04": {
     "id": "B04",
@@ -1498,13 +1580,14 @@
     "name": "Epidex",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Raptor",
     "Limitation": "Unlimited",
     "Element": "Air",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": "Poison"
+    "Status": "Poison",
+    "FP Cost": "None"
   },
   "B05": {
     "id": "B05",
@@ -1521,13 +1604,14 @@
     "name": "Pachrino",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Ceratops",
     "Limitation": "Unlimited",
     "Element": "Earth",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": "Enrage"
+    "Status": "Enrage",
+    "FP Cost": "None"
   },
   "B06": {
     "id": "B06",
@@ -1544,13 +1628,14 @@
     "name": "Dunkle",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Aquatic",
     "Limitation": "Unlimited",
     "Element": "Earth",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": ""
+    "Status": "None",
+    "FP Cost": "None"
   },
   "B07": {
     "id": "B07",
@@ -1567,13 +1652,14 @@
     "name": "Ourano",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
-    "Trait": "Ornithopod",
+    "Action": "None",
+    "Trait": "Ornitho",
     "Limitation": "Unlimited",
     "Element": "Earth",
     "Range": "Close",
     "FP Charge": "1",
-    "Status": "Confuse"
+    "Status": "Confuse",
+    "FP Cost": "None"
   },
   "B08": {
     "id": "B08",
@@ -1590,13 +1676,14 @@
     "name": "Siesmo",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Sauropod",
     "Limitation": "Banned",
     "Element": "Earth",
     "Range": "Long",
     "FP Charge": "3",
-    "Status": ""
+    "Status": "None",
+    "FP Cost": "None"
   },
   "B09": {
     "id": "B09",
@@ -1613,13 +1700,14 @@
     "name": "Cryo",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "L-Theropod",
     "Limitation": "Unlimited",
     "Element": "Water",
     "Range": "Close",
     "FP Charge": "1",
-    "Status": "Excite, Poison"
+    "Status": "Excite, Poison",
+    "FP Cost": "None"
   },
   "B10": {
     "id": "B10",
@@ -1636,13 +1724,14 @@
     "name": "Onyx",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Spinosaur",
     "Limitation": "Unlimited",
     "Element": "Water",
     "Range": "Close",
     "FP Charge": "1",
-    "Status": "Excite"
+    "Status": "Excite",
+    "FP Cost": "None"
   },
   "B11": {
     "id": "B11",
@@ -1659,13 +1748,14 @@
     "name": "Stygi-Aqua",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
-    "Trait": "Pachycephalo",
+    "Action": "None",
+    "Trait": "Pachycephalo, Altered",
     "Limitation": "Unlimited",
     "Element": "Water",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": ""
+    "Status": "None",
+    "FP Cost": "None"
   },
   "B12": {
     "id": "B12",
@@ -1682,13 +1772,14 @@
     "name": "Dimorph",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
-    "Trait": "Pterasaur",
+    "Action": "None",
+    "Trait": "Pterosaur",
     "Limitation": "Unlimited",
     "Element": "Fire",
     "Range": "Long",
     "FP Charge": "1",
-    "Status": "Enrage"
+    "Status": "Enrage",
+    "FP Cost": "None"
   },
   "B13": {
     "id": "B13",
@@ -1705,13 +1796,14 @@
     "name": "Sopteryx",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "S-Theropod",
     "Limitation": "Limited",
     "Element": "Fire",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": "Confuse"
+    "Status": "Confuse",
+    "FP Cost": "None"
   },
   "B14": {
     "id": "B14",
@@ -1728,13 +1820,14 @@
     "name": "Dinomaton",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
-    "Trait": "Dinaurian",
+    "Action": "None",
+    "Trait": "Dinaurian, Machine",
     "Limitation": "Unlimited",
     "Element": "Neutral",
     "Range": "Close",
     "FP Charge": "1",
-    "Status": ""
+    "Status": "None",
+    "FP Cost": "None"
   },
   "B15": {
     "id": "B15",
@@ -1751,13 +1844,14 @@
     "name": "Guera",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
-    "Trait": "Pterasaur",
+    "Action": "None",
+    "Trait": "Pterosaur",
     "Limitation": "Unlimited",
     "Element": "Neutral",
     "Range": "Long",
     "FP Charge": "1",
-    "Status": "Sleep"
+    "Status": "Sleep",
+    "FP Cost": "None"
   },
   "B16": {
     "id": "B16",
@@ -1774,13 +1868,14 @@
     "name": "Jara",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
-    "Trait": "Pterasaur",
+    "Action": "None",
+    "Trait": "Pterosaur",
     "Limitation": "Unlimited",
     "Element": "Neutral",
     "Range": "Long",
     "FP Charge": "1",
-    "Status": "Sleep"
+    "Status": "Sleep",
+    "FP Cost": "None"
   },
   "B17": {
     "id": "B17",
@@ -1797,13 +1892,13 @@
     "name": "Saurhead, The Champion!",
     "type": "Action",
     "cost": "1",
-    "Action": "Support",
-    "Trait": "",
+    "Action": "Attack",
+    "Trait": "None",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": "",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
     "FP Cost": "1"
   },
   "B18": {
@@ -1822,12 +1917,13 @@
     "type": "Action",
     "cost": "2",
     "Action": "Support",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "FP Cost": "2"
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "FP Cost": "2",
+    "Status": "Confuse"
   },
   "B19": {
     "id": "B19",
@@ -1836,22 +1932,22 @@
       "front": {
         "name": "Nevada Montecarlo",
         "type": "Action",
-        "cost": "3",
+        "cost": "2",
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/B/B19_Nevada%20Montecarlo.png",
         "isHorizontal": false
       }
     },
     "name": "Nevada Montecarlo",
     "type": "Action",
-    "cost": "3",
+    "cost": "2",
     "Action": "Support",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": "",
-    "FP Cost": "3"
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
+    "FP Cost": "2"
   },
   "B20": {
     "id": "B20",
@@ -1873,8 +1969,8 @@
     "Limitation": "Limited",
     "Element": "Neutral",
     "Range": "Mid",
-    "FP Charge": "",
-    "Status": "",
+    "FP Charge": "None",
+    "Status": "None",
     "FP Cost": "1"
   },
   "B21": {
@@ -1884,22 +1980,22 @@
       "front": {
         "name": "The Journey Begins",
         "type": "Action",
-        "cost": "5",
+        "cost": "3",
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/B/B21_The%20Journey%20Begins.png",
         "isHorizontal": false
       }
     },
     "name": "The Journey Beings",
     "type": "Action",
-    "cost": "5",
+    "cost": "3",
     "Action": "Support",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": "",
-    "FP Cost": "5"
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
+    "FP Cost": "3"
   },
   "B22": {
     "id": "B22",
@@ -1917,12 +2013,12 @@
     "type": "Action",
     "cost": "2",
     "Action": "Support",
-    "Trait": "",
+    "Trait": "Machine",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": "",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
     "FP Cost": "2"
   },
   "B23": {
@@ -1932,22 +2028,22 @@
       "front": {
         "name": "Beth",
         "type": "Action",
-        "cost": "1",
+        "cost": "2",
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/B/B23_Beth.png",
         "isHorizontal": false
       }
     },
     "name": "Beth",
     "type": "Vivosaur",
-    "cost": "1",
+    "cost": "2",
     "Action": "Support",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": "",
-    "FP Cost": "1"
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
+    "FP Cost": "2"
   },
   "B24": {
     "id": "B24",
@@ -1956,22 +2052,22 @@
       "front": {
         "name": "Captain Bullwort",
         "type": "Action",
-        "cost": "3",
+        "cost": "1",
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/B/B24_Captain%20Bullwort.png",
         "isHorizontal": false
       }
     },
     "name": "Captain Bullwort",
     "type": "Action",
-    "cost": "3",
+    "cost": "1",
     "Action": "Support",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": "",
-    "FP Cost": "3"
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
+    "FP Cost": "1"
   },
   "B25": {
     "id": "B25",
@@ -1989,12 +2085,12 @@
     "type": "Action",
     "cost": "2",
     "Action": "Arena",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": "",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
     "FP Cost": "2"
   },
   "B26": {
@@ -2013,12 +2109,12 @@
     "type": "Action",
     "cost": "1",
     "Action": "Arena",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": "",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
     "FP Cost": "1"
   },
   "B27": {
@@ -2037,12 +2133,12 @@
     "type": "Action",
     "cost": "4",
     "Action": "Arena",
-    "Trait": "",
+    "Trait": "Machine",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": "",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
     "FP Cost": "4"
   },
   "B28": {
@@ -2061,12 +2157,12 @@
     "type": "Action",
     "cost": "1",
     "Action": "Attack",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": "",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
     "FP Cost": "1"
   },
   "B29": {
@@ -2085,12 +2181,13 @@
     "type": "Action",
     "cost": "1",
     "Action": "Support",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "FP Cost": "1"
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "FP Cost": "1",
+    "Status": "Sleep"
   },
   "B30": {
     "id": "B30",
@@ -2108,12 +2205,12 @@
     "type": "Action",
     "cost": "4",
     "Action": "Arena",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": "",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
     "FP Cost": "4"
   },
   "B31": {
@@ -2131,13 +2228,13 @@
     "name": "Rivet Ravine",
     "type": "Action",
     "cost": "3",
-    "Action": "",
-    "Trait": "",
+    "Action": "None",
+    "Trait": "None",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": "",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
     "FP Cost": "3"
   },
   "B32": {
@@ -2158,10 +2255,10 @@
     "Action": "Arena",
     "Trait": "Dinaurian",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": "",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
     "FP Cost": "1"
   },
   "B33": {
@@ -2171,22 +2268,22 @@
       "front": {
         "name": "Medal Stealer Joe",
         "type": "Action",
-        "cost": "6",
+        "cost": "4",
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/B/B33_Medal%20Stealer%20Joe.png",
         "isHorizontal": false
       }
     },
     "name": "Medal Stealer Joe",
     "type": "Action",
-    "cost": "6",
+    "cost": "4",
     "Action": "Attack",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": "",
-    "FP Cost": "6"
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
+    "FP Cost": "4"
   },
   "B34": {
     "id": "B34",
@@ -2206,10 +2303,10 @@
     "Action": "Attack",
     "Trait": "BB Bandit",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": "",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
     "FP Cost": "2"
   },
   "B35": {
@@ -2228,12 +2325,12 @@
     "type": "Action",
     "cost": "3",
     "Action": "Attack",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": "",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
     "FP Cost": "3"
   },
   "B36": {
@@ -2252,12 +2349,12 @@
     "type": "Action",
     "cost": "3",
     "Action": "Attack",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": "",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
     "FP Cost": "3"
   },
   "B37": {
@@ -2278,10 +2375,10 @@
     "Action": "Attack",
     "Trait": "BB Bandit",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": "",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
     "FP Cost": "5"
   },
   "B38": {
@@ -2291,20 +2388,20 @@
       "front": {
         "name": "Tempest Barrage",
         "type": "Action",
-        "cost": 0,
+        "cost": "1",
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/B/B38_Tempest%20Barrage.png",
         "isHorizontal": false
       }
     },
     "name": "Tempest Barrage",
     "type": "Action",
-    "cost": 0,
+    "cost": "1",
     "Action": "Team",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
     "FP Cost": "4",
     "Status": "Enrage, Confuse, Excite"
   },
@@ -2315,21 +2412,21 @@
       "front": {
         "name": "Titanic",
         "type": "Action",
-        "cost": 0,
+        "cost": "4",
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/B/B39_Titantic%20Shift.png",
         "isHorizontal": false
       }
     },
     "name": "Titanic Shift",
     "type": "Action",
-    "cost": 0,
+    "cost": "4",
     "Action": "Team",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": "",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
     "FP Cost": "8"
   },
   "B40": {
@@ -2339,21 +2436,21 @@
       "front": {
         "name": "Tyrant's Burst",
         "type": "Action",
-        "cost": 0,
+        "cost": "3",
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/B/B40_Tyrant's%20Burst.png",
         "isHorizontal": false
       }
     },
     "name": "Tyrant's Burst",
     "type": "Action",
-    "cost": 0,
+    "cost": "3",
     "Action": "Team",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": "",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
     "FP Cost": "6"
   },
   "C00": {
@@ -2374,10 +2471,10 @@
     "Action": "Arena",
     "Trait": "Dinaurian",
     "Limitation": "Banned",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": "",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
     "FP Cost": "2"
   },
   "C01": {
@@ -2395,13 +2492,14 @@
     "name": "Tricera",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Ceratops",
     "Limitation": "Unlimited",
     "Element": "Water",
     "Range": "Mid",
     "FP Charge": "2",
-    "Status": ""
+    "Status": "None",
+    "FP Cost": "None"
   },
   "C02": {
     "id": "C02",
@@ -2418,13 +2516,14 @@
     "name": "Proto",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Ceratops",
     "Limitation": "Unlimited",
     "Element": "Water",
     "Range": "Close",
     "FP Charge": "1",
-    "Status": "Harden"
+    "Status": "Harden",
+    "FP Cost": "None"
   },
   "C03": {
     "id": "C03",
@@ -2441,13 +2540,14 @@
     "name": "Dilopho",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "S-Theropod",
     "Limitation": "Unlimited",
     "Element": "Water",
     "Range": "Close",
     "FP Charge": "1",
-    "Status": ""
+    "Status": "None",
+    "FP Cost": "None"
   },
   "C04": {
     "id": "C04",
@@ -2464,13 +2564,14 @@
     "name": "Thalasso",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
-    "Trait": "Pterasaur",
+    "Action": "None",
+    "Trait": "Pterosaur",
     "Limitation": "Unlimited",
     "Element": "Water",
     "Range": "Long",
     "FP Charge": "1",
-    "Status": "Poison"
+    "Status": "Poison",
+    "FP Cost": "None"
   },
   "C05": {
     "id": "C05",
@@ -2487,13 +2588,14 @@
     "name": "Toba",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Sauropod",
     "Limitation": "Unlimited",
     "Element": "Water",
     "Range": "Long",
     "FP Charge": "1",
-    "Status": "Harden"
+    "Status": "Harden",
+    "FP Cost": "None"
   },
   "C06": {
     "id": "C06",
@@ -2510,13 +2612,14 @@
     "name": "Equinas",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Super Evolver",
     "Limitation": "Unlimited",
     "Element": "Water",
     "Range": "Long",
-    "FP Charge": "",
-    "Status": ""
+    "FP Charge": "None",
+    "Status": "None",
+    "FP Cost": "None"
   },
   "C07": {
     "id": "C07",
@@ -2533,13 +2636,14 @@
     "name": "Tro - Aqua",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
-    "Trait": "Raptor",
+    "Action": "None",
+    "Trait": "Raptor, Altered",
     "Limitation": "Unlimited",
     "Element": "Water",
     "Range": "Close",
     "FP Charge": "1",
-    "Status": "Quicken"
+    "Status": "Quicken",
+    "FP Cost": "None"
   },
   "C08": {
     "id": "C08",
@@ -2556,13 +2660,14 @@
     "name": "Centro",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Ceratops",
     "Limitation": "Unlimited",
     "Element": "Earth",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": ""
+    "Status": "None",
+    "FP Cost": "None"
   },
   "C09": {
     "id": "C09",
@@ -2579,13 +2684,14 @@
     "name": "Salto",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Sauropod",
     "Limitation": "Unlimited",
     "Element": "Earth",
     "Range": "Long",
     "FP Charge": "1",
-    "Status": "Harden"
+    "Status": "Harden",
+    "FP Cost": "None"
   },
   "C10": {
     "id": "C10",
@@ -2602,13 +2708,14 @@
     "name": "Tsintao",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Ornithopod",
     "Limitation": "Unlimited",
     "Element": "Earth",
     "Range": "Close",
     "FP Charge": "1",
-    "Status": "Confuse"
+    "Status": "Confuse",
+    "FP Cost": "None"
   },
   "C11": {
     "id": "C11",
@@ -2625,13 +2732,14 @@
     "name": "Bulgon",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Super Evolver",
     "Limitation": "Unlimited",
     "Element": "Earth",
     "Range": "Close",
     "FP Charge": "",
-    "Status": "Excite"
+    "Status": "Excite",
+    "FP Cost": "None"
   },
   "C12": {
     "id": "C12",
@@ -2648,13 +2756,14 @@
     "name": "Ptera - Geo",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
-    "Trait": "Pterosaur",
+    "Action": "None",
+    "Trait": "Pterosaur, Altered",
     "Limitation": "Unlimited",
     "Element": "Earth",
     "Range": "Long",
     "FP Charge": "1",
-    "Status": ""
+    "Status": "None",
+    "FP Cost": "None"
   },
   "C13": {
     "id": "C13",
@@ -2671,13 +2780,14 @@
     "name": "Einio",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Ceratops",
     "Limitation": "Unlimited",
     "Element": "Fire",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": ""
+    "Status": "None",
+    "FP Cost": "None"
   },
   "C14": {
     "id": "C14",
@@ -2694,13 +2804,14 @@
     "name": "Lambeo",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
-    "Trait": "Ornithopod",
+    "Action": "None",
+    "Trait": "Ornitho",
     "Limitation": "Unlimited",
     "Element": "Fire",
     "Range": "Close",
     "FP Charge": "1",
-    "Status": "Enrage, Excite"
+    "Status": "Enrage, Excite",
+    "FP Cost": "None"
   },
   "C15": {
     "id": "C15",
@@ -2717,13 +2828,14 @@
     "name": "Gorgo",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Tyranno",
     "Limitation": "Unlimited",
     "Element": "Fire",
     "Range": "Close",
     "FP Charge": "1",
-    "Status": "Scare"
+    "Status": "Scare",
+    "FP Cost": "None"
   },
   "C16": {
     "id": "C16",
@@ -2740,13 +2852,14 @@
     "name": "Andrarch",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Mammal",
     "Limitation": "Unlimited",
     "Element": "Fire",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": "Enrage"
+    "Status": "Enrage",
+    "FP Cost": "None"
   },
   "C17": {
     "id": "C17",
@@ -2763,13 +2876,14 @@
     "name": "Acro - Magma",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
-    "Trait": "L-THerapod",
+    "Action": "None",
+    "Trait": "L-Theropod, Altered",
     "Limitation": "Unlimited",
     "Element": "Fire",
     "Range": "Close",
     "FP Charge": "2",
-    "Status": "Harden , Enflame"
+    "Status": "Harden , Enflame",
+    "FP Cost": "None"
   },
   "C18": {
     "id": "C18",
@@ -2786,13 +2900,14 @@
     "name": "Dimetro",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Reptile",
     "Limitation": "Unlimited",
     "Element": "Fire",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": ""
+    "Status": "None",
+    "FP Cost": "None"
   },
   "C19": {
     "id": "C19",
@@ -2809,13 +2924,14 @@
     "name": "Lugmos",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Super Evolver",
     "Limitation": "Unlimited",
     "Element": "Fire",
     "Range": "Mid",
-    "FP Charge": "",
-    "Status": "Scare"
+    "FP Charge": "None",
+    "Status": "Scare",
+    "FP Cost": "None"
   },
   "C20": {
     "id": "C20",
@@ -2832,12 +2948,14 @@
     "name": "Styraco",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Ceratops",
     "Limitation": "Unlimited",
     "Element": "Air",
     "Range": "Mid",
-    "FP Charge": "1"
+    "FP Charge": "1",
+    "FP Cost": "None",
+    "Status": "None"
   },
   "C21": {
     "id": "C21",
@@ -2854,13 +2972,14 @@
     "name": "Igua",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
-    "Trait": "Ornithopod",
+    "Action": "None",
+    "Trait": "Ornitho",
     "Limitation": "Unlimited",
     "Element": "Air",
     "Range": "Close",
     "FP Charge": "1",
-    "Status": ""
+    "Status": "None",
+    "FP Cost": "None"
   },
   "C22": {
     "id": "C22",
@@ -2877,13 +2996,14 @@
     "name": "Radox",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Invertebrate",
     "Limitation": "Unlimited",
     "Element": "Air",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": "Counter"
+    "Status": "Counter",
+    "FP Cost": "None"
   },
   "C23": {
     "id": "C23",
@@ -2900,13 +3020,14 @@
     "name": "S-Raptor - Gale",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
-    "Trait": "L-Therapod",
+    "Action": "None",
+    "Trait": "L-Theropod, Altered",
     "Limitation": "Unlimited",
     "Element": "Air",
     "Range": "Close",
     "FP Charge": "1",
-    "Status": ""
+    "Status": "None",
+    "FP Cost": "None"
   },
   "C24": {
     "id": "C24",
@@ -2923,13 +3044,14 @@
     "name": "Aeros",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Tyranno",
     "Limitation": "Unlimited",
     "Element": "Air",
     "Range": "Close",
     "FP Charge": "1",
-    "Status": "Excite"
+    "Status": "Excite",
+    "FP Cost": "None"
   },
   "C25": {
     "id": "C25",
@@ -2946,13 +3068,14 @@
     "name": "Teffla",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Super Evolver",
     "Limitation": "Unlimited",
     "Element": "Air",
     "Range": "Close",
-    "FP Charge": "",
-    "Status": ""
+    "FP Charge": "None",
+    "Status": "None",
+    "FP Cost": "None"
   },
   "C26": {
     "id": "C26",
@@ -2969,13 +3092,14 @@
     "name": "Penta",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Ceratops",
     "Limitation": "Unlimited",
     "Element": "Neutral",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": ""
+    "Status": "None",
+    "FP Cost": "None"
   },
   "C27": {
     "id": "C27",
@@ -2992,13 +3116,14 @@
     "name": "Plesio - Zero",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
-    "Trait": "Aquatic",
+    "Action": "None",
+    "Trait": "Aquatic, Altered",
     "Limitation": "Limited",
     "Element": "Neutral",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": "Poison"
+    "Status": "Poison",
+    "FP Cost": "None"
   },
   "C28": {
     "id": "C28",
@@ -3015,13 +3140,14 @@
     "name": "Tophis",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Reptile",
     "Limitation": "Unlimited",
     "Element": "Neutral",
     "Range": "Close",
     "FP Charge": "1",
-    "Status": "Quicken, Sleep"
+    "Status": "Quicken, Sleep",
+    "FP Cost": "None"
   },
   "C29": {
     "id": "C29",
@@ -3030,22 +3156,22 @@
       "front": {
         "name": "Miraculous Fossil",
         "type": "Action",
-        "cost": "1",
+        "cost": "2",
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/C/C29_Miraculous%20Fossil.png",
         "isHorizontal": false
       }
     },
     "name": "Miraculous Fossil",
     "type": "Action",
-    "cost": "1",
+    "cost": "2",
     "Action": "Support",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": "",
-    "FP Cost": "1"
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
+    "FP Cost": "2"
   },
   "C30": {
     "id": "C30",
@@ -3059,16 +3185,17 @@
         "isHorizontal": false
       }
     },
-    "name": "Deathly Breathe",
+    "name": "Deathly Breath",
     "type": "Action",
     "cost": "1",
     "Action": "Support",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "FP Cost": "1"
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "FP Cost": "1",
+    "Status": "Poison"
   },
   "C31": {
     "id": "C31",
@@ -3077,22 +3204,22 @@
       "front": {
         "name": "VMM - Ilium",
         "type": "Action",
-        "cost": "1",
+        "cost": "0",
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/C/C31_VMM%20-%20Ilium.png",
         "isHorizontal": false
       }
     },
     "name": "VMM - Ilium",
     "type": "Action",
-    "cost": "1",
-    "Action": "",
-    "Trait": "",
+    "cost": "0",
+    "Action": "Assist",
+    "Trait": "Machine",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": "",
-    "FP Cost": "1"
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
+    "FP Cost": "0"
   },
   "C32": {
     "id": "C32",
@@ -3110,12 +3237,12 @@
     "type": "Action",
     "cost": "2",
     "Action": "Attack",
-    "Trait": "",
+    "Trait": "Machine",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": "",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
     "FP Cost": "2"
   },
   "C33": {
@@ -3134,12 +3261,12 @@
     "type": "Action",
     "cost": "2",
     "Action": "Arena",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": "",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
     "FP Cost": "2"
   },
   "C34": {
@@ -3156,14 +3283,15 @@
     },
     "name": "Idol Comp Master Room",
     "type": "Action",
-    "cost": 0,
+    "cost": "3",
     "Action": "Arena",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "FP Cost": "0"
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "FP Cost": "3",
+    "Status": "None"
   },
   "C35": {
     "id": "C35",
@@ -3181,12 +3309,12 @@
     "type": "Action",
     "cost": "1",
     "Action": "Arena",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": false,
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
     "FP Cost": "1"
   },
   "C36": {
@@ -3196,21 +3324,21 @@
       "front": {
         "name": "Tri-Torpedo",
         "type": "Action",
-        "cost": 0,
+        "cost": "2",
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/C/C36_Tri-Torpedo.png",
         "isHorizontal": false
       }
     },
     "name": "Tri-Torpedo",
     "type": "Action",
-    "cost": 0,
+    "cost": "2",
     "Action": "Team",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": false,
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
     "FP Cost": "4"
   },
   "C37": {
@@ -3231,10 +3359,10 @@
     "Action": "Attack",
     "Trait": "Dinaurian",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": false,
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
     "FP Cost": "3"
   },
   "C38": {
@@ -3255,10 +3383,10 @@
     "Action": "Attack",
     "Trait": "Dinaurian",
     "Limitation": "Unlimited",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": false,
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None",
     "FP Cost": "3"
   },
   "C39": {
@@ -3276,13 +3404,14 @@
     "name": "Duna - DE",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
-    "Trait": "Dinaurian",
+    "Action": "None",
+    "Trait": "Dinaurian, S-Theropod",
     "Limitation": "Unlimited",
     "Element": "Water",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": "Confuse"
+    "Status": "Confuse",
+    "FP Cost": "None"
   },
   "C40": {
     "id": "C40",
@@ -3299,13 +3428,14 @@
     "name": "Raptin - DE",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
-    "Trait": "Dinaurian",
+    "Action": "None",
+    "Trait": "Dinaurian, Raptor",
     "Limitation": "Unlimited",
     "Element": "Air",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": "Poison"
+    "Status": "Poison",
+    "FP Cost": "None"
   },
   "D00": {
     "id": "D00",
@@ -3322,10 +3452,10 @@
     "name": "Dynal - DR",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
-    "Trait": "Dinaurian",
+    "Action": "None",
+    "Trait": "Dinaurian, Tyranno",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Neutral",
     "Range": "Close",
     "FP Charge": "2",
@@ -3346,14 +3476,14 @@
     "name": "Guan",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Tyranno",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Fire",
     "Range": "Close",
     "FP Charge": "1",
-    "Status": ""
+    "Status": "None"
   },
   "D02": {
     "id": "D02",
@@ -3370,10 +3500,10 @@
     "name": "Siamo",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Tyranno",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Fire",
     "Range": "Close",
     "FP Charge": "1",
@@ -3394,10 +3524,10 @@
     "name": "Dikelo",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Invertebrate",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Fire",
     "Range": "Mid",
     "FP Charge": "1",
@@ -3419,13 +3549,13 @@
     "type": "Action",
     "cost": "1",
     "Action": "Tool",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
     "FP Cost": "1",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": ""
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None"
   },
   "D05": {
     "id": "D05",
@@ -3442,14 +3572,14 @@
     "name": "B-Rex",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Boney",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Fire",
     "Range": "Close",
     "FP Charge": "1",
-    "Status": ""
+    "Status": "None"
   },
   "D06": {
     "id": "D06",
@@ -3466,10 +3596,10 @@
     "name": "B-Jara",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Boney",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Fire",
     "Range": "Long",
     "FP Charge": "1",
@@ -3490,10 +3620,10 @@
     "name": "Squirk",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Bird",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Fire",
     "Range": "Mid",
     "FP Charge": "1",
@@ -3514,10 +3644,10 @@
     "name": "Cryo - Magma",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
-    "Trait": "L-Theropod",
+    "Action": "None",
+    "Trait": "L-Theropod, Altered",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Fire",
     "Range": "Close",
     "FP Charge": "1",
@@ -3538,14 +3668,14 @@
     "name": "T-Rex Lord",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Super Evolver",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Fire",
     "Range": "Close",
-    "FP Charge": "",
-    "Status": ""
+    "FP Charge": "None",
+    "Status": "None"
   },
   "D10": {
     "id": "D10",
@@ -3562,10 +3692,10 @@
     "name": "Chelon",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Aquatic",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Water",
     "Range": "Mid",
     "FP Charge": "1",
@@ -3586,10 +3716,10 @@
     "name": "Mammoth",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Mammal",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Water",
     "Range": "Mid",
     "FP Charge": "1",
@@ -3610,10 +3740,10 @@
     "name": "B-Plesio",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Boney",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Water",
     "Range": "Mid",
     "FP Charge": "1",
@@ -3631,13 +3761,13 @@
         "isHorizontal": false
       }
     },
-    "name": "B-tricera",
+    "name": "B-Tricera",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Boney",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Water",
     "Range": "Mid",
     "FP Charge": "1",
@@ -3658,10 +3788,10 @@
     "name": "Squilk",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Bird",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Water",
     "Range": "Mid",
     "FP Charge": "1",
@@ -3682,14 +3812,14 @@
     "name": "Argento - Aqua",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
-    "Trait": "Sauropod",
+    "Action": "None",
+    "Trait": "Sauropod, Altered",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Water",
     "Range": "Long",
     "FP Charge": "2",
-    "Status": ""
+    "Status": "None"
   },
   "D16": {
     "id": "D16",
@@ -3706,13 +3836,13 @@
     "name": "Heracles",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Super Evolver",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Water",
     "Range": "Mid",
-    "FP Charge": "",
+    "FP Charge": "None",
     "Status": "Enflame"
   },
   "D17": {
@@ -3730,14 +3860,14 @@
     "name": "B-Lambeo",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Boney",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Air",
     "Range": "Close",
     "FP Charge": "1",
-    "Status": ""
+    "Status": "None"
   },
   "D18": {
     "id": "D18",
@@ -3754,14 +3884,14 @@
     "name": "B-Ptera",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Boney",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Air",
     "Range": "Long",
     "FP Charge": "1",
-    "Status": ""
+    "Status": "None"
   },
   "D19": {
     "id": "D19",
@@ -3778,10 +3908,10 @@
     "name": "Squiro",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Bird",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Air",
     "Range": "Mid",
     "FP Charge": "1",
@@ -3802,10 +3932,10 @@
     "name": "Breme - Gale",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
-    "Trait": "Raptor",
+    "Action": "None",
+    "Trait": "Raptor, Altered",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Air",
     "Range": "Close",
     "FP Charge": "1",
@@ -3826,13 +3956,13 @@
     "name": "Giga Spinax",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Super Evolver",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Air",
     "Range": "Close",
-    "FP Charge": "",
+    "FP Charge": "None",
     "Status": "Harden"
   },
   "D22": {
@@ -3850,14 +3980,14 @@
     "name": "Terata",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Invertebrate",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Earth",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": ""
+    "Status": "None"
   },
   "D23": {
     "id": "D23",
@@ -3874,10 +4004,10 @@
     "name": "Squirth",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Bird",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Earth",
     "Range": "Mid",
     "FP Charge": "1",
@@ -3898,14 +4028,14 @@
     "name": "Brachio - Geo",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
-    "Trait": "Sauropod",
+    "Action": "None",
+    "Trait": "Sauropod, Altered",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Earth",
     "Range": "Long",
     "FP Charge": "2",
-    "Status": ""
+    "Status": "None"
   },
   "D25": {
     "id": "D25",
@@ -3922,10 +4052,10 @@
     "name": "Caveman Diggins",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Mammal",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Neutral",
     "Range": "Close",
     "FP Charge": "1",
@@ -3946,14 +4076,14 @@
     "name": "B-Brachio",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Boney",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Neutral",
     "Range": "Long",
     "FP Charge": "1",
-    "Status": ""
+    "Status": "None"
   },
   "D27": {
     "id": "D27",
@@ -3970,14 +4100,14 @@
     "name": "Spinax - Zero",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
-    "Trait": "L-Therapod",
+    "Action": "None",
+    "Trait": "L-Theropod, Altered",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Neutral",
     "Range": "Close",
     "FP Charge": "1",
-    "Status": ""
+    "Status": "None"
   },
   "D28": {
     "id": "D28",
@@ -3998,10 +4128,10 @@
     "Trait": "BB Bandit",
     "Limitation": "Unlimited",
     "FP Cost": "3",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": ""
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None"
   },
   "D29": {
     "id": "D29",
@@ -4022,10 +4152,10 @@
     "Trait": "BareBones Brigade",
     "Limitation": "Unlimited",
     "FP Cost": "5",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": ""
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None"
   },
   "D30": {
     "id": "D30",
@@ -4043,13 +4173,13 @@
     "type": "Action",
     "cost": "1",
     "Action": "Support",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
     "FP Cost": "1",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": ""
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None"
   },
   "D31": {
     "id": "D31",
@@ -4067,13 +4197,13 @@
     "type": "Vivosaur",
     "cost": 0,
     "Action": "Support",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
     "FP Cost": "0",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": ""
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None"
   },
   "D32": {
     "id": "D32",
@@ -4091,37 +4221,37 @@
     "type": "Action",
     "cost": "1",
     "Action": "Support",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
     "FP Cost": "1",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": ""
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None"
   },
   "D33": {
     "id": "D33",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Calisteo Pipsqueak",
+        "name": "Caliosteo Pipsqueak",
         "type": "Action",
         "cost": "2",
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D33_Calisteo_Pipsqueak.png",
         "isHorizontal": false
       }
     },
-    "name": "Calisteo Pipsqueak",
+    "name": "Caliosteo Pipsqueak",
     "type": "Action",
     "cost": "2",
     "Action": "Tool",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
     "FP Cost": "2",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": ""
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None"
   },
   "D34": {
     "id": "D34",
@@ -4135,17 +4265,17 @@
         "isHorizontal": false
       }
     },
-    "name": "The BareBones Brigade Goods",
+    "name": "The BareBones Brigade Goons",
     "type": "Action",
     "cost": "2",
     "Action": "Support",
     "Trait": "BareBones Brigade",
     "Limitation": "Unlimited",
     "FP Cost": "2",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": ""
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None"
   },
   "D35": {
     "id": "D35",
@@ -4164,60 +4294,60 @@
     "cost": "2",
     "Action": "Support",
     "Trait": "BareBones Brigade",
-    "Limitation": "",
+    "Limitation": "None",
     "FP Cost": "2",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": ""
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None"
   },
   "D36": {
     "id": "D36",
     "isToken": false,
     "face": {
       "front": {
-        "name": "BareBones Brigade - Lester",
+        "name": "BareBones Captain - Lester",
         "type": "Action",
         "cost": "2",
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D36_BareBones%20Brigade%20Captain%20-%20Lester.png",
         "isHorizontal": false
       }
     },
-    "name": "BareBones Brigade - Lester",
+    "name": "BareBones Captain - Lester",
     "type": "Action",
     "cost": "2",
     "Action": "Support",
     "Trait": "BareBones Brigade",
     "Limitation": "Unlimited",
     "FP Cost": "2",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": ""
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None"
   },
   "D37": {
     "id": "D37",
     "isToken": false,
     "face": {
       "front": {
-        "name": "BareBones Brigade - Cole",
+        "name": "BareBones Captain - Cole",
         "type": "Action",
         "cost": "2",
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D37_BareBones%20Brigade%20Captain%20-%20Cole.png",
         "isHorizontal": false
       }
     },
-    "name": "BareBones Bridage - Cole",
+    "name": "BareBones Captain - Cole",
     "type": "Action",
     "cost": "2",
     "Action": "Support",
     "Trait": "BareBones Brigade",
     "Limitation": "Unlimited",
     "FP Cost": "2",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": ""
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None"
   },
   "D38": {
     "id": "D38",
@@ -4238,10 +4368,10 @@
     "Trait": "BB Bandits",
     "Limitation": "Unlimited",
     "FP Cost": "1",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": ""
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None"
   },
   "D39": {
     "id": "D39",
@@ -4262,10 +4392,10 @@
     "Trait": "BB Bandits",
     "Limitation": "Unlimited",
     "FP Cost": "1",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": ""
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None"
   },
   "D40": {
     "id": "D40",
@@ -4286,10 +4416,10 @@
     "Trait": "BB Bandits",
     "Limitation": "Unlimited",
     "FP Cost": "1",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": ""
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None"
   },
   "D41": {
     "id": "D41",
@@ -4312,8 +4442,8 @@
     "FP Cost": "0",
     "Element": "Neutral",
     "Range": "Mid",
-    "FP Charge": "",
-    "Status": ""
+    "FP Charge": "None",
+    "Status": "None"
   },
   "D42": {
     "id": "D42",
@@ -4336,8 +4466,8 @@
     "FP Cost": "0",
     "Element": "Neutral",
     "Range": "Mid",
-    "FP Charge": "",
-    "Status": ""
+    "FP Charge": "None",
+    "Status": "None"
   },
   "D43": {
     "id": "D43",
@@ -4360,8 +4490,8 @@
     "FP Cost": "3",
     "Element": "Neutral",
     "Range": "Close",
-    "FP Charge": "",
-    "Status": ""
+    "FP Charge": "None",
+    "Status": "None"
   },
   "D44": {
     "id": "D44",
@@ -4379,13 +4509,13 @@
     "type": "Action",
     "cost": "1",
     "Action": "Assist",
-    "Trait": "",
+    "Trait": "Machine",
     "Limitation": "Unlimited",
     "FP Cost": "1",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": ""
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None"
   },
   "D45": {
     "id": "D45",
@@ -4403,13 +4533,13 @@
     "type": "Action",
     "cost": "3",
     "Action": "Arena",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
     "FP Cost": "3",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": ""
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None"
   },
   "D46": {
     "id": "D46",
@@ -4427,13 +4557,13 @@
     "type": "Action",
     "cost": "6",
     "Action": "Support",
-    "Trait": "",
+    "Trait": "Machine",
     "Limitation": "Unlimited",
     "FP Cost": "6",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": ""
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None"
   },
   "D47": {
     "id": "D47",
@@ -4451,13 +4581,13 @@
     "type": "Action",
     "cost": "1",
     "Action": "Tool",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
     "FP Cost": "1",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": ""
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None"
   },
   "D48": {
     "id": "D48",
@@ -4466,22 +4596,22 @@
       "front": {
         "name": "Antimatter Beam",
         "type": "Action",
-        "cost": 0,
+        "cost": "7",
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/D/D48_Antimatter_Beam.png",
         "isHorizontal": false
       }
     },
     "name": "Antimatter Beam",
     "type": "Action",
-    "cost": 0,
+    "cost": "7",
     "Action": "Team",
     "Trait": "Dinaurian",
     "Limitation": "Unlimited",
-    "FP Cost": "9",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": ""
+    "FP Cost": "7",
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None"
   },
   "D49": {
     "id": "D49",
@@ -4499,13 +4629,13 @@
     "type": "Action",
     "cost": "1",
     "Action": "Tool",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
     "FP Cost": "1",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": ""
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None"
   },
   "D50": {
     "id": "D50",
@@ -4522,10 +4652,10 @@
     "name": "Squik",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Bird",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Neutral",
     "Range": "Mid",
     "FP Charge": "1",
@@ -4546,14 +4676,14 @@
     "name": "Stygi",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Pachycephalo",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Fire",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": ""
+    "Status": "None"
   },
   "Deck02": {
     "id": "Deck02",
@@ -4570,14 +4700,14 @@
     "name": "Pachy",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Pachycephalo",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Earth",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": ""
+    "Status": "None"
   },
   "Deck03": {
     "id": "Deck03",
@@ -4594,14 +4724,14 @@
     "name": "Goyo",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Pachycephalo",
     "Limitation": "Unlimited",
-    "FP Cost": "",
+    "FP Cost": "None",
     "Element": "Air",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": ""
+    "Status": "None"
   },
   "Deck04": {
     "id": "Deck04",
@@ -4619,36 +4749,36 @@
     "type": "Action",
     "cost": "1",
     "Action": "Support",
-    "Trait": "",
+    "Trait": "None",
     "Limitation": "Unlimited",
     "FP Cost": "1",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": ""
+    "Element": "None",
+    "Range": "None",
+    "FP Charge": "None",
+    "Status": "None"
   },
-  "Deck05": {
-    "id": "Deck05",
+  "E47": {
+    "id": "E47",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Radar",
-        "type": "Action",
-        "cost": "1",
-        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/DECK/DECK05_Radar.png",
+        "name": "Zino",
+        "type": "Vivosaur",
+        "cost": 0,
+        "image": "https://media.discordapp.net/attachments/1154561870519353386/1459232357432430645/E47_Zino.png?ex=69628789&is=69613609&hm=9d12b8754f55d4ea8a017c07a35adba5243fb4b27fea64f1cdd6fc696be2838d&=&format=webp&quality=lossless&width=250&height=350",
         "isHorizontal": false
       }
     },
-    "name": "Radar",
-    "type": "Action",
-    "cost": "1",
-    "Action": "Assist",
-    "Trait": "",
+    "name": "Zino",
+    "type": "Vivosaur",
+    "cost": 0,
+    "Action": "",
+    "Trait": "L-Theropod",
     "Limitation": "Unlimited",
-    "FP Cost": "1",
-    "Element": "",
-    "Range": "",
-    "FP Charge": "",
-    "Status": ""
+    "FP Cost": "None",
+    "Element": "Fire",
+    "Range": "Close",
+    "FP Charge": "2",
+    "Status": "Quicken"
   }
 }
