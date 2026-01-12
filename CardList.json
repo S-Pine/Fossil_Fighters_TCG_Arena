@@ -2034,7 +2034,7 @@
       }
     },
     "name": "Beth",
-    "type": "Vivosaur",
+    "type": "Action",
     "cost": "2",
     "Action": "Support",
     "Trait": "None",
