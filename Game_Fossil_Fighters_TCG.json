@@ -15,7 +15,7 @@
   "cardRotation": "90",
   "cards": {
     "dataUrl": "https://sleepysalada.github.io/Fossil_Fighters_TCG_Arena/CardList.json",
-    "cardBack": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/Cardbacking/vivosaur%20sleeves%201.png"
+    "cardBack": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/Cardbacking/CardBacking.png"
   },
   "deckBuilding": {
     "mainFilters": [
