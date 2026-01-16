@@ -31,8 +31,7 @@
         "title": "Classic",
         "gameplay": "Classic",
         "customCategories": [
-          "FP Deck",
-          "Starter Vivosaur"
+          "FP Deck"
         ]
       }
     ]
@@ -165,8 +164,7 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "FP Deck->FP_Deck",
-          "Starter Vivosaur->Starter_Vivosaur_Zone_1"
+          "FP Deck->FP_Deck"
         ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {
