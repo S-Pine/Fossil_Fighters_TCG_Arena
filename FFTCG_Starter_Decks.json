@@ -2,10 +2,8 @@
   "title": "Tricera Starter Deck",
   "id": "f3be514a-0d88-4b6a-87f6-037fb98e4453",
   "game": "Fossil Fighters - TCG",
-  "format": [
-    "Classic"
-  ],
-  "cardCount": 40,
+    "format": "Classic",
+    "cardCount": 40,
   "createdAt": "2026-01-08T17:44:32.291Z",
   "lastModifiedAt": "2026-01-16T13:54:02.839Z",
   "deckList": {
