@@ -1,4 +1,3 @@
-[
 {
   "title": "Tricera Starter Deck",
   "id": "f3be514a-0d88-4b6a-87f6-037fb98e4453",
@@ -8,7 +7,7 @@
   ],
   "cardCount": 40,
   "createdAt": "2026-01-08T17:44:32.291Z",
-  "lastModifiedAt": "2026-01-08T17:47:03.231Z",
+  "lastModifiedAt": "2026-01-16T13:54:02.839Z",
   "deckList": {
     "categoriesOrder": [
       "FP Deck",
@@ -36,6 +35,10 @@
       {
         "count": 2,
         "id": "B26"
+      },
+      {
+        "count": 2,
+        "id": "B17"
       }
     ],
     "FP Deck": [
@@ -45,10 +48,6 @@
       }
     ],
     "Vivosaur": [
-      {
-        "count": 2,
-        "id": "B17"
-      },
       {
         "count": 3,
         "id": "C01"
@@ -75,78 +74,4 @@
       }
     ]
   }
-}
-{
-  "title": "Hard Headed Trio Starter Deck",
-  "id": "d9a205bc-421d-45b0-8342-5c5dc5cb718d",
-  "game": "Fossil Fighters - TCG",
-  "format": [
-    "Classic"
-  ],
-  "cardCount": 40,
-  "createdAt": "2026-01-08T17:48:45.262Z",
-  "lastModifiedAt": "2026-01-08T17:51:16.015Z",
-  "deckList": {
-    "categoriesOrder": [
-      "FP Deck",
-      "Vivosaur",
-      "Action"
-    ],
-    "Sideboard": [],
-    "Vivosaur": [
-      {
-        "count": 3,
-        "id": "Deck03"
-      },
-      {
-        "count": 3,
-        "id": "Deck02"
-      },
-      {
-        "count": 3,
-        "id": "Deck01"
-      },
-      {
-        "count": 3,
-        "id": "B11"
-      },
-      {
-        "count": 2,
-        "id": "B17"
-      },
-      {
-        "count": 3,
-        "id": "A25"
-      }
-    ],
-    "Action": [
-      {
-        "count": 3,
-        "id": "Deck04"
-      },
-      {
-        "count": 3,
-        "id": "B34"
-      },
-      {
-        "count": 2,
-        "id": "C33"
-      },
-      {
-        "count": 2,
-        "id": "B29"
-      },
-      {
-        "count": 3,
-        "id": "A43"
-      }
-    ],
-    "FP Deck": [
-      {
-        "count": 10,
-        "id": "T01"
-      }
-    ]
-  }
-  ]
 }
