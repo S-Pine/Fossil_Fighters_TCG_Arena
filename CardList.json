@@ -21,7 +21,8 @@
     "Range": "None",
     "Element": "None",
     "Status": "None",
-    "FP Charge": "None"
+    "FP Charge": "None",
+    "Set": "A"
   },
   "A01": {
     "id": "A01",
@@ -1491,7 +1492,8 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "0"
+    "FP Cost": "0",
+    "Set": "B"
   },
   "B01": {
     "id": "B01",
@@ -1515,7 +1517,8 @@
     "Range": "Long",
     "FP Charge": "1",
     "Status": "None",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "B"
   },
   "B02": {
     "id": "B02",
@@ -1539,7 +1542,8 @@
     "Range": "Long",
     "FP Charge": "1",
     "Status": "Enrage",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "B"
   },
   "B03": {
     "id": "B03",
@@ -1563,7 +1567,8 @@
     "Range": "Mid",
     "FP Charge": "1",
     "Status": "None",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "B"
   },
   "B04": {
     "id": "B04",
@@ -1587,7 +1592,8 @@
     "Range": "Mid",
     "FP Charge": "1",
     "Status": "Poison",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "B"
   },
   "B05": {
     "id": "B05",
@@ -1611,7 +1617,8 @@
     "Range": "Mid",
     "FP Charge": "1",
     "Status": "Enrage",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "B"
   },
   "B06": {
     "id": "B06",
@@ -1635,7 +1642,8 @@
     "Range": "Mid",
     "FP Charge": "1",
     "Status": "None",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "B"
   },
   "B07": {
     "id": "B07",
@@ -1659,21 +1667,22 @@
     "Range": "Close",
     "FP Charge": "1",
     "Status": "Confuse",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "B"
   },
   "B08": {
     "id": "B08",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Siesmo",
+        "name": "Seismo",
         "type": "Vivosaur",
         "cost": "",
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/B/B08_Siesmo.png",
         "isHorizontal": false
       }
     },
-    "name": "Siesmo",
+    "name": "Seismo",
     "type": "Vivosaur",
     "cost": "",
     "Action": "None",
@@ -1683,7 +1692,8 @@
     "Range": "Long",
     "FP Charge": "3",
     "Status": "None",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "B"
   },
   "B09": {
     "id": "B09",
@@ -1707,7 +1717,8 @@
     "Range": "Close",
     "FP Charge": "1",
     "Status": "Excite, Poison",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "B"
   },
   "B10": {
     "id": "B10",
@@ -1731,7 +1742,8 @@
     "Range": "Close",
     "FP Charge": "1",
     "Status": "Excite",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "B"
   },
   "B11": {
     "id": "B11",
@@ -1755,7 +1767,8 @@
     "Range": "Mid",
     "FP Charge": "1",
     "Status": "None",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "B"
   },
   "B12": {
     "id": "B12",
@@ -1779,7 +1792,8 @@
     "Range": "Long",
     "FP Charge": "1",
     "Status": "Enrage",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "B"
   },
   "B13": {
     "id": "B13",
@@ -1803,7 +1817,8 @@
     "Range": "Mid",
     "FP Charge": "1",
     "Status": "Confuse",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "B"
   },
   "B14": {
     "id": "B14",
@@ -1827,7 +1842,8 @@
     "Range": "Close",
     "FP Charge": "1",
     "Status": "None",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "B"
   },
   "B15": {
     "id": "B15",
@@ -1851,7 +1867,8 @@
     "Range": "Long",
     "FP Charge": "1",
     "Status": "Sleep",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "B"
   },
   "B16": {
     "id": "B16",
@@ -1875,7 +1892,8 @@
     "Range": "Long",
     "FP Charge": "1",
     "Status": "Sleep",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "B"
   },
   "B17": {
     "id": "B17",
@@ -1899,7 +1917,8 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "1"
+    "FP Cost": "1",
+    "Set": "B"
   },
   "B18": {
     "id": "B18",
@@ -1923,7 +1942,8 @@
     "Range": "None",
     "FP Charge": "None",
     "FP Cost": "2",
-    "Status": "Confuse"
+    "Status": "Confuse",
+    "Set": "B"
   },
   "B19": {
     "id": "B19",
@@ -1947,7 +1967,8 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "2"
+    "FP Cost": "2",
+    "Set": "B"
   },
   "B20": {
     "id": "B20",
@@ -1971,7 +1992,8 @@
     "Range": "Mid",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "1"
+    "FP Cost": "1",
+    "Set": "B"
   },
   "B21": {
     "id": "B21",
@@ -1995,7 +2017,8 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "3"
+    "FP Cost": "3",
+    "Set": "B"
   },
   "B22": {
     "id": "B22",
@@ -2019,7 +2042,8 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "2"
+    "FP Cost": "2",
+    "Set": "B"
   },
   "B23": {
     "id": "B23",
@@ -2043,7 +2067,8 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "2"
+    "FP Cost": "2",
+    "Set": "B"
   },
   "B24": {
     "id": "B24",
@@ -2067,7 +2092,8 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "1"
+    "FP Cost": "1",
+    "Set": "B"
   },
   "B25": {
     "id": "B25",
@@ -2091,7 +2117,8 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "2"
+    "FP Cost": "2",
+    "Set": "B"
   },
   "B26": {
     "id": "B26",
@@ -2115,7 +2142,8 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "1"
+    "FP Cost": "1",
+    "Set": "B"
   },
   "B27": {
     "id": "B27",
@@ -2139,7 +2167,8 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "4"
+    "FP Cost": "4",
+    "Set": "B"
   },
   "B28": {
     "id": "B28",
@@ -2163,7 +2192,8 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "1"
+    "FP Cost": "1",
+    "Set": "B"
   },
   "B29": {
     "id": "B29",
@@ -2187,7 +2217,8 @@
     "Range": "None",
     "FP Charge": "None",
     "FP Cost": "1",
-    "Status": "Sleep"
+    "Status": "Sleep",
+    "Set": "B"
   },
   "B30": {
     "id": "B30",
@@ -2211,7 +2242,8 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "4"
+    "FP Cost": "4",
+    "Set": "B"
   },
   "B31": {
     "id": "B31",
@@ -2235,7 +2267,8 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "3"
+    "FP Cost": "3",
+    "Set": "B"
   },
   "B32": {
     "id": "B32",
@@ -2259,7 +2292,8 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "1"
+    "FP Cost": "1",
+    "Set": "B"
   },
   "B33": {
     "id": "B33",
@@ -2283,7 +2317,8 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "4"
+    "FP Cost": "4",
+    "Set": "B"
   },
   "B34": {
     "id": "B34",
@@ -2307,7 +2342,8 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "2"
+    "FP Cost": "2",
+    "Set": "B"
   },
   "B35": {
     "id": "B35",
@@ -2331,7 +2367,8 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "3"
+    "FP Cost": "3",
+    "Set": "B"
   },
   "B36": {
     "id": "B36",
@@ -2355,7 +2392,8 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "3"
+    "FP Cost": "3",
+    "Set": "B"
   },
   "B37": {
     "id": "B37",
@@ -2379,7 +2417,8 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "5"
+    "FP Cost": "5",
+    "Set": "B"
   },
   "B38": {
     "id": "B38",
@@ -2403,7 +2442,8 @@
     "Range": "None",
     "FP Charge": "None",
     "FP Cost": "4",
-    "Status": "Enrage, Confuse, Excite"
+    "Status": "Enrage, Confuse, Excite",
+    "Set": "B"
   },
   "B39": {
     "id": "B39",
@@ -2427,7 +2467,8 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "8"
+    "FP Cost": "8",
+    "Set": "B"
   },
   "B40": {
     "id": "B40",
@@ -2451,7 +2492,8 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "6"
+    "FP Cost": "6",
+    "Set": "B"
   },
   "C00": {
     "id": "C00",
@@ -2475,7 +2517,8 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "2"
+    "FP Cost": "2",
+    "Set": "C"
   },
   "C01": {
     "id": "C01",
@@ -2499,7 +2542,8 @@
     "Range": "Mid",
     "FP Charge": "2",
     "Status": "None",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "C"
   },
   "C02": {
     "id": "C02",
@@ -2523,7 +2567,8 @@
     "Range": "Close",
     "FP Charge": "1",
     "Status": "Harden",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "C"
   },
   "C03": {
     "id": "C03",
@@ -2547,7 +2592,8 @@
     "Range": "Close",
     "FP Charge": "1",
     "Status": "None",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "C"
   },
   "C04": {
     "id": "C04",
@@ -2571,7 +2617,8 @@
     "Range": "Long",
     "FP Charge": "1",
     "Status": "Poison",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "C"
   },
   "C05": {
     "id": "C05",
@@ -2595,7 +2642,8 @@
     "Range": "Long",
     "FP Charge": "1",
     "Status": "Harden",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "C"
   },
   "C06": {
     "id": "C06",
@@ -2619,7 +2667,8 @@
     "Range": "Long",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "C"
   },
   "C07": {
     "id": "C07",
@@ -2643,7 +2692,8 @@
     "Range": "Close",
     "FP Charge": "1",
     "Status": "Quicken",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "C"
   },
   "C08": {
     "id": "C08",
@@ -2667,7 +2717,8 @@
     "Range": "Mid",
     "FP Charge": "1",
     "Status": "None",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "C"
   },
   "C09": {
     "id": "C09",
@@ -2691,7 +2742,8 @@
     "Range": "Long",
     "FP Charge": "1",
     "Status": "Harden",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "C"
   },
   "C10": {
     "id": "C10",
@@ -2715,7 +2767,8 @@
     "Range": "Close",
     "FP Charge": "1",
     "Status": "Confuse",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "C"
   },
   "C11": {
     "id": "C11",
@@ -2739,7 +2792,8 @@
     "Range": "Close",
     "FP Charge": "",
     "Status": "Excite",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "C"
   },
   "C12": {
     "id": "C12",
@@ -2763,7 +2817,8 @@
     "Range": "Long",
     "FP Charge": "1",
     "Status": "None",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "C"
   },
   "C13": {
     "id": "C13",
@@ -2787,7 +2842,8 @@
     "Range": "Mid",
     "FP Charge": "1",
     "Status": "None",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "C"
   },
   "C14": {
     "id": "C14",
@@ -2811,7 +2867,8 @@
     "Range": "Close",
     "FP Charge": "1",
     "Status": "Enrage, Excite",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "C"
   },
   "C15": {
     "id": "C15",
@@ -2835,7 +2892,8 @@
     "Range": "Close",
     "FP Charge": "1",
     "Status": "Scare",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "C"
   },
   "C16": {
     "id": "C16",
@@ -2859,7 +2917,8 @@
     "Range": "Mid",
     "FP Charge": "1",
     "Status": "Enrage",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "C"
   },
   "C17": {
     "id": "C17",
@@ -2883,7 +2942,8 @@
     "Range": "Close",
     "FP Charge": "2",
     "Status": "Harden , Enflame",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "C"
   },
   "C18": {
     "id": "C18",
@@ -2931,7 +2991,8 @@
     "Range": "Mid",
     "FP Charge": "None",
     "Status": "Scare",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "C"
   },
   "C20": {
     "id": "C20",
@@ -2955,7 +3016,8 @@
     "Range": "Mid",
     "FP Charge": "1",
     "FP Cost": "None",
-    "Status": "None"
+    "Status": "None",
+    "Set": "C"
   },
   "C21": {
     "id": "C21",
@@ -2979,7 +3041,8 @@
     "Range": "Close",
     "FP Charge": "1",
     "Status": "None",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "C"
   },
   "C22": {
     "id": "C22",
@@ -3003,7 +3066,8 @@
     "Range": "Mid",
     "FP Charge": "1",
     "Status": "Counter",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "C"
   },
   "C23": {
     "id": "C23",
@@ -3027,7 +3091,8 @@
     "Range": "Close",
     "FP Charge": "1",
     "Status": "None",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "C"
   },
   "C24": {
     "id": "C24",
@@ -3051,7 +3116,8 @@
     "Range": "Close",
     "FP Charge": "1",
     "Status": "Excite",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "C"
   },
   "C25": {
     "id": "C25",
@@ -3075,7 +3141,8 @@
     "Range": "Close",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "C"
   },
   "C26": {
     "id": "C26",
@@ -3099,7 +3166,8 @@
     "Range": "Mid",
     "FP Charge": "1",
     "Status": "None",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "C"
   },
   "C27": {
     "id": "C27",
@@ -3123,7 +3191,8 @@
     "Range": "Mid",
     "FP Charge": "1",
     "Status": "Poison",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "C"
   },
   "C28": {
     "id": "C28",
@@ -3147,7 +3216,8 @@
     "Range": "Close",
     "FP Charge": "1",
     "Status": "Quicken, Sleep",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "C"
   },
   "C29": {
     "id": "C29",
@@ -3171,14 +3241,15 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "2"
+    "FP Cost": "2",
+    "Set": "C"
   },
   "C30": {
     "id": "C30",
     "isToken": false,
     "face": {
       "front": {
-        "name": "Deathly Breathe",
+        "name": "Deathly Breath",
         "type": "Action",
         "cost": "1",
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/C/C30_Deathly_Breathe.png",
@@ -3195,7 +3266,8 @@
     "Range": "None",
     "FP Charge": "None",
     "FP Cost": "1",
-    "Status": "Poison"
+    "Status": "Poison",
+    "Set": "C"
   },
   "C31": {
     "id": "C31",
@@ -3219,7 +3291,8 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "0"
+    "FP Cost": "0",
+    "Set": "C"
   },
   "C32": {
     "id": "C32",
@@ -3243,7 +3316,8 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "2"
+    "FP Cost": "2",
+    "Set": "C"
   },
   "C33": {
     "id": "C33",
@@ -3267,7 +3341,8 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "2"
+    "FP Cost": "2",
+    "Set": "C"
   },
   "C34": {
     "id": "C34",
@@ -3291,7 +3366,8 @@
     "Range": "None",
     "FP Charge": "None",
     "FP Cost": "3",
-    "Status": "None"
+    "Status": "None",
+    "Set": "C"
   },
   "C35": {
     "id": "C35",
@@ -3315,7 +3391,8 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "1"
+    "FP Cost": "1",
+    "Set": "C"
   },
   "C36": {
     "id": "C36",
@@ -3339,7 +3416,8 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "4"
+    "FP Cost": "4",
+    "Set": "C"
   },
   "C37": {
     "id": "C37",
@@ -3363,7 +3441,8 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "3"
+    "FP Cost": "3",
+    "Set": "C"
   },
   "C38": {
     "id": "C38",
@@ -3387,7 +3466,8 @@
     "Range": "None",
     "FP Charge": "None",
     "Status": "None",
-    "FP Cost": "3"
+    "FP Cost": "3",
+    "Set": "C"
   },
   "C39": {
     "id": "C39",
@@ -3411,7 +3491,8 @@
     "Range": "Mid",
     "FP Charge": "1",
     "Status": "Confuse",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "C"
   },
   "C40": {
     "id": "C40",
@@ -3435,7 +3516,8 @@
     "Range": "Mid",
     "FP Charge": "1",
     "Status": "Poison",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "C"
   },
   "D00": {
     "id": "D00",
@@ -3459,7 +3541,8 @@
     "Element": "Neutral",
     "Range": "Close",
     "FP Charge": "2",
-    "Status": "Excite, Poison"
+    "Status": "Excite, Poison",
+    "Set": "D"
   },
   "D01": {
     "id": "D01",
@@ -3483,7 +3566,8 @@
     "Element": "Fire",
     "Range": "Close",
     "FP Charge": "1",
-    "Status": "None"
+    "Status": "None",
+    "Set": "D"
   },
   "D02": {
     "id": "D02",
@@ -3507,7 +3591,8 @@
     "Element": "Fire",
     "Range": "Close",
     "FP Charge": "1",
-    "Status": "Excite"
+    "Status": "Excite",
+    "Set": "D"
   },
   "D03": {
     "id": "D03",
@@ -3531,7 +3616,8 @@
     "Element": "Fire",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": "Quicken, Excite"
+    "Status": "Quicken, Excite",
+    "Set": "D"
   },
   "D04": {
     "id": "D04",
@@ -3555,7 +3641,8 @@
     "Element": "None",
     "Range": "None",
     "FP Charge": "None",
-    "Status": "None"
+    "Status": "None",
+    "Set": "D"
   },
   "D05": {
     "id": "D05",
@@ -3579,7 +3666,8 @@
     "Element": "Fire",
     "Range": "Close",
     "FP Charge": "1",
-    "Status": "None"
+    "Status": "None",
+    "Set": "D"
   },
   "D06": {
     "id": "D06",
@@ -3603,7 +3691,8 @@
     "Element": "Fire",
     "Range": "Long",
     "FP Charge": "1",
-    "Status": "Sleep"
+    "Status": "Sleep",
+    "Set": "D"
   },
   "D07": {
     "id": "D07",
@@ -3627,7 +3716,8 @@
     "Element": "Fire",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": "Excite"
+    "Status": "Excite",
+    "Set": "D"
   },
   "D08": {
     "id": "D08",
@@ -3651,7 +3741,8 @@
     "Element": "Fire",
     "Range": "Close",
     "FP Charge": "1",
-    "Status": "Excite"
+    "Status": "Excite",
+    "Set": "D"
   },
   "D09": {
     "id": "D09",
@@ -3675,7 +3766,8 @@
     "Element": "Fire",
     "Range": "Close",
     "FP Charge": "None",
-    "Status": "None"
+    "Status": "None",
+    "Set": "D"
   },
   "D10": {
     "id": "D10",
@@ -3699,7 +3791,8 @@
     "Element": "Water",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": "Scare"
+    "Status": "Scare",
+    "Set": "D"
   },
   "D11": {
     "id": "D11",
@@ -3723,7 +3816,8 @@
     "Element": "Water",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": "Harden"
+    "Status": "Harden",
+    "Set": "D"
   },
   "D12": {
     "id": "D12",
@@ -3795,7 +3889,8 @@
     "Element": "Water",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": "Poison"
+    "Status": "Poison",
+    "Set": "D"
   },
   "D15": {
     "id": "D15",
@@ -3843,7 +3938,8 @@
     "Element": "Water",
     "Range": "Mid",
     "FP Charge": "None",
-    "Status": "Enflame"
+    "Status": "Enflame",
+    "Set": "D"
   },
   "D17": {
     "id": "D17",
@@ -3867,7 +3963,8 @@
     "Element": "Air",
     "Range": "Close",
     "FP Charge": "1",
-    "Status": "None"
+    "Status": "None",
+    "Set": "D"
   },
   "D18": {
     "id": "D18",
@@ -3915,7 +4012,8 @@
     "Element": "Air",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": "Confuse"
+    "Status": "Confuse",
+    "Set": "D"
   },
   "D20": {
     "id": "D20",
@@ -3939,7 +4037,8 @@
     "Element": "Air",
     "Range": "Close",
     "FP Charge": "1",
-    "Status": "Poison"
+    "Status": "Poison",
+    "Set": "D"
   },
   "D21": {
     "id": "D21",
@@ -4659,7 +4758,8 @@
     "Element": "Neutral",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": "Scare"
+    "Status": "Scare",
+    "Set": "C"
   },
   "Deck01": {
     "id": "Deck01",
@@ -4683,7 +4783,8 @@
     "Element": "Fire",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "Deck02": {
     "id": "Deck02",
@@ -4707,9 +4808,10 @@
     "Element": "Earth",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
-  "Deck03": {
+  "A53": {
     "id": "Deck03",
     "isToken": false,
     "face": {
@@ -4731,9 +4833,10 @@
     "Element": "Air",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
-  "Deck04": {
+  "A54": {
     "id": "Deck04",
     "isToken": false,
     "face": {
@@ -4755,7 +4858,8 @@
     "Element": "None",
     "Range": "None",
     "FP Charge": "None",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "E47": {
     "id": "E47",
