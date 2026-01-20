@@ -4884,31 +4884,6 @@
     "Status": "None",
     "Set": "A"
   },
-  "A53": {
-    "id": "Deck03",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Goyo",
-        "type": "Vivosaur",
-        "cost": "",
-        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/DECK/DECK03_Goyo.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Goyo",
-    "type": "Vivosaur",
-    "cost": "",
-    "Action": "None",
-    "Trait": "Pachycephalo",
-    "Limitation": "Unlimited",
-    "FP Cost": "None",
-    "Element": "Air",
-    "Range": "Mid",
-    "FP Charge": "1",
-    "Status": "None",
-    "Set": "A"
-  },
   "E47": {
     "id": "E47",
     "isToken": false,
@@ -5158,5 +5133,30 @@
     "Status": "None",
     "FP Charge": "None",
     "Set": "E"
+  },
+  "A53": {
+    "id": "A53",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Goyo",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/DECK/DECK03_Goyo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Goyo",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Pachycephalo",
+    "Limitation": "Unlimited",
+    "FP Cost": "None",
+    "Range": "Mid",
+    "Element": "Air",
+    "Status": "None",
+    "FP Charge": "1",
+    "Set": "A"
   }
 }
