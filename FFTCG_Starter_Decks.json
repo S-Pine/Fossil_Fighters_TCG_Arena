@@ -78,55 +78,29 @@
 },
   {
   "title": "Hard Headed Trio Starter Deck",
-  "id": "751c9284-8668-4e62-8861-8dbc490f8cc2",
+  "id": "993fefbf-76fd-44ac-99a4-f64f64d37e41",
   "game": "Fossil Fighters - TCG",
   "format": [
     "Classic"
   ],
   "cardCount": 40,
-  "createdAt": "2026-01-16T14:07:57.758Z",
-  "lastModifiedAt": "2026-01-16T14:12:32.622Z",
+  "createdAt": "2026-01-20T20:01:44.037Z",
+  "lastModifiedAt": "2026-01-20T20:04:23.642Z",
   "deckList": {
     "categoriesOrder": [
       "FP Deck",
-      "Action",
-      "Vivosaur"
+      "Vivosaur",
+      "Action"
     ],
     "Sideboard": [],
-    "Action": [
-      {
-        "count": 3,
-        "id": "A43"
-      },
-      {
-        "count": 3,
-        "id": "Deck04"
-      },
-      {
-        "count": 3,
-        "id": "A42"
-      },
-      {
-        "count": 3,
-        "id": "A44"
-      },
-      {
-        "count": 3,
-        "id": "A49"
-      },
-      {
-        "count": 3,
-        "id": "B17"
-      }
-    ],
     "Vivosaur": [
       {
         "count": 3,
-        "id": "B11"
+        "id": "A53"
       },
       {
         "count": 3,
-        "id": "Deck03"
+        "id": "Deck01"
       },
       {
         "count": 3,
@@ -134,7 +108,33 @@
       },
       {
         "count": 3,
-        "id": "Deck01"
+        "id": "B11"
+      }
+    ],
+    "Action": [
+      {
+        "count": 3,
+        "id": "A54"
+      },
+      {
+        "count": 3,
+        "id": "A43"
+      },
+      {
+        "count": 3,
+        "id": "A42"
+      },
+      {
+        "count": 3,
+        "id": "B34"
+      },
+      {
+        "count": 3,
+        "id": "C32"
+      },
+      {
+        "count": 3,
+        "id": "A44"
       }
     ],
     "FP Deck": [
