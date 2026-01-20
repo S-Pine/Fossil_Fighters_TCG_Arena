@@ -4916,22 +4916,23 @@
       "front": {
         "name": "Zino",
         "type": "Vivosaur",
-        "cost": 0,
+        "cost": "",
         "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E47_Zino.png",
         "isHorizontal": false
       }
     },
     "name": "Zino",
     "type": "Vivosaur",
-    "cost": 0,
-    "Action": "",
+    "cost": "",
+    "Action": "None",
     "Trait": "L-Theropod",
     "Limitation": "Unlimited",
     "FP Cost": "None",
     "Element": "Fire",
     "Range": "Close",
     "FP Charge": "2",
-    "Status": "Quicken"
+    "Status": "Quicken",
+    "Set": "E"
   },
   "A54": {
     "id": "A54",
