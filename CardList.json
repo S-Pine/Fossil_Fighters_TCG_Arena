@@ -4909,31 +4909,6 @@
     "Status": "None",
     "Set": "A"
   },
-  "A54": {
-    "id": "Deck04",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Bea Ginner",
-        "type": "Action",
-        "cost": "1",
-        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/DECK/DECK04_Bea_Ginner.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Bea Ginner",
-    "type": "Action",
-    "cost": "1",
-    "Action": "Support",
-    "Trait": "None",
-    "Limitation": "Unlimited",
-    "FP Cost": "1",
-    "Element": "None",
-    "Range": "None",
-    "FP Charge": "None",
-    "Status": "None",
-    "Set": "A"
-  },
   "E47": {
     "id": "E47",
     "isToken": false,
@@ -4957,5 +4932,30 @@
     "Range": "Close",
     "FP Charge": "2",
     "Status": "Quicken"
+  },
+  "A54": {
+    "id": "A54",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Bea Ginner",
+        "type": "Action",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/DECK/DECK04_Bea_Ginner.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Bea Ginner",
+    "type": "Action",
+    "cost": "1",
+    "Action": "Support",
+    "Trait": "None",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "A"
   }
 }
