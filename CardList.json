@@ -46,7 +46,8 @@
     "Limitation": "Unlimited",
     "Status": "Scare",
     "FP Cost": "None",
-    "Action": "None"
+    "Action": "None",
+    "Set": "A"
   },
   "A02": {
     "id": "A02",
@@ -70,7 +71,8 @@
     "Limitation": "Unlimited",
     "FP Cost": "None",
     "Status": "Quicken",
-    "Action": "None"
+    "Action": "None",
+    "Set": "A"
   },
   "A03": {
     "id": "A03",
@@ -94,7 +96,8 @@
     "Limitation": "Unlimited",
     "Status": "Excite",
     "Action": "None",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "A"
   },
   "A04": {
     "id": "A04",
@@ -118,7 +121,8 @@
     "Limitation": "Unlimited",
     "Status": "poison",
     "Action": "None",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "A"
   },
   "A05": {
     "id": "A05",
@@ -142,7 +146,8 @@
     "Limitation": "Unlimited",
     "Status": "Poison",
     "Action": "None",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "A"
   },
   "A06": {
     "id": "A06",
@@ -166,7 +171,8 @@
     "Limitation": "Unlimited",
     "Action": "None",
     "FP Cost": "None",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "A07": {
     "id": "A07",
@@ -214,7 +220,8 @@
     "Element": "None",
     "Range": "None",
     "FP Charge": "None",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "A32": {
     "id": "A32",
@@ -238,7 +245,8 @@
     "Status": "None",
     "Range": "None",
     "Element": "None",
-    "Trait": "None"
+    "Trait": "None",
+    "Set": "A"
   },
   "A48": {
     "id": "A48",
@@ -262,7 +270,8 @@
     "Trait": "None",
     "Element": "None",
     "Range": "None",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "A23": {
     "id": "A23",
@@ -286,7 +295,8 @@
     "FP Charge": "1",
     "Limitation": "Unlimited",
     "Status": "Poison",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "A"
   },
   "A16": {
     "id": "A16",
@@ -310,7 +320,8 @@
     "FP Charge": "1",
     "Limitation": "Non-Starter",
     "Status": "Harden",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "A"
   },
   "A30": {
     "id": "A30",
@@ -334,7 +345,8 @@
     "FP Charge": "2",
     "Limitation": "Unlimited",
     "FP Cost": "None",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "A43": {
     "id": "A43",
@@ -358,7 +370,8 @@
     "FP Charge": "None",
     "Limitation": "Unlimited",
     "FP Cost": "1",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "A46": {
     "id": "A46",
@@ -382,7 +395,8 @@
     "FP Charge": "None",
     "Limitation": "Unlimited",
     "FP Cost": "2",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "T01": {
     "id": "T01",
@@ -652,7 +666,8 @@
     "FP Charge": "1",
     "Limitation": "Unlimited",
     "Status": "Quicken",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "A"
   },
   "A09": {
     "id": "A09",
@@ -676,7 +691,8 @@
     "FP Charge": "1",
     "Limitation": "Unlimited",
     "FP Cost": "None",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "A10": {
     "id": "A10",
@@ -700,7 +716,8 @@
     "FP Charge": "1",
     "Limitation": "Unlimited",
     "Status": "Enflame",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "A"
   },
   "A11": {
     "id": "A11",
@@ -724,7 +741,8 @@
     "FP Charge": "1",
     "Limitation": "Unlimited",
     "FP Cost": "None",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "A12": {
     "id": "A12",
@@ -748,7 +766,8 @@
     "FP Charge": "1",
     "Limitation": "Unlimited",
     "FP Cost": "None",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "A13": {
     "id": "A13",
@@ -772,7 +791,8 @@
     "FP Charge": "2",
     "Limitation": "Unlimited",
     "FP Cost": "None",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "A14": {
     "id": "A14",
@@ -796,7 +816,8 @@
     "FP Charge": "1",
     "Limitation": "Unlimited",
     "Status": "Confuse",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "A"
   },
   "A15": {
     "id": "A15",
@@ -820,7 +841,8 @@
     "FP Charge": "1",
     "Limitation": "Unlimited",
     "Status": "Excite",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "A"
   },
   "A17": {
     "id": "A17",
@@ -844,7 +866,8 @@
     "FP Charge": "1",
     "Limitation": "Unlimited",
     "Status": "Poison",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "A"
   },
   "A18": {
     "id": "A18",
@@ -868,7 +891,8 @@
     "FP Charge": "1",
     "Limitation": "Unlimited",
     "Status": "Poison",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "A"
   },
   "A19": {
     "id": "A19",
@@ -892,7 +916,8 @@
     "FP Charge": "1",
     "Limitation": "Unlimited",
     "Status": "Poison",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "A"
   },
   "A20": {
     "id": "A20",
@@ -916,7 +941,8 @@
     "FP Charge": "2",
     "Limitation": "Unlimited",
     "FP Cost": "None",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "A21": {
     "id": "A21",
@@ -940,7 +966,8 @@
     "FP Charge": "1",
     "Limitation": "Unlimited",
     "Status": "Excite",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "A"
   },
   "A22": {
     "id": "A22",
@@ -964,7 +991,8 @@
     "FP Charge": "1",
     "Limitation": "Unlimited",
     "Status": "Enrage",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "A"
   },
   "A24": {
     "id": "A24",
@@ -988,7 +1016,8 @@
     "FP Charge": "2",
     "Limitation": "Unlimited",
     "FP Cost": "None",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "A25": {
     "id": "A25",
@@ -1012,7 +1041,8 @@
     "FP Charge": "2",
     "Limitation": "Unlimited",
     "Status": "Excite",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "A"
   },
   "A26": {
     "id": "A26",
@@ -1036,7 +1066,8 @@
     "Range": "Close",
     "FP Charge": "1",
     "Status": "Scare",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "A"
   },
   "A27": {
     "id": "A27",
@@ -1060,7 +1091,8 @@
     "FP Charge": "1",
     "Limitation": "Unlimited",
     "Status": "Excite",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "A"
   },
   "A28": {
     "id": "A28",
@@ -1084,7 +1116,8 @@
     "FP Charge": "1",
     "Limitation": "Unlimited",
     "Status": "Poison",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "A"
   },
   "A29": {
     "id": "A29",
@@ -1108,7 +1141,8 @@
     "FP Charge": "1",
     "Limitation": "Unlimited",
     "FP Cost": "None",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "A33": {
     "id": "A33",
@@ -1132,7 +1166,8 @@
     "FP Charge": "None",
     "FP Cost": "2",
     "Limitation": "Unlimited",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "A34": {
     "id": "A34",
@@ -1156,7 +1191,8 @@
     "FP Charge": "None",
     "Limitation": "Unlimited",
     "FP Cost": "2",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "A35": {
     "id": "A35",
@@ -1180,7 +1216,8 @@
     "FP Charge": "None",
     "Limitation": "Unlimited",
     "FP Cost": "2",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "A36": {
     "id": "A36",
@@ -1204,7 +1241,8 @@
     "FP Charge": "None",
     "Limitation": "Unlimited",
     "FP Cost": "2",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "A37": {
     "id": "A37",
@@ -1228,7 +1266,8 @@
     "FP Charge": "None",
     "Limitation": "Unlimited",
     "FP Cost": "2",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "A38": {
     "id": "A38",
@@ -1252,7 +1291,8 @@
     "FP Charge": "None",
     "Limitation": "Unlimited",
     "FP Cost": "X",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "A39": {
     "id": "A39",
@@ -1276,7 +1316,8 @@
     "FP Charge": "None",
     "Limitation": "Unlimited",
     "FP Cost": "1",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "A40": {
     "id": "A40",
@@ -1300,7 +1341,8 @@
     "FP Charge": "None",
     "Limitation": "Unlimited",
     "FP Cost": "0",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "A41": {
     "id": "A41",
@@ -1324,7 +1366,8 @@
     "FP Charge": "None",
     "Limitation": "Unlimited",
     "FP Cost": "1",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "A42": {
     "id": "A42",
@@ -1348,7 +1391,8 @@
     "FP Charge": "None",
     "Limitation": "Unlimited",
     "FP Cost": "1",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "A44": {
     "id": "A44",
@@ -1372,7 +1416,8 @@
     "FP Charge": "None",
     "Limitation": "Unlimited",
     "FP Cost": "3",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "A45": {
     "id": "A45",
@@ -1396,7 +1441,8 @@
     "FP Charge": "None",
     "Limitation": "Unlimited",
     "FP Cost": "2",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "A47": {
     "id": "A47",
@@ -1420,7 +1466,8 @@
     "FP Charge": "None",
     "Limitation": "Unlimited",
     "FP Cost": "2",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "A49": {
     "id": "A49",
@@ -1444,7 +1491,8 @@
     "FP Charge": "None",
     "Limitation": "Unlimited",
     "FP Cost": "2",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "A50": {
     "id": "A50",
@@ -1468,7 +1516,8 @@
     "FP Charge": "None",
     "Limitation": "Unlimited",
     "FP Cost": "2",
-    "Status": "None"
+    "Status": "None",
+    "Set": "A"
   },
   "B00": {
     "id": "B00",
@@ -2967,7 +3016,8 @@
     "Range": "Mid",
     "FP Charge": "1",
     "Status": "None",
-    "FP Cost": "None"
+    "FP Cost": "None",
+    "Set": "D"
   },
   "C19": {
     "id": "C19",
@@ -3841,7 +3891,8 @@
     "Element": "Water",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": "Poison"
+    "Status": "Poison",
+    "Set": "D"
   },
   "D13": {
     "id": "D13",
@@ -3865,7 +3916,8 @@
     "Element": "Water",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": "Harden"
+    "Status": "Harden",
+    "Set": "D"
   },
   "D14": {
     "id": "D14",
@@ -3988,7 +4040,8 @@
     "Element": "Air",
     "Range": "Long",
     "FP Charge": "1",
-    "Status": "None"
+    "Status": "None",
+    "Set": "D"
   },
   "D19": {
     "id": "D19",
@@ -4062,7 +4115,8 @@
     "Element": "Air",
     "Range": "Close",
     "FP Charge": "None",
-    "Status": "Harden"
+    "Status": "Harden",
+    "Set": "D"
   },
   "D22": {
     "id": "D22",
@@ -4086,7 +4140,8 @@
     "Element": "Earth",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": "None"
+    "Status": "None",
+    "Set": "D"
   },
   "D23": {
     "id": "D23",
@@ -4110,7 +4165,8 @@
     "Element": "Earth",
     "Range": "Mid",
     "FP Charge": "1",
-    "Status": "Sleep"
+    "Status": "Sleep",
+    "Set": "D"
   },
   "D24": {
     "id": "D24",
@@ -4134,7 +4190,8 @@
     "Element": "Earth",
     "Range": "Long",
     "FP Charge": "2",
-    "Status": "None"
+    "Status": "None",
+    "Set": "D"
   },
   "D25": {
     "id": "D25",
@@ -4158,7 +4215,8 @@
     "Element": "Neutral",
     "Range": "Close",
     "FP Charge": "1",
-    "Status": "Sleep"
+    "Status": "Sleep",
+    "Set": "D"
   },
   "D26": {
     "id": "D26",
@@ -4182,7 +4240,8 @@
     "Element": "Neutral",
     "Range": "Long",
     "FP Charge": "1",
-    "Status": "None"
+    "Status": "None",
+    "Set": "D"
   },
   "D27": {
     "id": "D27",
@@ -4206,7 +4265,8 @@
     "Element": "Neutral",
     "Range": "Close",
     "FP Charge": "1",
-    "Status": "None"
+    "Status": "None",
+    "Set": "D"
   },
   "D28": {
     "id": "D28",
@@ -4230,7 +4290,8 @@
     "Element": "None",
     "Range": "None",
     "FP Charge": "None",
-    "Status": "None"
+    "Status": "None",
+    "Set": "D"
   },
   "D29": {
     "id": "D29",
@@ -4254,7 +4315,8 @@
     "Element": "None",
     "Range": "None",
     "FP Charge": "None",
-    "Status": "None"
+    "Status": "None",
+    "Set": "D"
   },
   "D30": {
     "id": "D30",
@@ -4293,7 +4355,7 @@
       }
     },
     "name": "Mr.Richmond",
-    "type": "Vivosaur",
+    "type": "Action",
     "cost": 0,
     "Action": "Support",
     "Trait": "None",
@@ -4302,7 +4364,8 @@
     "Element": "None",
     "Range": "None",
     "FP Charge": "None",
-    "Status": "None"
+    "Status": "None",
+    "Set": "D"
   },
   "D32": {
     "id": "D32",
@@ -4326,7 +4389,8 @@
     "Element": "None",
     "Range": "None",
     "FP Charge": "None",
-    "Status": "None"
+    "Status": "None",
+    "Set": "D"
   },
   "D33": {
     "id": "D33",
@@ -4350,7 +4414,8 @@
     "Element": "None",
     "Range": "None",
     "FP Charge": "None",
-    "Status": "None"
+    "Status": "None",
+    "Set": "D"
   },
   "D34": {
     "id": "D34",
@@ -4374,7 +4439,8 @@
     "Element": "None",
     "Range": "None",
     "FP Charge": "None",
-    "Status": "None"
+    "Status": "None",
+    "Set": "D"
   },
   "D35": {
     "id": "D35",
@@ -4393,7 +4459,7 @@
     "cost": "2",
     "Action": "Support",
     "Trait": "BareBones Brigade",
-    "Limitation": "None",
+    "Limitation": "Unlimited",
     "FP Cost": "2",
     "Element": "None",
     "Range": "None",
@@ -4422,7 +4488,8 @@
     "Element": "None",
     "Range": "None",
     "FP Charge": "None",
-    "Status": "None"
+    "Status": "None",
+    "Set": "D"
   },
   "D37": {
     "id": "D37",
@@ -4446,7 +4513,8 @@
     "Element": "None",
     "Range": "None",
     "FP Charge": "None",
-    "Status": "None"
+    "Status": "None",
+    "Set": "D"
   },
   "D38": {
     "id": "D38",
@@ -4542,7 +4610,8 @@
     "Element": "Neutral",
     "Range": "Mid",
     "FP Charge": "None",
-    "Status": "None"
+    "Status": "None",
+    "Set": "D"
   },
   "D42": {
     "id": "D42",
@@ -4566,7 +4635,8 @@
     "Element": "Neutral",
     "Range": "Mid",
     "FP Charge": "None",
-    "Status": "None"
+    "Status": "None",
+    "Set": "D"
   },
   "D43": {
     "id": "D43",
@@ -4590,7 +4660,8 @@
     "Element": "Neutral",
     "Range": "Close",
     "FP Charge": "None",
-    "Status": "None"
+    "Status": "None",
+    "Set": "D"
   },
   "D44": {
     "id": "D44",
@@ -4710,7 +4781,8 @@
     "Element": "None",
     "Range": "None",
     "FP Charge": "None",
-    "Status": "None"
+    "Status": "None",
+    "Set": "D"
   },
   "D49": {
     "id": "D49",
@@ -4734,7 +4806,8 @@
     "Element": "None",
     "Range": "None",
     "FP Charge": "None",
-    "Status": "None"
+    "Status": "None",
+    "Set": "D"
   },
   "D50": {
     "id": "D50",
