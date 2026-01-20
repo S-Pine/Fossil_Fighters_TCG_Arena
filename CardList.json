@@ -4957,5 +4957,205 @@
     "Status": "None",
     "FP Charge": "None",
     "Set": "A"
+  },
+  "E00": {
+    "id": "E00",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "ZongaZonga's Greed",
+        "type": "Action",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E00_ZongaZonga's_Greed.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "ZongaZonga's Greed",
+    "type": "Action",
+    "cost": "3",
+    "Action": "Support",
+    "Trait": "None",
+    "Limitation": "Unlimited",
+    "FP Cost": "3",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "E"
+  },
+  "E50": {
+    "id": "E50",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Fossil Museum",
+        "type": "Action",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E50_Fossil_Museum.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Fossil Museum",
+    "type": "Action",
+    "cost": "3",
+    "Action": "Arena",
+    "Trait": "None",
+    "Limitation": "Unlimited",
+    "FP Cost": "3",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "E"
+  },
+  "E49": {
+    "id": "E49",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Paraloph",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E49_Paraloph.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Paraloph",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "None",
+    "Trait": "Orintho",
+    "Limitation": "Unlimited",
+    "FP Cost": "None",
+    "Range": "Close",
+    "Element": "Air",
+    "Status": "Counter, Enrage",
+    "FP Charge": "1",
+    "Set": "E"
+  },
+  "E48": {
+    "id": "E48",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Anomalo - Aqua",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E48_Anamalo_Aqua.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Anomalo-Aqua",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "None",
+    "Trait": "Invertebrate, Altered",
+    "Limitation": "Unlimited",
+    "FP Cost": "None",
+    "Range": "Mid",
+    "Element": "Water",
+    "Status": "None",
+    "FP Charge": "1",
+    "Set": "E"
+  },
+  "E45": {
+    "id": "E45",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rainbow Mask",
+        "type": "Action",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E45_Rainbow_Mask.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rainbow Mask",
+    "type": "Action",
+    "cost": "1",
+    "Action": "Tool",
+    "Trait": "None",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "E"
+  },
+  "E44": {
+    "id": "E44",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ankylo",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E44_Ankylo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ankylo",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "None",
+    "Trait": "Ankylo",
+    "Limitation": "Unlimited",
+    "FP Cost": "None",
+    "Range": "Mid",
+    "Element": "Water",
+    "Status": "Harden",
+    "FP Charge": "1",
+    "Set": "E"
+  },
+  "E43": {
+    "id": "E43",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Coelanth",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E43_Coelanth.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Coelanth",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "None",
+    "Trait": "Aquatic",
+    "Limitation": "Unlimited",
+    "FP Cost": "None",
+    "Range": "Mid",
+    "Element": "Fire",
+    "Status": "Enflame",
+    "FP Charge": "1",
+    "Set": "E"
+  },
+  "E42": {
+    "id": "E42",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cambrian Explosion",
+        "type": "Action",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E42_Cambrian_Explosion.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cambrian Explosion",
+    "type": "Action",
+    "cost": "2",
+    "Action": "Attack",
+    "Trait": "None",
+    "Limitation": "Unlimited",
+    "FP Cost": "2",
+    "Range": "None",
+    "Element": "None",
+    "Status": "None",
+    "FP Charge": "None",
+    "Set": "E"
   }
 }
