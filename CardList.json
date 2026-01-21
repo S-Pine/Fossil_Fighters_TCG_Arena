@@ -4842,7 +4842,7 @@
         "name": "Stygi",
         "type": "Vivosaur",
         "cost": "",
-        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/DECK/DECK01_Stygi.png",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/A/A52_Stygi.png",
         "isHorizontal": false
       }
     },
@@ -4867,7 +4867,7 @@
         "name": "Pachy",
         "type": "Vivosaur",
         "cost": "",
-        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/DECK/DECK02_Pachy.png",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/A/A51_Pachy.png",
         "isHorizontal": false
       }
     },
@@ -4917,7 +4917,7 @@
         "name": "Bea Ginner",
         "type": "Action",
         "cost": "1",
-        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/DECK/DECK04_Bea_Ginner.png",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/A/A54_Bea_Ginner.png",
         "isHorizontal": false
       }
     },
@@ -5142,7 +5142,7 @@
         "name": "Goyo",
         "type": "Vivosaur",
         "cost": "",
-        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/DECK/DECK03_Goyo.png",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/A/A53_Goyo.png",
         "isHorizontal": false
       }
     },
