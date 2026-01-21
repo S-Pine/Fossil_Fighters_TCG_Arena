@@ -4834,56 +4834,6 @@
     "Status": "Scare",
     "Set": "C"
   },
-  "A52": {
-    "id": "Deck01",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Stygi",
-        "type": "Vivosaur",
-        "cost": "",
-        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/A/A52_Stygi.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Stygi",
-    "type": "Vivosaur",
-    "cost": "",
-    "Action": "None",
-    "Trait": "Pachycephalo",
-    "Limitation": "Unlimited",
-    "FP Cost": "None",
-    "Element": "Fire",
-    "Range": "Mid",
-    "FP Charge": "1",
-    "Status": "None",
-    "Set": "A"
-  },
-  "A51": {
-    "id": "Deck02",
-    "isToken": false,
-    "face": {
-      "front": {
-        "name": "Pachy",
-        "type": "Vivosaur",
-        "cost": "",
-        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/A/A51_Pachy.png",
-        "isHorizontal": false
-      }
-    },
-    "name": "Pachy",
-    "type": "Vivosaur",
-    "cost": "",
-    "Action": "None",
-    "Trait": "Pachycephalo",
-    "Limitation": "Unlimited",
-    "FP Cost": "None",
-    "Element": "Earth",
-    "Range": "Mid",
-    "FP Charge": "1",
-    "Status": "None",
-    "Set": "A"
-  },
   "E47": {
     "id": "E47",
     "isToken": false,
@@ -5155,6 +5105,56 @@
     "FP Cost": "None",
     "Range": "Mid",
     "Element": "Air",
+    "Status": "None",
+    "FP Charge": "1",
+    "Set": "A"
+  },
+  "A51": {
+    "id": "A51",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Pachy",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/A/A51_Pachy.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Pachy",
+    "type": false,
+    "cost": "",
+    "Action": "None",
+    "Trait": "Pachycephalo",
+    "Limitation": "Unlimited",
+    "FP Cost": "None",
+    "Range": "Mid",
+    "Element": "Earth",
+    "Status": "None",
+    "FP Charge": "1",
+    "Set": "A"
+  },
+  "A52": {
+    "id": "A52",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Stygi",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/A/A52_Stygi.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Stygi",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "None",
+    "Trait": "Pachycephalo",
+    "Limitation": "Unlimited",
+    "FP Cost": "None",
+    "Range": "Mid",
+    "Element": "Fire",
     "Status": "None",
     "FP Charge": "1",
     "Set": "A"
