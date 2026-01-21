@@ -4834,7 +4834,7 @@
     "Status": "Scare",
     "Set": "C"
   },
-  "Deck01": {
+  "A52": {
     "id": "Deck01",
     "isToken": false,
     "face": {
@@ -4842,7 +4842,7 @@
         "name": "Stygi",
         "type": "Vivosaur",
         "cost": "",
-        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/A/A52_Stygi.png",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/A/A53_Goyo.png",
         "isHorizontal": false
       }
     },
@@ -4859,7 +4859,7 @@
     "Status": "None",
     "Set": "A"
   },
-  "Deck02": {
+  "A51": {
     "id": "Deck02",
     "isToken": false,
     "face": {
@@ -5149,7 +5149,7 @@
     "name": "Goyo",
     "type": "Vivosaur",
     "cost": "",
-    "Action": "",
+    "Action": "None",
     "Trait": "Pachycephalo",
     "Limitation": "Unlimited",
     "FP Cost": "None",
