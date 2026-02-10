@@ -5158,5 +5158,130 @@
     "Status": "None",
     "FP Charge": "1",
     "Set": "A"
+  },
+  "T12": {
+    "id": "T12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FP Card - Dino",
+        "type": "FP Card",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/TOKEN/T_FP_Dino.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "FP Card - Dino",
+    "type": "FP Card",
+    "cost": "",
+    "Action": "",
+    "Trait": "",
+    "Limitation": "",
+    "FP Cost": "",
+    "Range": "",
+    "Element": "",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": ""
+  },
+  "T13": {
+    "id": "T13",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FP Card - Dina",
+        "type": "FP Card",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/TOKEN/T_FP_Dina.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "FP Card - Dina",
+    "type": "FP Card",
+    "cost": "",
+    "Action": "",
+    "Trait": "",
+    "Limitation": "",
+    "FP Cost": "",
+    "Range": "",
+    "Element": "",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": ""
+  },
+  "T14": {
+    "id": "T14",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FP Card - Todd",
+        "type": "FP Card",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/TOKEN/T_FP_Todd.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "FP Card - Todd",
+    "type": "FP Card",
+    "cost": "",
+    "Action": "",
+    "Trait": "",
+    "Limitation": "",
+    "FP Cost": "",
+    "Range": "",
+    "Element": "",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": ""
+  },
+  "T15": {
+    "id": "T15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FP Card - Rupert",
+        "type": "FP Card",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/TOKEN/T_FP_Rupert.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "FP Card - Rupert",
+    "type": "FP Card",
+    "cost": "",
+    "Action": "",
+    "Trait": "",
+    "Limitation": "",
+    "FP Cost": "",
+    "Range": "",
+    "Element": "",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": ""
+  },
+  "T16": {
+    "id": "T16",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FP Card - Pauleen",
+        "type": "FP Card",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/TOKEN/T_FP_Pauleen.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "FP Card - Pauleen",
+    "type": "FP Card",
+    "cost": "",
+    "Action": "",
+    "Trait": "",
+    "Limitation": "",
+    "FP Cost": "",
+    "Range": "",
+    "Element": "",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": ""
   }
 }
