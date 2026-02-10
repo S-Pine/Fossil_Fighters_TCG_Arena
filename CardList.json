@@ -5283,5 +5283,30 @@
     "Status": "",
     "FP Charge": "1",
     "Set": ""
+  },
+  "T17": {
+    "id": "T17",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "FP Card - KL33N",
+        "type": "FP Card",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/TOKEN/T_FP_KL_33N.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "FP Card - KL33N",
+    "type": "FP Card",
+    "cost": "",
+    "Action": "",
+    "Trait": "",
+    "Limitation": "",
+    "FP Cost": "",
+    "Range": "",
+    "Element": "",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": ""
   }
 }
