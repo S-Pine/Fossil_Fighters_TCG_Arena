@@ -5308,5 +5308,380 @@
     "Status": "",
     "FP Charge": "1",
     "Set": ""
+  },
+  "E31": {
+    "id": "E31",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Nycto",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E31_Nycto.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Nycto",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Pterosaur",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "Long",
+    "Element": "Air",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": "E"
+  },
+  "E32": {
+    "id": "E32",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sungari",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E32_Sungari.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sungari",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Pterosaur",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "Long",
+    "Element": "Fire",
+    "Status": "Enrage",
+    "FP Charge": "1",
+    "Set": "E"
+  },
+  "E12": {
+    "id": "E12",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dimorph Ace",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E12_Dimorph_Ace.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dimorph Ace",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Super Evolver",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "Long",
+    "Element": "Fire",
+    "Status": "Enrage",
+    "FP Charge": "",
+    "Set": "E"
+  },
+  "E56": {
+    "id": "E56",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Sungari Scorcher",
+        "type": "Action",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E56_Sungari_Scorcher.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Sungari Scorcher",
+    "type": "Action",
+    "cost": "3",
+    "Action": "Team",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "3",
+    "Range": "",
+    "Element": "",
+    "Status": "",
+    "FP Charge": "",
+    "Set": "E"
+  },
+  "E46": {
+    "id": "E46",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Rainbow Canyon",
+        "type": "Action",
+        "cost": "3",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E46_Rainbow_Canyon.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Rainbow Canyon",
+    "type": "Action",
+    "cost": "3",
+    "Action": "Arena",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "3",
+    "Range": "",
+    "Element": "",
+    "Status": "",
+    "FP Charge": "",
+    "Set": "E"
+  },
+  "E39": {
+    "id": "E39",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Krona-Gale",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E39_Krona_Gale.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Krona-Gale",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Aquatic, Altered",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "Long",
+    "Element": "Air",
+    "Status": "",
+    "FP Charge": "2",
+    "Set": "E"
+  },
+  "E40": {
+    "id": "E40",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shoni-Magma",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E40_Shoni_Magma.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shoni-Magma",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Aquatic, Altered",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "Close",
+    "Element": "Fire",
+    "Status": "",
+    "FP Charge": "2",
+    "Set": "E"
+  },
+  "E41": {
+    "id": "E41",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Dunkle-Aqua",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E41_Dunkle_Aqua.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Dunkle-Aqua",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Aquatic. Altered",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "Mid",
+    "Element": "Water",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": "E"
+  },
+  "E38": {
+    "id": "E38",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Elasmo-Geo",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E38_Elasmo_Geo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Elasmo-Geo",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Aquatic, Altered",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "Mid",
+    "Element": "Earth",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": "E"
+  },
+  "E53": {
+    "id": "E53",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Kaishin",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "http://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E53_Kaishin.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Kaishin",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Super Evolver",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "Mid",
+    "Element": "Water",
+    "Status": "Enrage",
+    "FP Charge": "",
+    "Set": "E"
+  },
+  "E51": {
+    "id": "E51",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Captain Woolbeard",
+        "type": "Action",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E51_Captain_Woolbeard.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Captain Woolbeard",
+    "type": "Action",
+    "cost": "2",
+    "Action": "Support",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "2",
+    "Range": "",
+    "Element": "",
+    "Status": "",
+    "FP Charge": "",
+    "Set": "E"
+  },
+  "E52": {
+    "id": "E52",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Shark Dentures",
+        "type": "Action",
+        "cost": "1",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E52_Shark_Dentures.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Shark Dentures",
+    "type": "Action",
+    "cost": "1",
+    "Action": "Tool",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "1",
+    "Range": "",
+    "Element": "",
+    "Status": "",
+    "FP Charge": "",
+    "Set": "E"
+  },
+  "E02": {
+    "id": "E02",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Delta",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E02_Delta.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Delta",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "S-Theropod",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "Close",
+    "Element": "Water",
+    "Status": "Confuse",
+    "FP Charge": "1",
+    "Set": "E"
+  },
+  "E16": {
+    "id": "E16",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Gomp",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E16_Gomp.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Gomp",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Mammal",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "Mid",
+    "Element": "Water",
+    "Status": "Sleep",
+    "FP Charge": "1",
+    "Set": "E"
+  },
+  "E15": {
+    "id": "E15",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Ilium Stadium",
+        "type": "Action",
+        "cost": "2",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E15_Ilium_Stadium.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Ilium Stadium",
+    "type": "Action",
+    "cost": "2",
+    "Action": "Arena",
+    "Trait": "",
+    "Limitation": "Unlimited",
+    "FP Cost": "2",
+    "Range": "",
+    "Element": "",
+    "Status": "",
+    "FP Charge": "",
+    "Set": "E"
   }
 }
