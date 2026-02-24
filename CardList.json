@@ -5683,5 +5683,55 @@
     "Status": "",
     "FP Charge": "",
     "Set": "E"
+  },
+  "E22": {
+    "id": "E22",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Megadon",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E22_Megadon.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Megadon",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Aquatic",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "Mid",
+    "Element": "Water",
+    "Status": "Scare",
+    "FP Charge": "1",
+    "Set": "E"
+  },
+  "E20": {
+    "id": "E20",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Mapo",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E20_Mapo.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Mapo",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "",
+    "Trait": "Tyranno",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "Close",
+    "Element": "Water",
+    "Status": "Enrage",
+    "FP Charge": "2",
+    "Set": "E"
   }
 }
