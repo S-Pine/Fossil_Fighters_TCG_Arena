@@ -5833,5 +5833,80 @@
     "Status": "Sleep",
     "FP Charge": "",
     "Set": "E"
+  },
+  "E19": {
+    "id": "E19",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Lagia",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E19_Lagia.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Lagia",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "None",
+    "Trait": "Raptor",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "Mid",
+    "Element": "Fire",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": "E"
+  },
+  "E23": {
+    "id": "E23",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "E-Raptor",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E23_E_raptor.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "E-Raptor",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "None",
+    "Trait": "Raptor",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "Mid",
+    "Element": "Neutral",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": "E"
+  },
+  "E33": {
+    "id": "E33",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Compso",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E33_Compso.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Compso",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "None",
+    "Trait": "S-Theropod",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "Mid",
+    "Element": "Earth",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": "E"
   }
 }
