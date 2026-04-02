@@ -5908,5 +5908,80 @@
     "Status": "",
     "FP Charge": "1",
     "Set": "E"
+  },
+  "E36": {
+    "id": "E36",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Orno",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E36_Orno.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Orno",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "None",
+    "Trait": "Bird",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "Mid",
+    "Element": "Neutral",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": "E"
+  },
+  "E54": {
+    "id": "E54",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "Cheirus",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E54_Cheirus.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "Cheirus",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "None",
+    "Trait": "Bird",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "Mid",
+    "Element": "Air",
+    "Status": "",
+    "FP Charge": "1",
+    "Set": "E"
+  },
+  "E37": {
+    "id": "E37",
+    "isToken": false,
+    "face": {
+      "front": {
+        "name": "O-Raptor Fiend",
+        "type": "Vivosaur",
+        "cost": "",
+        "image": "https://raw.githubusercontent.com/SleepySalada/Fossil_Fighters_TCG_Arena/refs/heads/main/FossilFighterTCG_Cardpool/E/E37_O_Raptor_Fiend.png",
+        "isHorizontal": false
+      }
+    },
+    "name": "O-Raptor Fiend",
+    "type": "Vivosaur",
+    "cost": "",
+    "Action": "None",
+    "Trait": "Super Evolver",
+    "Limitation": "Unlimited",
+    "FP Cost": "",
+    "Range": "Mid",
+    "Element": "Neutral",
+    "Status": "",
+    "FP Charge": "",
+    "Set": "E"
   }
 }
