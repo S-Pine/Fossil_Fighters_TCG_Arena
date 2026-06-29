@@ -43,7 +43,11 @@
         "startingHandSize": "4",
         "drawNewHand": false,
         "putSelectionAtBottom": false,
-        "drawNewSelectedCards": false
+        "drawNewSelectedCards": false,
+        "mulliganCount": {
+          "min":0,
+          "max":0
+        }
       },
       "beforeGameStart": {
         "boardCardSelection": [
