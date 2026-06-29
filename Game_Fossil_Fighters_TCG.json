@@ -36,18 +36,25 @@
       }
     ],
     "deckRulesets": {
-      "deckRulesets":"Classic",
-      "reversedLegality":true,
+      "deckRulesets": "Classic",
+      "reversedLegality": true,
       "Classic": {
         "checkCardLegality": true,
         "general": {
-          "min": 40,
-          "max": 40,
+          "min": 50,
+          "max": 50,
           "maxPerCard": 3
-        }
+        },
+        "categories": [
+          {
+            "category": "FP Deck",
+            "min": 10,
+            "max": 10,
+            "maxPerCard": 10
+          }
+        ]
       }
     }
-
   },
   "gameplay": {
     "Classic": {
@@ -58,18 +65,18 @@
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false,
         "mulliganCount": {
-          "max":0
+          "max": 0
         }
       },
       "beforeGameStart": {
         "boardCardSelection": [
           {
-            "category": "Vivosaur",
+            "category": "FP Deck",
             "min": 1,
             "max": 1,
             "destination": "Starter_Vivosaur_Zone_1",
-            "overrideState":{
-              "hidden":"yes"
+            "overrideState": {
+              "hidden": "yes"
             }
           }
         ],
@@ -197,12 +204,12 @@
           "FP Deck->FP_Deck"
         ],
         "autoPlayFromHand": {
-          "Action":"Stack"
+          "Action": "Stack"
         },
         "autoPlayFromStack": {
           "Action": "Discard",
-          "Vivosaur":"Discard",
-          "FP Card":"FP_Deck"
+          "Vivosaur": "Discard",
+          "FP Card": "FP_Deck"
         },
         "sectionsDict": {
           "Hand": {
