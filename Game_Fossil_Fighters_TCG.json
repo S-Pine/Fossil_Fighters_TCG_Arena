@@ -37,6 +37,7 @@
     ],
     "deckRulesets": {
       "deckRulesets":"Classic",
+      "reversedLegality":true,
       "Standard": {
         "checkCardLegality": true,
         "general": {
@@ -194,7 +195,9 @@
         ],
         "autoPlayFromHand": {},
         "autoPlayFromStack": {
-          "Action": "Discard"
+          "Action": "Discard",
+          "Vivosaur":"Discard",
+          "FP Card":"FP_Deck"
         },
         "sectionsDict": {
           "Hand": {
