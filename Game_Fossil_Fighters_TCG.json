@@ -34,7 +34,19 @@
           "FP Deck"
         ]
       }
-    ]
+    ],
+    "deckRulesets": {
+      "deckRulesets":"Classic",
+      "Standard": {
+        "checkCardLegality": true,
+        "general": {
+          "min": 40,
+          "max": 40,
+          "maxPerCard": 3
+        }
+      }
+    }
+
   },
   "gameplay": {
     "Classic": {
@@ -45,7 +57,6 @@
         "putSelectionAtBottom": false,
         "drawNewSelectedCards": false,
         "mulliganCount": {
-          "min":0,
           "max":0
         }
       },
