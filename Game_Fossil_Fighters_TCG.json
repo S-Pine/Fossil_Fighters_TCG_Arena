@@ -34,7 +34,17 @@
           "FP Deck"
         ]
       }
-    ]
+    ],
+    "deckRulesets": {
+      "Standard": {
+        "checkCardLegality": true,
+        "general": {
+          "min": 40,
+          "max": 40,
+          "maxPerCard": 3
+        }
+      }
+    }
   },
   "gameplay": {
     "Classic": {
@@ -57,6 +67,20 @@
         0,
         "0"
       ],
+      "startingHandSize":4,
+      "beforeGameStart": {
+        "boardCardSelection": [
+          {
+            "category": "Deck",
+            "min": 1,
+            "max": 1,
+            "destination": "Starter_Vivosaur_Zone_1",
+            "overrideState": {
+              "isHidden": "yes"
+            }
+          }
+        ]
+      },
       "hideFacedDownCards": false,
       "sections": {
         "customSections": [
@@ -391,21 +415,5 @@
         }
       }
     }
-  },
-  "beforeGameStart": {
-  "boardCategoriesInSideboard": [
-    "CATEGORY1", "CATEGORY2"
-  ],
-  "boardCardSelection": [
-    {
-      "category": "Deck",
-      "min": 1,
-      "max": 1,
-      "destination": "Starter_Vivosaur_Zone_1",
-      "overrideState": {
-          "isHidden": "yes"
-      }
-    }
-  ]
-}
+  }
 }
