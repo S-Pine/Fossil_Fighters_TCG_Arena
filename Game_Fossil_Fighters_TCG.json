@@ -391,5 +391,21 @@
         }
       }
     }
-  }
+  },
+  "beforeGameStart": {
+  "boardCategoriesInSideboard": [
+    "CATEGORY1", "CATEGORY2"
+  ],
+  "boardCardSelection": [
+    {
+      "category": "Deck",
+      "min": 1,
+      "max": 1,
+      "destination": "Starter_Vivosaur_Zone_1",
+      "overrideState": {
+          "isHidden": "yes"
+      }
+    }
+  ]
+}
 }
