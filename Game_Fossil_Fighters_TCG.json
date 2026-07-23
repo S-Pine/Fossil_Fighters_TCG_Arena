@@ -51,6 +51,11 @@
             "min": 10,
             "max": 10,
             "maxPerCard": 10
+          },
+          {
+            "category":"Starter",
+            "min":1,
+            "max":1
           }
         ]
       }
@@ -69,16 +74,8 @@
         }
       },
       "beforeGameStart": {
-        "boardCardSelection": [
-          {
-            "category": "FP Deck",
-            "min": 1,
-            "max": 1,
-            "destination": "Starter_Vivosaur_Zone_1",
-            "overrideState": {
-              "hidden": "yes"
-            }
-          }
+        "boardCategoriesInSideBoard":[
+            "Starter"
         ],
         "chooseAnotherStartingPlayer": true
       },
@@ -201,10 +198,12 @@
           ]
         },
         "categoriesAlreadyOnBoard": [
-          "FP Deck->FP_Deck"
+          "FP Deck->FP_Deck",
+          "Starter->Starter_Vivosaur_Zone_1"
         ],
         "autoPlayFromHand": {
-          "Action": "Stack"
+          "Action": "Stack",
+          "FP Card": "FP_Zone"
         },
         "autoPlayFromStack": {
           "Action": "Discard",
