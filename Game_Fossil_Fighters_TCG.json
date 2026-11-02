@@ -152,12 +152,6 @@
                   "style": false,
                   "content": [
                     {
-                      "section": "Vivosaur_Zone_1",
-                      "style": {
-                        "marginRight": "4vh"
-                      }
-                    },
-                    {
                       "section": "Starter_Vivosaur_Zone_1",
                       "style": {
                         "marginRight": "4vh"
@@ -179,8 +173,7 @@
                       "style": false
                     },
                     {
-                      "section":"Eventor",
-                      "style":false
+                      "section":"Eventor"
                     }
                   ],
                   "isSymetricalForOpponents": false
