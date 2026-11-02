@@ -429,12 +429,18 @@
             "isGroupForbidden": false,
             "keepTappedNewTurn": false,
             "showHiddenCardInHistory": false
+          },
+          "Eventor":{
+            "type":"custom",
+            "blueprint":{
+              "type":"div"
+            },
+            "events":{
+              "onStart":"for(let i=0;i<10;i++) await functions.createCard('T01', 'FP_Deck')",
+              "onNewTurn":  "if(game.isMyTurn) await functions.moveCards(cards._FP_Deck.slice(0,3), game.data.FP_Zone)"
+            }
           }
         }
-      },
-      "events":{
-        "onStart":"for(let i=0;i<10;i++) functions.createCard('T01', 'FP_Deck')",
-        "onNewTurn":  "if(game.isMyTurn) await functions.moveCards(cards._FP_Deck.slice(0,3), game.data.FP_Zone)"
       }
     }
   }
