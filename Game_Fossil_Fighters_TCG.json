@@ -177,6 +177,10 @@
                     {
                       "section": "FP_Zone",
                       "style": false
+                    },
+                    {
+                      "section":"Eventor",
+                      "style":false
                     }
                   ],
                   "isSymetricalForOpponents": false
